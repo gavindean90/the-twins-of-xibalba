@@ -17,9 +17,9 @@ And golden sunlight fell between
 The leaves that clothed the valley's sheen,  
 Two brothers walked, as yet unseen  
 By all the kings of Xibalba.  
-Their father's blood was in their veins,  
-Their father's grief among their pains,  
-And far below, in dark domains,  
+Their father and his brother, slain,  
+Still cried for justice in each vein,  
+While far below, in dark domain,  
 There stirred the lords of Xibalba.
 
 Upon the court the ball was cast,  
@@ -38,7 +38,7 @@ The messengers their journey made,
 And found the brothers undismayed  
 Before the gates of Xibalba.  
 They spoke the summons of the throne,  
-Of trials cruel and terrors known,  
+Of trials hard and terrors known,  
 And warned that none returned alone  
 Who entered dark Xibalba.
 
@@ -47,10 +47,20 @@ Looked toward the mountains standing high,
 Where clouds concealed the distant sky,  
 And heard his brother's soft reply:  
 “We go to meet Xibalba.”  
-No sword they took, no shield they bore,  
+No sword they took, no shield they wore,  
 But wisdom gathered long before,  
-And turned their footsteps toward the door  
-That opened on Xibalba.
+And blowguns hidden by the door  
+Would go with them to Xibalba.
+
+Before they took the downward way,  
+Two canes they planted in the clay,  
+And told Xmucane where they lay:  
+“By these you'll know our fate each day  
+While we are gone to Xibalba.  
+If dry, then death has closed its door;  
+If green, we live and strive once more.”  
+They took the blowguns that they bore  
+And journeyed toward Xibalba.
 
 ---
 

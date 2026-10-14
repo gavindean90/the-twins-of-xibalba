@@ -14,15 +14,15 @@ A soul from dark Xibalba.
 
 He called the creatures of the wood,  
 Who came before him where he stood,  
-And bade them bring him each their food,  
+And bade them offer what they could,  
 That he might turn their gifts to good  
 Against the kings of Xibalba.  
 The forest stirred with foot and wing,  
-And each approached with offering,  
+And each came forth with what to bring,  
 Yet none had brought the needful thing  
 To conquer death in Xibalba.
 
-Then came the coati, small and brown,  
+A coati came, small and brown,  
 Who rolled a squash before him down,  
 As round and smooth as any crown  
 That ever graced a king's renown  
@@ -74,7 +74,7 @@ Above the courts of Xibalba.
 
 Then Hunahpu, with fearless eye,  
 Looked on the head suspended high,  
-And heard the kings their victory cry,  
+And heard the kings their triumph cry,  
 Yet gave no grief and breathed no sigh  
 Before the thrones of Xibalba.  
 “Come, strike the ball, and let us play!  
@@ -87,35 +87,35 @@ And Xbalanque returned the ball,
 And sent it flying past them all,  
 Beyond the court's enclosing wall,  
 Among the fields of Xibalba.  
-It struck the earth, and bounded twice,  
-Beyond the lords of cruel device,  
-Who thought to seize their stolen prize  
-And triumph in Xibalba.
+It struck the earth and bounded wide,  
+Beyond the lords in all their pride,  
+Who thought to seize their prize outside  
+And claim it there in Xibalba.
 
-Then from the leaves a rabbit sprang,  
-And through the garden swiftly sprang,  
-While all the court with shouting rang,  
-And every lord in anger sang  
-The hunting cries of Xibalba.  
+Then from the leaves a rabbit leapt,  
+And through the garden swiftly swept;  
+The lords forgot the watch they kept,  
+And from the court in fury stepped  
+And chased it through all Xibalba.  
 They chased it down the winding way,  
 Past stones that knew no light of day,  
 And left the brothers free to stay  
 Upon the courts of Xibalba.
 
 Then Xbalanque, with nimble hand,  
-Removed the head from where it spanned  
-The court, and by his brother's stand,  
-Restored what death had dared command  
-To perish in Xibalba.  
+Brought down the head above the stand,  
+And wrought the healing they had planned  
+Beyond the reach of death's command  
+Before the courts of Xibalba.  
 And Hunahpu beheld the light,  
 And knew his brother stood aright,  
 And laughed aloud at death's despite  
 Within the courts of Xibalba.
 
-The borrowed head was taken down,  
-And rolled upon the earthen ground,  
-And there, while death's bewildered crown  
-Came marching back with angry frown  
+The borrowed head rolled on the ground,  
+And there it lay without a sound,  
+While all the kings came back around,  
+And angry voices gathered round  
 To claim the courts of Xibalba,  
 The brothers stood as once before,  
 And challenged death to play once more,  
@@ -139,7 +139,7 @@ Than all the arts their courts designed
 To rule the souls of Xibalba.  
 No word was spoken from the throne,  
 No boast of victory was known,  
-But every lord in silence shown  
+And every lord stood still as stone  
 The wounded pride of Xibalba.
 
 Yet One Death watched with burning hate,  
@@ -167,7 +167,7 @@ And Xbalanque had guessed the game,
 And both perceived the kings would claim  
 By fire what none could win through shame  
 Within the courts of Xibalba.  
-They sought two seers, old and wise,  
+They sought two seers, both old and wise,  
 Who read the stars with clouded eyes,  
 And knew what forms might yet arise  
 Beyond the death of Xibalba.

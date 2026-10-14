@@ -5,7 +5,7 @@
 The dawn crept pale across the floor,  
 The kings assembled there once more,  
 And bade the twins approach the door,  
-Where once their fathers played before  
+Where sire and uncle played before  
 Within the courts of Xibalba.  
 The rubber ball rose black and high,  
 And beat against the hollow sky,  
@@ -37,7 +37,7 @@ Where knives flew wheeling through the night,
 And every edge was keen to bite,  
 And none had lived to greet the light  
 Who slept within Xibalba.  
-Yet Xbalanque bade their fury stay,  
+Xbalanque bade their fury stay,  
 And promised flesh another day,  
 And all their edges turned away  
 Within the halls of Xibalba.
@@ -132,7 +132,7 @@ The stone beneath was stained with red,
 And Hunahpu lay with the dead  
 Before the dawn in Xibalba.
 
-The lords looked down with cruel delight,  
+The lords looked down in dark delight,  
 And bade the torchless court be bright,  
 For there the head was raised in sight,  
 A trophy of the dreadful night  
