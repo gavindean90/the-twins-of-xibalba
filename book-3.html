@@ -9,6 +9,15 @@
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <script>
+    (function() {
+      try {
+        if (localStorage.getItem('theme') === 'paper') {
+          document.documentElement.setAttribute('data-theme', 'paper');
+        }
+      } catch(e) {}
+    })();
+  </script>
 </head>
 <body>
   <header>
@@ -16,7 +25,13 @@
       <img src="gate.svg" alt="" class="brand-icon" width="22" height="28">
       <span>THE TWINS OF XIBALBA</span>
     </a>
-    <a href="index.html">All seven books</a>
+    <div class="header-actions">
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle paper mode" title="Switch between Night and Paper mode">
+        <span class="theme-toggle-icon">📜</span>
+        <span class="theme-toggle-label">Paper</span>
+      </button>
+      <a href="index.html" class="header-link">All seven books</a>
+    </div>
   </header>
   
   <main class="wrap">
@@ -163,5 +178,6 @@ Beyond the death of Xibalba.</p>
   </main>
   
   <footer>THE TWINS OF XIBALBA</footer>
+  <script src="script.js"></script>
 </body>
 </html>
