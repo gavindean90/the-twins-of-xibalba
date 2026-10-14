@@ -105,12 +105,12 @@ Within the depths of Xibalba.
 They entered where no candles shone,  
 Where shrieking wings had made their own  
 A kingdom carved from living stone,  
-And neither brother stood alone  
+And each faint breath was heard and known  
 Among the bats of Xibalba.  
-Within their blowguns safe they lay,  
-And hid from wings that sought their prey,  
-And watched the hours waste away  
-Within the dark of Xibalba.
+They spoke a charm the hunters knew,  
+And each carved blowgun wider grew,  
+Till both crawled in and passed from view,  
+Concealed from death in Xibalba.
 
 The hours passed without a sound,  
 The wings grew still, the shadows drowned  

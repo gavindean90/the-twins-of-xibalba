@@ -242,26 +242,6 @@ And silver flowed about his hair,
 As softly through the evening air  
 He watched the earth and Xibalba.
 
-And from the dark a thousand gleams  
-Appeared like sparks upon the streams,  
-As though the heavens dreamed the dreams  
-Of those who slept beneath the beams  
-Beyond the depths of Xibalba.  
-Four hundred youths of ancient days,  
-Avenged beneath the mountain's gaze,  
-Arose to fill the starry ways  
-Above the courts of Xibalba.
-
-The stars were scattered far and wide,  
-And shone upon the ocean tide,  
-And watched the moon in silver glide,  
-While heaven marked the fall of pride  
-Beyond the courts of Xibalba.  
-Their lights were small, their numbers great,  
-And none had power to close their gate,  
-Or bind them to the mortal fate  
-Once ruled by kings of Xibalba.
-
 Then all the world was clothed in light,  
 By golden day and silver night,  
 And heaven wheeled beyond the sight  
