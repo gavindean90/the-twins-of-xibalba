@@ -1,0 +1,417 @@
+# The Twins of Xibalba
+
+## Book VI — The Fall of the Lords of Death
+
+Within the hall of carven stone,  
+The lords sat high on seats of bone,  
+And summoned to their awful throne  
+Two wanderers, poor and all unknown,  
+Before the kings of Xibalba.  
+They stood beneath the torches bright,  
+Their faces hidden from the light,  
+And none foresaw the coming night  
+That waited there in Xibalba.
+
+The brothers danced upon the clay,  
+And sang the ancient hours away,  
+Till One Death bade their music stay,  
+And brought a hound before them, gray,  
+Within the courts of Xibalba.  
+They struck it down upon the floor,  
+Where life had filled its limbs before,  
+Then bade it rise and live once more  
+Before the thrones of Xibalba.
+
+The creature leapt upon its feet,  
+And bounded through the crowded street,  
+As though no death had been to meet,  
+Nor mortal wound its heart to beat  
+Within the halls of Xibalba.  
+The kings arose with wild delight,  
+And cried to see another sight,  
+That life might triumph over night  
+Before the thrones of Xibalba.
+
+Then Xbalanque approached the wall,  
+And bade the servants leave the hall,  
+And set the rafters, great and tall,  
+Ablaze before the eyes of all  
+The mighty kings of Xibalba.  
+The flames arose in tongues of red,  
+And through the vaulted ceiling spread,  
+Till roof and timber fell like lead  
+Upon the floors of Xibalba.
+
+The pillars cracked, the chambers glowed,  
+And fiery rivers downward flowed,  
+Till nothing of the palace showed  
+But ashes where its masters strode  
+Among the halls of Xibalba.  
+Then Hunahpu upraised his hand,  
+And spoke a word of stern command,  
+And all the palace rose to stand  
+Before the kings of Xibalba.
+
+The walls returned, the rafters grew,  
+The golden lamps their places knew,  
+And every painted stone withdrew  
+Its scars, and shone as though brand-new  
+Within the courts of Xibalba.  
+The kings cried out with one accord,  
+And praised the wonders they adored,  
+Till One Death rose, their eldest lord,  
+Upon the throne of Xibalba.
+
+“Have ye no greater art to show?  
+No deeper mystery to know?  
+Can ye command the blood to flow,  
+And bid the fallen rise below  
+The ancient roofs of Xibalba?  
+For we have seen the burning flame,  
+And beasts restored from whence they came;  
+But men are worthier of fame  
+Before the kings of Xibalba.”
+
+Then Xbalanque drew forth a blade,  
+And Hunahpu before him stayed,  
+And neither trembled nor delayed  
+To show the wonder death had made  
+Within the courts of Xibalba.  
+The blade descended, keen and bright,  
+And struck his brother from the light,  
+Till all the kings beheld the sight  
+With wonder in Xibalba.
+
+He severed limb from living limb,  
+And all the torches flickered dim,  
+And every watching face grew grim  
+As death descended over him  
+Before the thrones of Xibalba.  
+His heart was taken from his breast,  
+His head beside his body pressed,  
+And Hunahpu lay still at rest  
+Upon the stones of Xibalba.
+
+Then Xbalanque began to sing,  
+And danced within the charmed ring,  
+And called upon the hidden spring  
+From which the breath of life might bring  
+Its blessing down to Xibalba.  
+The scattered members stirred anew,  
+The severed head its features drew,  
+And through the veins the warm blood flew  
+Before the kings of Xibalba.
+
+Then Hunahpu arose once more,  
+And stood upon the palace floor,  
+As living as he stood before,  
+And laughed before the open door  
+Of death within Xibalba.  
+The brothers joined their hands in dance,  
+And all the kings were in a trance,  
+As life itself appeared to glance  
+With mockery at Xibalba.
+
+The lords forgot their ancient pride,  
+Forgot the hosts their terrors tried,  
+And crowded to the brothers' side,  
+Their eager longing undisguised  
+Before the thrones of Xibalba.  
+For death had ruled the world below,  
+Yet never learned the way to go  
+Beyond the grave, and rise to show  
+New life in dark Xibalba.
+
+Then One Death rose and gave a cry,  
+And raised his golden scepter high,  
+“Let me beneath your weapons lie,  
+And from the dead return, as  
+I Command the souls of Xibalba!  
+For if a mortal may be slain,  
+And rise to greet the world again,  
+Then surely kings may break the chain  
+That binds the dead of Xibalba!”
+
+And Seven Death beside him rose,  
+And cast aside his jeweled clothes,  
+And cried, “Let all the kingdom know  
+That we shall die and rise to show  
+The sovereign might of Xibalba!  
+Come, strike us down, and raise us then,  
+That all may see the kings again,  
+And death be master over men  
+Throughout the lands of Xibalba!”
+
+The brothers bowed before the throne,  
+And spoke in voices soft and low,  
+Of arts that death had never known,  
+And seeds that must be deeply sown  
+Before they bloom in Xibalba.  
+Then Hunahpu drew forth the blade,  
+And Xbalanque the circle made,  
+And none among the kings was afraid  
+Within the halls of Xibalba.
+
+Then One Death laid his scepter down,  
+And cast aside his golden crown,  
+And smiled upon the gathered town,  
+As though immortal his renown  
+Throughout the lands of Xibalba.  
+He stretched himself upon the stone,  
+And bade them make his wonder known,  
+And all the lords approached the throne  
+To watch the king of Xibalba.
+
+The blade descended swift and deep,  
+And One Death sank to endless sleep;  
+No cry arose, no soul did weep,  
+For all believed that he would leap  
+Again to rule in Xibalba.  
+His blood ran dark upon the stone,  
+His crown lay fallen from the throne,  
+And silence filled the courts alone  
+Beneath the halls of Xibalba.
+
+The brothers stood beside the dead,  
+And neither spoke, nor bowed his head,  
+Nor called the spirit that had fled  
+To rise and walk where once it tread  
+Before the kings of Xibalba.  
+The moments passed, the torches burned,  
+The waiting lords their faces turned,  
+And One Death neither moved nor stirred  
+Upon the stones of Xibalba.
+
+Then Seven Death arose in fear,  
+And cried, “What dreadful thing is here?  
+Why does my brother not appear?  
+Why does his voice no longer cheer  
+The gathered lords of Xibalba?”  
+But Hunahpu approached him slow,  
+And spoke of things he did not know,  
+And bade the trembling monarch go  
+Before the thrones of Xibalba.
+
+The king drew back, his courage fled,  
+And stared upon the royal dead,  
+And all the words he might have said  
+Were silenced by the rising dread  
+That filled the halls of Xibalba.  
+He begged the brothers spare his breath,  
+And cried that he had feared no death,  
+Till now he saw the shadow's breadth  
+Before his throne in Xibalba.
+
+But Xbalanque approached the throne,  
+And took the lord who stood alone,  
+And laid him where the blood had flown  
+From One Death, cold upon the stone,  
+Before the kings of Xibalba.  
+The blade arose, the blade was cast,  
+And Seven Death breathed forth his last,  
+And all his vaunted power passed  
+Into the dust of Xibalba.
+
+No song arose, no dance was made,  
+No hand restored the fallen blade,  
+And neither brother seemed afraid  
+Of what their hands had now unmade  
+Before the thrones of Xibalba.  
+The two great kings lay side by side,  
+Their golden robes with blood were dyed,  
+And all the lesser lords who cried  
+Fled screaming through Xibalba.
+
+Through vaulted halls the terror spread,  
+And every servant bowed his head,  
+And all who once commanded dread  
+Now fled before the nameless dead  
+Who conquered kings in Xibalba.  
+They ran beyond the palace wall,  
+They stumbled where the shadows fall,  
+And heard the brothers' voices call  
+Across the lands of Xibalba.
+
+They crowded in the cavern deep,  
+Where ancient rivers downward sweep,  
+And piled like flocks of frightened sheep  
+Upon the rocks, where none could creep  
+Beyond the bounds of Xibalba.  
+Then from the cracks the ants arose,  
+And swarmed about their trembling toes,  
+And barred the path by which they chose  
+To flee the wrath of Xibalba.
+
+The lords fell weeping to the ground,  
+And cried for mercy all around,  
+For never had the mighty found  
+Their pride so utterly unbound  
+Within the courts of Xibalba.  
+They tore their robes and bowed their heads,  
+And cursed the thrones where once they led,  
+And wished themselves among the dead  
+Who slept beneath Xibalba.
+
+Then Hunahpu stepped forth in light,  
+And Xbalanque stood at his right,  
+And both were clothed in splendor bright,  
+No longer beggars of the night  
+Who wandered through Xibalba.  
+The rags fell from their shoulders bare,  
+And jeweled feathers crowned their hair,  
+And all the kings beheld them there  
+As masters of Xibalba.
+
+“Behold us now, ye lords of stone,  
+Who sit upon the stolen throne,  
+And think that death is yours alone,  
+And all beneath the earth your own  
+By ancient right in Xibalba!  
+We are the sons of him ye slew,  
+Whose blood upon your altars flew,  
+And now the reckoning comes due  
+Before the kings of Xibalba.”
+
+Then Hunahpu with steady eye  
+Looked on the kings who dared not rise,  
+And spoke beneath the vaulted sky  
+Of ancient blood and treachery  
+Within the courts of Xibalba.  
+“One Hunahpu, our father, came,  
+And Seven Hunahpu the same,  
+And both were caught within your game  
+And murdered here in Xibalba.”
+
+“Ye summoned them with honeyed tongue,  
+And praised the songs their courage sung,  
+Yet all your snares were closely strung  
+To slay the noble and the young  
+Who entered dark Xibalba.  
+Their heads were taken from the slain,  
+Their bodies cast beneath the plain,  
+And none returned to earth again  
+From out the gates of Xibalba.”
+
+The brothers' voices filled the hall,  
+And echoed from the cavern wall,  
+And every lord who heard the call  
+Fell lower still before them all  
+Upon the stones of Xibalba.  
+No scepter now could make them brave,  
+No guard could rescue or could save,  
+For all their power found its grave  
+Beneath the earth of Xibalba.
+
+Then Xbalanque pronounced their doom,  
+And through the vaulted halls of gloom  
+His words rang out from room to room,  
+And seemed to shake the ancient tomb  
+That held the dead of Xibalba.  
+“Your days of glory now are done,  
+Your wars against the living won  
+No honor underneath the sun  
+For any lord of Xibalba.”
+
+“No more shall noble blood be shed,  
+To honor kings among the dead,  
+Nor shall the living bow the head  
+And bring the innocent instead  
+To feed the thrones of Xibalba.  
+No longer shall your altars shine  
+With offerings of the sacred vine,  
+Nor shall the sons of men resign  
+Their lives to dark Xibalba.”
+
+“The resin of the trees shall burn,  
+And lesser gifts shall be your turn,  
+But nevermore shall mankind learn  
+To fear the glories ye would earn  
+Within the courts of Xibalba.  
+The meanest creatures shall be yours,  
+The broken things the world abhors,  
+And none shall praise your cruel wars  
+Upon the plains of Xibalba.”
+
+“Your painted stones shall fade away,  
+Your golden courts shall turn to clay,  
+Your names shall wither and decay,  
+And darkness shall consume the day  
+That once was yours in Xibalba.  
+No temples raised beneath the sun,  
+No songs of victories ye have won,  
+For all your ancient reign is done  
+Within the halls of Xibalba.”
+
+The kings bent low beneath the word,  
+And not a voice among them stirred,  
+For all their hearts had plainly heard  
+The doom pronounced, the judgment heard  
+Against the might of Xibalba.  
+They bowed before the brothers' feet,  
+And knew their overthrow complete,  
+And tasted shame, more sharp than sweet,  
+Upon the stones of Xibalba.
+
+Then through the halls a silence fell,  
+And none remained their grief to tell,  
+Save distant waters in the dell,  
+And echoes of the funeral bell  
+That sounded deep in Xibalba.  
+The thrones were empty, cold and bare,  
+And dust lay on the royal chair,  
+And none of all the lords would dare  
+To reign again in Xibalba.
+
+Yet Hunahpu beheld the ground,  
+Where once the rubber ball had bound  
+The brothers to the hollow sound  
+Of feet that beat the earth around  
+The ancient courts of Xibalba.  
+He thought upon his father's face,  
+And of the long-forgotten place,  
+Where death had left no living trace  
+Of those it slew in Xibalba.
+
+Then Xbalanque approached his side,  
+And looked beyond the cavern wide,  
+Where ancient waters downward glide,  
+And shadows of the dead abide  
+Beneath the roots of Xibalba.  
+“Our work is not yet done,” he said,  
+“For though the kings of death have fled,  
+Our father sleeps among the dead  
+Beneath the courts of Xibalba.”
+
+They turned away from golden throne,  
+And left the silent halls of stone,  
+And sought the place where bones were strewn,  
+Where grief had lain so long alone  
+Within the depths of Xibalba.  
+The path was dark, the road was deep,  
+And through the stones the waters creep,  
+Where ancient fathers lay asleep  
+Beyond the thrones of Xibalba.
+
+And far above, the fields of grain  
+Bent softly in the summer rain,  
+While sunlight touched the earth again,  
+And none who walked the living plain  
+Could see the fall of Xibalba.  
+Yet something stirred beneath the ground,  
+A silence deeper than the sound  
+Of all the kings whose power was bound  
+Forevermore in Xibalba.
+
+For death had learned what life could do,  
+And ancient bonds were broken through,  
+And where the roots of maize once grew,  
+A promise waited to renew  
+The world beyond Xibalba.  
+The brothers walked where shadows cease,  
+And sought their father's long release,  
+While all the kingdom slept in peace  
+Beneath the stones of Xibalba.
+
+---
+
+[← Book V — The Fire and the Resurrection](book-5.md) | [Table of Contents](README.md) | [Book VII — The Ascension →](book-7.md)

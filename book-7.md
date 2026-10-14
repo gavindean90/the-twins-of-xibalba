@@ -1,0 +1,437 @@
+# The Twins of Xibalba
+
+## Book VII — The Ascension
+
+Beneath the mountains, cold and deep,  
+Where ancient kings no councils keep,  
+Where roots through halls of darkness creep,  
+And rivers through the silence sweep,  
+Lie broken courts of Xibalba.  
+No trumpet calls the lords to rise,  
+No golden throne commands the skies,  
+And silence fills the hollow eyes  
+Of fallen kings in Xibalba.
+
+The brothers walked the sunless plain,  
+Where none had heard the summer rain,  
+And sought the fathers who were slain,  
+Whose bones beneath the earth remain  
+Within the courts of Xibalba.  
+No sword they bore, no shield of gold,  
+But memories of the deeds of old,  
+And promises their hearts would hold  
+Beyond the death of Xibalba.
+
+They came upon the ancient ground,  
+Where once the rubber ball had bound  
+Their fathers to the hollow sound  
+Of death's deceit, and there they found  
+The ruined court of Xibalba.  
+The stones were cracked, the walls were bare,  
+And dust lay thick upon the stair,  
+But still the voice of grief hung there  
+Among the halls of Xibalba.
+
+Then Hunahpu knelt on the stone,  
+Where once his father's blood had flown,  
+And touched the dust with hands his own,  
+And heard a voice, so faintly known,  
+Beneath the courts of Xibalba.  
+It whispered from the silent clay,  
+Of fields beneath the light of day,  
+And of the life that passed away  
+Within the depths of Xibalba.
+
+Then Xbalanque approached the place,  
+And brushed the earth with solemn grace,  
+Until beneath its darkened face  
+They found the bones, and every trace  
+Of those who died in Xibalba.  
+The brothers gathered all they knew,  
+And laid the ancient bones anew,  
+And watched the pale light trembling through  
+The darkness of Xibalba.
+
+They called the names of those who fell,  
+Whose sufferings no tongue could tell,  
+And bade their spirits break the spell  
+That held them in the sunless dell  
+Beneath the stones of Xibalba.  
+Then from the earth a figure rose,  
+As maize beneath the summer grows,  
+And life returned to one who knows  
+The bitter sleep of Xibalba.
+
+His limbs were clothed in tender green,  
+His face was pale, his eyes serene,  
+And in his hair the leaves were seen  
+Of fields that once his home had been  
+Above the courts of Xibalba.  
+One Hunahpu stood tall and fair,  
+With living blossoms in his hair,  
+And drew the cold and heavy air  
+That brooded over Xibalba.
+
+The brothers stood with shining eyes,  
+And heard their father's spirit rise,  
+But something in his darkened eyes  
+Still bore the shadow of the lies  
+That brought him down to Xibalba.  
+For though his voice returned again,  
+And life was stirring in his vein,  
+The ancient wound of death remained  
+Within the courts of Xibalba.
+
+Then Hunahpu approached his sire,  
+And spoke with all his heart's desire,  
+To call again the living fire,  
+And lift his father from the mire  
+Of endless night in Xibalba.  
+“O father, speak, and name thy face,  
+Thy mouth, thine eyes, their rightful place,  
+That we may break the final trace  
+Of death's deceit in Xibalba.”
+
+The father spoke his mouth alone,  
+And touched the features dimly known,  
+But where his eyes had brightly shone,  
+The shadow claimed them for its own  
+Beneath the courts of Xibalba.  
+No further word his lips could say,  
+No further light could find its way,  
+And something of the mortal clay  
+Was lost forever in Xibalba.
+
+Then Xbalanque bowed down his head,  
+And looked upon the ancient dead,  
+And thought of all the blood once shed,  
+And all the paths their footsteps led  
+Into the depths of Xibalba.  
+For they had conquered every snare,  
+And robbed the kings of throne and chair,  
+Yet could not wholly summon there  
+The lives once lost in Xibalba.
+
+The brothers stood in silence long,  
+And heard the river's distant song,  
+And knew that though their arms were strong,  
+Not every sorrow could be wronged  
+Within the courts of Xibalba.  
+For death had lost its cruel command,  
+Yet still its mark was on the land,  
+And none could wholly understand  
+The mysteries of Xibalba.
+
+Then Hunahpu arose once more,  
+And spoke beside the ancient floor,  
+Where fathers played in days before,  
+And death had closed the iron door  
+Against the sons of Xibalba.  
+“Though not to earth thy feet return,  
+Thy name shall live where fires burn,  
+And every field of maize shall learn  
+Thy triumph over Xibalba.”
+
+“No king shall take thy name away,  
+Nor bury it beneath the clay,  
+For every seed that greets the day  
+Shall speak of life that would not stay  
+Forever bound in Xibalba.  
+And when the harvest fields are bare,  
+And winter chills the silent air,  
+The spring shall find thy spirit there,  
+Beyond the reach of Xibalba.”
+
+Then from the ancient father came  
+A blessing none could put to shame,  
+And through the earth his whispered name  
+Awoke the small and hidden flame  
+Beneath the stones of Xibalba.  
+The roots began to stir below,  
+And through the cracks the maize did grow,  
+Where neither sun nor wind could blow  
+Upon the fields of Xibalba.
+
+And Seven Hunahpu arose,  
+From out the dust of long repose,  
+And where the darkened river flows,  
+The brothers laid the ancient woes  
+To rest beneath Xibalba.  
+They gave their fathers honored place,  
+Where memory would not efface  
+The courage of the mortal race  
+That challenged death in Xibalba.
+
+Then from the stones there came a sound,  
+As though the heart beneath the ground  
+Had struck a ball, whose echoes bound  
+The vaulted caverns all around  
+The silent courts of Xibalba.  
+The brothers heard the distant beat,  
+And felt the earth beneath their feet,  
+As though the dead and living meet  
+Beyond the halls of Xibalba.
+
+The sound grew faint, the shadows fled,  
+And peace descended on the dead,  
+While far above the earth was spread  
+A light no eye had witnessed yet  
+Beyond the depths of Xibalba.  
+The brothers turned toward the stair,  
+And felt a stirring in the air,  
+As though the heavens waited there  
+Above the gates of Xibalba.
+
+They climbed the paths their feet had known,  
+Past rivers carved through ancient stone,  
+Past broken gates and pillars thrown,  
+And left the silent kings alone  
+Within the halls of Xibalba.  
+The black road whispered as before,  
+But none would heed its promise more,  
+And soon they reached the hidden door  
+That opened from Xibalba.
+
+They crossed where rivers ran with blood,  
+And passed the dark and deadly flood,  
+And climbed where ancient cedars stood,  
+Their roots within the sacred mud  
+That drank the streams of Xibalba.  
+The mountain paths began to rise,  
+And through the stone the brothers' eyes  
+Beheld the pale and distant skies  
+Beyond the walls of Xibalba.
+
+The first cool wind upon them blew,  
+And brought the scent of morning dew,  
+And through the clouds the heavens grew  
+From deepest black to tender blue  
+Above the depths of Xibalba.  
+They heard the voices of the trees,  
+The rustling of the summer breeze,  
+And distant birds among the leaves  
+Beyond the reach of Xibalba.
+
+The brothers paused upon the height,  
+And looked upon the world of light,  
+Where fields of maize, in colors bright,  
+Were waking from the ancient night  
+That brooded over Xibalba.  
+No mortal voice proclaimed their fame,  
+No herald called them forth by name,  
+Yet all the earth was not the same  
+As when they entered Xibalba.
+
+For far away, within her door,  
+Their grandmother upon the floor  
+Beheld the canes she planted before,  
+When both her grandsons went to war  
+Against the kings of Xibalba.  
+They once had withered in the clay,  
+And seemed to waste their lives away,  
+But now their leaves were green as May,  
+And death had lost in Xibalba.
+
+Old Xmucane beheld them grow,  
+And felt a joy she scarce could know,  
+For through the canes the life did flow  
+Of those who walked the world below  
+And conquered dark Xibalba.  
+She touched the leaves with trembling hand,  
+And watched them rise above the sand,  
+And knew her children yet would stand  
+Beyond the gates of Xibalba.
+
+The brothers saw the world spread wide,  
+The mountain ridge, the river's tide,  
+And all the valleys side by side,  
+Where living creatures still abide  
+Unknowing of Xibalba.  
+They saw the maize upon the plain,  
+The fields that drank the falling rain,  
+And heard the ancient world again  
+Rejoice above Xibalba.
+
+Yet neither took the homeward way,  
+Nor sought the fields of green array,  
+For something called them from the day,  
+Beyond the mountains, far away  
+From all the courts of Xibalba.  
+The heavens trembled overhead,  
+And light upon the mountains spread,  
+As though the pathways of the dead  
+Had opened over Xibalba.
+
+Then Hunahpu beheld the sky,  
+And watched the silent clouds drift by,  
+And knew that he must rise on high,  
+Beyond the reach of mortal eye  
+And all the depths of Xibalba.  
+His brother stood beside him there,  
+And felt the stirring of the air,  
+And knew that both were called to bear  
+The light above Xibalba.
+
+No wings arose upon their backs,  
+No thunder broke the mountain tracks,  
+But heaven opened through the black,  
+And all the shadows hurried back  
+Into the depths of Xibalba.  
+The brothers rose above the plain,  
+Above the fields of growing grain,  
+Beyond the clouds that carried rain  
+Across the roofs of Xibalba.
+
+Then Hunahpu began to shine,  
+His brow a crown of fire divine,  
+And all the heavens seemed to twine  
+Their golden radiance with his sign  
+Above the depths of Xibalba.  
+The mountains glowed beneath his ray,  
+The rivers sparkled far away,  
+And night surrendered to the day  
+That conquered dark Xibalba.
+
+The eastern sky was set aflame,  
+And from the heights the morning came,  
+And all creation knew his name,  
+Though none could see the boy who came  
+From out the courts of Xibalba.  
+The sun arose in golden might,  
+And poured upon the earth his light,  
+And banished from the mortal sight  
+The endless gloom of Xibalba.
+
+Then Xbalanque arose beside,  
+And crossed the heavens, silver-eyed,  
+Where stars upon their courses glide,  
+And night unfolds her mantle wide  
+Above the depths of Xibalba.  
+His face was pale, his light was fair,  
+And silver flowed about his hair,  
+As softly through the evening air  
+He watched the earth and Xibalba.
+
+The moon arose above the hill,  
+And shone upon the waters still,  
+And bathed the sleeping fields until  
+The darkness seemed to lose its will  
+Beyond the courts of Xibalba.  
+No longer was the night alone,  
+Nor every shadow death's to own,  
+For gentle light upon it shone  
+Above the halls of Xibalba.
+
+And from the dark a thousand gleams  
+Appeared like sparks upon the streams,  
+As though the heavens dreamed the dreams  
+Of those who slept beneath the beams  
+Beyond the depths of Xibalba.  
+Four hundred youths of ancient days,  
+Once slain beneath the mountain's gaze,  
+Arose to fill the starry ways  
+Above the courts of Xibalba.
+
+The stars were scattered far and wide,  
+And shone upon the ocean tide,  
+And watched the moon in silver glide,  
+While all the heavens glorified  
+The fallen might of Xibalba.  
+Their lights were small, their numbers great,  
+And none had power to close their gate,  
+Or bind them to the mortal fate  
+Once ruled by kings of Xibalba.
+
+Then all the world was clothed in light,  
+By golden day and silver night,  
+And heaven wheeled beyond the sight  
+Of those who once had feared the might  
+Of all the kings of Xibalba.  
+The birds arose upon the wing,  
+The rivers found their voice to sing,  
+And every green and growing thing  
+Awoke beyond Xibalba.
+
+The people watched the morning rise,  
+And saw the glory of the skies,  
+And wondered at the great surprise  
+Of light that filled their waking eyes  
+Above the depths of Xibalba.  
+No word was spoken of the slain,  
+No voice recalled the ancient pain,  
+Yet all who sowed the fields of grain  
+Were freed from dread Xibalba.
+
+And when the sun began to fall,  
+And twilight spread its purple pall,  
+And evening birds began to call  
+Across the mountains, dark and tall,  
+Above the gates of Xibalba,  
+The silver moon arose again,  
+And watched the sleeping world of men,  
+While stars returned to heaven then  
+Beyond the reach of Xibalba.
+
+And evermore the brothers played,  
+Across the heavens, light and shade,  
+While day and night their courses made,  
+And neither ever seemed afraid  
+Of ancient dark Xibalba.  
+The golden ball of day was thrown,  
+Across the heavens, bright and lone,  
+And silver answered from her throne  
+Above the courts of Xibalba.
+
+And far beneath the roots of trees,  
+Where never blows the summer breeze,  
+The vanquished kings upon their knees  
+Remembered still the old decrees  
+That once had ruled Xibalba.  
+No more their voices shook the stone,  
+No more they claimed the world their own,  
+But heard the waters passing on  
+Through silent, dark Xibalba.
+
+The fathers rested in the deep,  
+Where ancient waters softly creep,  
+And seeds within the darkness sleep,  
+Till spring shall bid their green shoots leap  
+Above the stones of Xibalba.  
+For life must fall before it grows,  
+And every summer meets its close,  
+Yet from the earth the maize arose  
+Beyond the death of Xibalba.
+
+So when the fields are bare and brown,  
+And all the summer leaves fall down,  
+And winter wears her withered crown,  
+The roots remember, deep below,  
+The ancient halls of Xibalba.  
+For what is buried is not gone,  
+Nor every night without a dawn,  
+And life shall rise and journey on  
+Beyond the gates of Xibalba.
+
+And still above the mountain height,  
+The brothers keep their ancient flight,  
+One clothed in gold, one silver-bright,  
+And neither yields his watch to night  
+That once belonged to Xibalba.  
+The morning comes, the evening falls,  
+And through the years their journey calls,  
+While time itself remembers all  
+The sons who conquered Xibalba.
+
+Beneath the earth, beneath the stone,  
+Where rivers carve the dark unknown,  
+The kings of death have lost their throne,  
+And all the seeds their hands had sown  
+Lie silent now in Xibalba.  
+But high above the fields of grain,  
+Beyond the reach of death and pain,  
+Two brothers rise, and rise again,  
+Forever free of Xibalba.
+
+---
+
+[← Book VI — The Fall of the Lords of Death](book-6.md) | [Table of Contents](README.md)
