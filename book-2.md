@@ -42,10 +42,10 @@ And vanished through the gathering night,
 To find the lords who sat in might  
 Upon the thrones of Xibalba.
 
-It flew among the silent dead,  
-And bit the hands where kings were spread,  
-And heard the names their fellows said,  
-As each in sudden anger cried  
+It flew among the lords of dread,  
+And bit the hands of those who led,  
+And heard each name the others said,  
+As every bitten ruler bled  
 Within the halls of Xibalba.  
 Thus every lord was named and known,  
 And every false and wooden throne,  
@@ -53,7 +53,7 @@ Before the brothers stood alone
 Before the kings of Xibalba.
 
 There sat the lords in solemn state,  
-Whose laughter sealed the wanderer's fate,  
+Whose laughter sealed each victim's fate,  
 Who watched beside the iron gate,  
 And bade the brothers come and wait  
 Before the thrones of Xibalba.  

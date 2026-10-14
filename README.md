@@ -1,4 +1,4 @@
-# The Courts of Xibalba
+# The Twins of Xibalba
 
 *An Epic Poem in Seven Books*
 
@@ -18,9 +18,9 @@
 
 ## Overview
 
-**The Courts of Xibalba** (also titled *The Twins of Xibalba*) is an epic narrative poem retelling the legendary descent of the Hero Twins—**Hunahpu** and **Xbalanque**—into the Maya underworld of Xibalba, drawn from the foundational mythology of the K'iche' Maya *Popol Vuh*.
+**The Twins of Xibalba** is an epic narrative poem retelling the legendary descent of the Hero Twins—**Hunahpu** and **Xbalanque**—into the Maya underworld of Xibalba, drawn from the foundational mythology of the K'iche' Maya *Popol Vuh*.
 
-Summoned beneath the earth by the Lords of Death after their ballplaying disturbs the underworld, the twin brothers must navigate treacherous trials, treacherous games, lethal houses of blades, beasts, and cold, defeat the scheming death lords through wit and magic, and ultimately ascend into the heavens as the Sun and the Moon.
+Summoned beneath the earth by the Lords of Death after their ballplaying disturbs the underworld, the twin brothers must navigate treacherous games and lethal houses of blades, beasts, and cold, defeat the scheming death lords through wit and magic, and ultimately ascend into the heavens as the Sun and the Moon.
 
 ---
 
@@ -40,10 +40,10 @@ Summoned beneath the earth by the Lords of Death after their ballplaying disturb
 
 ## Form and Poetics
 
-The epic is composed in a strict 9-line stanza form structured in iambic tetrameter with an embedded refrain:
+The epic is composed in a strict 9-line stanza form, predominantly in iambic tetrameter, with an embedded refrain:
 
 - **Rhyme & Meter**: Each 9-line stanza opens with four rhymed tetrameter verses, resolves into an underworld refrain ending in *Xibalba*, continues with three rhymed tetrameter verses, and concludes with a second terminal refrain in *Xibalba*.
-- **Scope**: Across the seven books, the epic spans **164 stanzas** and **1,476 verses** of continuous narrative poetry.
+- **Scope**: Across the seven books, the epic spans **140 stanzas** and **1,260 verses** of continuous narrative poetry.
 
 ---
 
