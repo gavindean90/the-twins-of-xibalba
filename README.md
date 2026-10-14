@@ -12,7 +12,7 @@
 > And rivers through the silence sweep,  
 > There lie the courts of Xibalba.”*
 
-📖 **[Read the Web Edition on GitHub Pages](https://gavindean90.github.io/the-courts-of-xibalba/)**
+📖 **[Read the Web Edition on GitHub Pages](https://gavindean90.github.io/the-twins-of-xibalba/)**
 
 ---
 
