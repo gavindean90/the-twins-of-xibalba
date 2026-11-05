@@ -1,0 +1,37 @@
+{
+  "id": "scherzer-1857",
+  "title": "Las historias del origen de los Indios de esta provincia de Guatemala",
+  "publication_year": 1857,
+  "contributors": [
+    {
+      "name": "Karl (Carl) Scherzer",
+      "role": "editor",
+      "death_date": "1903"
+    },
+    {
+      "name": "Francisco Ximénez",
+      "role": "Spanish translator",
+      "death_date": "circa 1722 or 1730"
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "kind": "printed_edition",
+  "catalog_urls": [
+    "https://archive.org/details/lashistoriasdelo00sche",
+    "https://www.loc.gov/item/05009885/"
+  ],
+  "notes": [
+    "Publisher: Viena, C. Gerold & hijo",
+    "Library of Congress copy. OCR is not a diplomatic transcription.",
+    "Spanish witness edited by Scherzer; do not assume identical wording to every Ximénez manuscript version."
+  ],
+  "acquisition_status": "text_acquired_scan_download_verified",
+  "text_quality": "Uncorrected Internet Archive OCR; multilingual errors, broken words and reading-order errors expected.",
+  "review_date": "2026-11-04",
+  "asset_ids": [
+    "scherzer-txt",
+    "scherzer-pdf"
+  ]
+}

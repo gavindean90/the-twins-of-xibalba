@@ -1,0 +1,35 @@
+{
+  "id": "villacorta-rodas-1927",
+  "title": "Manuscrito de Chichicastenango (Popol buj)",
+  "publication_year": 1927,
+  "contributors": [
+    {
+      "name": "J. Antonio Villacorta C. (José Antonio Villacorta Calderón)",
+      "role": "translator/editor",
+      "death_date": null
+    },
+    {
+      "name": "Flavio Rodas N.",
+      "role": "translator/editor",
+      "death_date": null
+    }
+  ],
+  "languages": [
+    "quc",
+    "es"
+  ],
+  "kind": "printed_translation",
+  "catalog_urls": [
+    "https://www.si.edu/object/siris_sil_264040",
+    "https://books.google.com/books?id=K05jAAAAMAAJ"
+  ],
+  "notes": [
+    "Guatemala: Sánchez & de Guise, 1927; 416 pages in Google Books record. K’iche’ and Spanish on facing pages.",
+    "Do not confuse with the separate 1927 Asturias/González de Mendoza Spanish translation of Raynaud or the 1934 Villacorta/Rodas printing.",
+    "Smithsonian catalog confirms year and contributors; full-text scan not obtained. Seek library digitization or another original 1927 copy."
+  ],
+  "acquisition_status": "pending_acquisition",
+  "text_quality": "No text acquired; bibliography only.",
+  "review_date": "2026-11-04",
+  "asset_ids": []
+}

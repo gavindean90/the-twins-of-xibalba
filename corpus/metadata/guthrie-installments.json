@@ -1,0 +1,254 @@
+[
+  {
+    "id": "guthrie-1905-10",
+    "source_id": "guthrie-1905-1906",
+    "volume": 2,
+    "issue": 1,
+    "date": "1905-10",
+    "pages": {
+      "start": 8,
+      "end": 23
+    },
+    "text_asset_id": "word-1905-10-txt",
+    "facsimile_asset_id": "word-1905-10-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-10_2_1",
+    "scope": "introductory commentary",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1905-11",
+    "source_id": "guthrie-1905-1906",
+    "volume": 2,
+    "issue": 2,
+    "date": "1905-11",
+    "pages": {
+      "start": 77,
+      "end": 92
+    },
+    "text_asset_id": "word-1905-11-txt",
+    "facsimile_asset_id": "word-1905-11-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-11_2_2",
+    "scope": "introductory commentary",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1905-12",
+    "source_id": "guthrie-1905-1906",
+    "volume": 2,
+    "issue": 3,
+    "date": "1905-12",
+    "pages": {
+      "start": 163,
+      "end": 173
+    },
+    "text_asset_id": "word-1905-12-txt",
+    "facsimile_asset_id": "word-1905-12-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-12_2_3",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-01",
+    "source_id": "guthrie-1905-1906",
+    "volume": 2,
+    "issue": 4,
+    "date": "1906-01",
+    "pages": {
+      "start": 224,
+      "end": 238
+    },
+    "text_asset_id": "word-1906-01-txt",
+    "facsimile_asset_id": "word-1906-01-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-01_2_4",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-02",
+    "source_id": "guthrie-1905-1906",
+    "volume": 2,
+    "issue": 5,
+    "date": "1906-02",
+    "pages": {
+      "start": 297,
+      "end": 306
+    },
+    "text_asset_id": "word-1906-02-txt",
+    "facsimile_asset_id": "word-1906-02-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-02_2_5",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-03",
+    "source_id": "guthrie-1905-1906",
+    "volume": 2,
+    "issue": 6,
+    "date": "1906-03",
+    "pages": {
+      "start": 369,
+      "end": 378
+    },
+    "text_asset_id": "word-1906-03-txt",
+    "facsimile_asset_id": "word-1906-03-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-03_2_6",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-04",
+    "source_id": "guthrie-1905-1906",
+    "volume": 3,
+    "issue": 1,
+    "date": "1906-04",
+    "pages": {
+      "start": 41,
+      "end": 54
+    },
+    "text_asset_id": "word-1906-04-txt",
+    "facsimile_asset_id": "word-1906-04-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-04_3_1",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-05",
+    "source_id": "guthrie-1905-1906",
+    "volume": 3,
+    "issue": 2,
+    "date": "1906-05",
+    "pages": {
+      "start": 104,
+      "end": 111
+    },
+    "text_asset_id": "word-1906-05-txt",
+    "facsimile_asset_id": "word-1906-05-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-05_3_2",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-06",
+    "source_id": "guthrie-1905-1906",
+    "volume": 3,
+    "issue": 3,
+    "date": "1906-06",
+    "pages": {
+      "start": 167,
+      "end": 174
+    },
+    "text_asset_id": "word-1906-06-txt",
+    "facsimile_asset_id": "word-1906-06-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-06_3_3",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-07",
+    "source_id": "guthrie-1905-1906",
+    "volume": 3,
+    "issue": 4,
+    "date": "1906-07",
+    "pages": {
+      "start": 216,
+      "end": 230
+    },
+    "text_asset_id": "word-1906-07-txt",
+    "facsimile_asset_id": "word-1906-07-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-07_3_4",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-08",
+    "source_id": "guthrie-1905-1906",
+    "volume": 3,
+    "issue": 5,
+    "date": "1906-08",
+    "pages": {
+      "start": 302,
+      "end": 311
+    },
+    "text_asset_id": "word-1906-08-txt",
+    "facsimile_asset_id": "word-1906-08-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-08_3_5",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-09",
+    "source_id": "guthrie-1905-1906",
+    "volume": 3,
+    "issue": 6,
+    "date": "1906-09",
+    "pages": {
+      "start": 368,
+      "end": 370
+    },
+    "text_asset_id": "word-1906-09-txt",
+    "facsimile_asset_id": "word-1906-09-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-09_3_6",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-10",
+    "source_id": "guthrie-1905-1906",
+    "volume": 4,
+    "issue": 1,
+    "date": "1906-10",
+    "pages": {
+      "start": 59,
+      "end": 61
+    },
+    "text_asset_id": "word-1906-10-txt",
+    "facsimile_asset_id": "word-1906-10-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-10_4_1",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  },
+  {
+    "id": "guthrie-1906-11",
+    "source_id": "guthrie-1905-1906",
+    "volume": 4,
+    "issue": 2,
+    "date": "1906-11",
+    "pages": {
+      "start": 116,
+      "end": 124
+    },
+    "text_asset_id": "word-1906-11-txt",
+    "facsimile_asset_id": "word-1906-11-pdf",
+    "catalog_url": "https://archive.org/details/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-11_4_2",
+    "scope": "translation and notes",
+    "verification": "Article boundaries inspected in bound-volume facsimile OCR; final printed ending visually checked.",
+    "ocr_method": "tesseract 5.0.0-alpha-20201231-10-g1236",
+    "ends_mid_page": true
+  }
+]

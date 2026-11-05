@@ -1,0 +1,60 @@
+{
+  "id": "guthrie-1905-1906",
+  "title": "The “Popol Vuh” or Book of the Holy Assembly",
+  "publication_year": 1905,
+  "contributors": [
+    {
+      "name": "Kenneth Sylvan Guthrie",
+      "role": "translator and commentator",
+      "death_date": null
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "kind": "serial_translation",
+  "catalog_urls": [
+    "https://iapsop.com/archive/materials/word_percival/"
+  ],
+  "notes": [
+    "The Word, vols. 2–4, October 1905–November 1906; 14 installments, including two introductory installments.",
+    "The final installment prints THE END at vol. 4 p. 124, after Part IV chapter XI; Brasseur Part IV chapter XII (final genealogies) is absent. Complete located serial run does NOT mean complete Popol Vuh translation.",
+    "Checked volume indexes and article boundaries against the IAPSOP facsimiles; those PDFs are not redistributed. Acquired independent Internet Archive microfilm OCR and provided its facsimile recipes.",
+    "Vols. 4 and 5 OCR/index search found no later continuation through September 1907; negative OCR evidence is not exhaustive proof.",
+    "Guthrie acknowledges borrowing some English terms from James Pryse. Translation relationship to Brasseur should be tested passage by passage."
+  ],
+  "acquisition_status": "serial_issue_texts_acquired_translation_incomplete",
+  "text_quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+  "review_date": "2026-11-04",
+  "asset_ids": [
+    "word-1905-10-txt",
+    "word-1905-10-pdf",
+    "word-1905-11-txt",
+    "word-1905-11-pdf",
+    "word-1905-12-txt",
+    "word-1905-12-pdf",
+    "word-1906-01-txt",
+    "word-1906-01-pdf",
+    "word-1906-02-txt",
+    "word-1906-02-pdf",
+    "word-1906-03-txt",
+    "word-1906-03-pdf",
+    "word-1906-04-txt",
+    "word-1906-04-pdf",
+    "word-1906-05-txt",
+    "word-1906-05-pdf",
+    "word-1906-06-txt",
+    "word-1906-06-pdf",
+    "word-1906-07-txt",
+    "word-1906-07-pdf",
+    "word-1906-08-txt",
+    "word-1906-08-pdf",
+    "word-1906-09-txt",
+    "word-1906-09-pdf",
+    "word-1906-10-txt",
+    "word-1906-10-pdf",
+    "word-1906-11-txt",
+    "word-1906-11-pdf"
+  ],
+  "publication_end_year": 1906
+}

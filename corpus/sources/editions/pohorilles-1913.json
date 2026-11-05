@@ -1,0 +1,32 @@
+{
+  "id": "pohorilles-1913",
+  "title": "Das Popol Wuh: die mythische Geschichte des Kiče-Volkes von Guatemala",
+  "publication_year": 1913,
+  "contributors": [
+    {
+      "name": "Noah Elieser Pohorilles",
+      "role": "translator and editor",
+      "death_date": null
+    }
+  ],
+  "languages": [
+    "de"
+  ],
+  "kind": "printed_translation",
+  "catalog_urls": [
+    "https://u.osu.edu/mayanarchives/resources/translationstraducciones/",
+    "https://ci.nii.ac.jp/ncid/BA6516977X"
+  ],
+  "notes": [
+    "Leipzig: J. C. Hinrichs’sche Buchhandlung. Mythologische Bibliothek VI.1.",
+    "Title page and preface inspected. Preface discusses an initial French-based translation revised through K’iche’ and Spanish study, and Seler’s review; do not simplify this to an entirely independent witness.",
+    "OSU facsimile: 71 PDF pages, usually two printed pages per image. No embedded text."
+  ],
+  "acquisition_status": "text_acquired_scan_download_verified",
+  "text_quality": "Locally generated Tesseract German OCR; provisional, uncorrected. Long-s, K’iche’ names, small notes and columns can be wrong.",
+  "review_date": "2026-11-04",
+  "asset_ids": [
+    "pohorilles-pdf",
+    "pohorilles-ocr"
+  ]
+}

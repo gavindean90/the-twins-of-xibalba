@@ -1,0 +1,26 @@
+{
+  "id": "christenson-2007",
+  "title": "Popol Vuh: The Sacred Book of the Maya",
+  "publication_year": 2007,
+  "contributors": [
+    {
+      "name": "Allen J. Christenson",
+      "role": "translator",
+      "death_date": null
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "kind": "modern_translation",
+  "catalog_urls": [
+    "https://www.oupress.com/9780806138398/popol-vuh/"
+  ],
+  "notes": [
+    "Reference only. Do not redistribute translation, introduction, annotations or modern transcription without permission."
+  ],
+  "acquisition_status": "linked_only",
+  "text_quality": "No protected text imported.",
+  "review_date": "2026-11-04",
+  "asset_ids": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "brasseur-1861",
+  "title": "Popol vuh. Le livre sacré et les mythes de l’antiquité américaine, avec les livres héroïques et historiques des Quichés",
+  "publication_year": 1861,
+  "contributors": [
+    {
+      "name": "Charles Étienne Brasseur de Bourbourg",
+      "role": "editor and translator",
+      "death_date": "1874"
+    }
+  ],
+  "languages": [
+    "quc",
+    "fr"
+  ],
+  "kind": "printed_edition",
+  "catalog_urls": [
+    "https://archive.org/details/popolvuhlelivres00bras",
+    "https://www.loc.gov/item/05009887/"
+  ],
+  "notes": [
+    "Publisher: Paris, A. Bertrand",
+    "Library of Congress copy. OCR is not a diplomatic transcription.",
+    "K’iche’ and French facing pages; introduction, notes and index retained. Colonial-era interpretations are historical evidence, not current scholarly consensus."
+  ],
+  "acquisition_status": "text_acquired_scan_download_verified",
+  "text_quality": "Uncorrected Internet Archive OCR; multilingual errors, broken words and reading-order errors expected.",
+  "review_date": "2026-11-04",
+  "asset_ids": [
+    "brasseur-txt",
+    "brasseur-pdf"
+  ]
+}

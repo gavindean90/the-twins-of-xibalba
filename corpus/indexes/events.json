@@ -1,0 +1,197 @@
+[
+  {
+    "id": "event-fathers-family",
+    "label": "One Hunahpu and Seven Hunahpu: family",
+    "character_ids": [
+      "one-hunahpu",
+      "seven-hunahpu",
+      "xmucane",
+      "xpiyacoc",
+      "xbagiyalo",
+      "hunbatz",
+      "hunchouen"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-fathers-summons",
+    "label": "Fathers’ ballgame and summons",
+    "character_ids": [
+      "one-hunahpu",
+      "seven-hunahpu",
+      "one-death",
+      "seven-death"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-fathers-defeat",
+    "label": "Fathers’ humiliation and death",
+    "character_ids": [
+      "one-hunahpu",
+      "seven-hunahpu"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-head-tree",
+    "label": "One Hunahpu’s head in the tree",
+    "character_ids": [
+      "one-hunahpu"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-xquic-conception",
+    "label": "Xquic and conception",
+    "character_ids": [
+      "one-hunahpu",
+      "xquic",
+      "cuchumaquic"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-xquic-escape",
+    "label": "Xquic escapes the execution order",
+    "character_ids": [
+      "xquic",
+      "cuchumaquic"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-xquic-xmucane",
+    "label": "Xquic’s encounter with Xmucane",
+    "character_ids": [
+      "xquic",
+      "xmucane"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-twins-childhood",
+    "label": "Birth, childhood and older brothers",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "xmucane",
+      "hunbatz",
+      "hunchouen"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-twins-ballgame",
+    "label": "Rediscovery of equipment and summons",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "xmucane"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-twins-descent",
+    "label": "Descent and recognition of the lords",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "one-death",
+      "seven-death"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-twins-trials",
+    "label": "Ballgame, flowers and houses of trial",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "camazotz"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-borrowed-head",
+    "label": "Beheading and restoration",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "camazotz"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-death-resurrection",
+    "label": "Deliberate death and resurrection",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-victory",
+    "label": "Defeat of the underworld rulers",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "one-death",
+      "seven-death"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-father-reunion",
+    "label": "Honoring father and uncle",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "one-hunahpu",
+      "seven-hunahpu"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-ascension",
+    "label": "Ascension and celestial identities",
+    "character_ids": [
+      "hunahpu",
+      "xbalanque",
+      "one-hunahpu",
+      "seven-hunahpu"
+    ],
+    "status": "seeded_from_spence_not_manuscript_collated"
+  },
+  {
+    "id": "event-creation",
+    "label": "Creation narratives and failed creations",
+    "character_ids": [],
+    "status": "unmapped"
+  },
+  {
+    "id": "event-seven-macaw",
+    "label": "Seven Macaw, Zipacna and Cabrakan",
+    "character_ids": [],
+    "status": "unmapped"
+  },
+  {
+    "id": "event-maize-humanity",
+    "label": "Creation of maize humanity",
+    "character_ids": [],
+    "status": "unmapped"
+  },
+  {
+    "id": "event-migration",
+    "label": "Migration, Tulan and dawn",
+    "character_ids": [],
+    "status": "unmapped"
+  },
+  {
+    "id": "event-lineages",
+    "label": "K’iche’ dynasties and final genealogies",
+    "character_ids": [],
+    "status": "unmapped"
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "id": "one-hunahpu",
+    "name": "One Hunahpu",
+    "variants": [
+      {
+        "name": "Hunhun-Ahpu",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      },
+      {
+        "name": "Hun-hun-ahpu",
+        "source_id": "guthrie-1905-1906",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "seven-hunahpu",
+    "name": "Seven Hunahpu",
+    "variants": [
+      {
+        "name": "Vukub-Hunahpu",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      },
+      {
+        "name": "Vukub-hunahpu",
+        "source_id": "guthrie-1905-1906",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "xquic",
+    "name": "Xquic",
+    "variants": [
+      {
+        "name": "Xquiq",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "xmucane",
+    "name": "Xmucane",
+    "variants": [
+      {
+        "name": "Xmucane",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "hunahpu",
+    "name": "Hunahpu",
+    "variants": [
+      {
+        "name": "Hun-Ahpu",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      },
+      {
+        "name": "Hun-ahpu",
+        "source_id": "guthrie-1905-1906",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "xbalanque",
+    "name": "Xbalanque",
+    "variants": [
+      {
+        "name": "Xbalanque",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "hunbatz",
+    "name": "Hunbatz",
+    "variants": [
+      {
+        "name": "Hunbatz",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "hunchouen",
+    "name": "Hunchouen",
+    "variants": [
+      {
+        "name": "Hunchouen",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "one-death",
+    "name": "One Death",
+    "variants": [
+      {
+        "name": "Hun-Came",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      },
+      {
+        "name": "Hun-came",
+        "source_id": "guthrie-1905-1906",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "seven-death",
+    "name": "Seven Death",
+    "variants": [
+      {
+        "name": "Vukub-Came",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      },
+      {
+        "name": "Vukub-came",
+        "source_id": "guthrie-1905-1906",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "xbagiyalo",
+    "name": "Xbagiyalo",
+    "variants": [
+      {
+        "name": "Xbakiyalo",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "xpiyacoc",
+    "name": "Xpiyacoc",
+    "variants": [
+      {
+        "name": "Xpiyacoc",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "cuchumaquic",
+    "name": "Cuchumaquic",
+    "variants": [
+      {
+        "name": "Cuchumaquiq",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  },
+  {
+    "id": "camazotz",
+    "name": "Camazotz",
+    "variants": [
+      {
+        "name": "Camazotz",
+        "source_id": "spence-1908",
+        "verification": "Observed in acquired text; normalization is editorial, not a statement of etymology."
+      }
+    ],
+    "notes": "Modern display label is a lookup aid. Source spelling remains untouched."
+  }
+]

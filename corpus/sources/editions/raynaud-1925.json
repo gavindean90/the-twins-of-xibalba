@@ -1,0 +1,29 @@
+{
+  "id": "raynaud-1925",
+  "title": "Les dieux, les héros et les hommes de l’ancien Guatémala d’après le Livre du Conseil",
+  "publication_year": 1925,
+  "contributors": [
+    {
+      "name": "Georges Raynaud",
+      "role": "translator/editor",
+      "death_date": "194.? (BnF authority; uncertain)"
+    }
+  ],
+  "languages": [
+    "fr"
+  ],
+  "kind": "printed_translation",
+  "catalog_urls": [
+    "https://catalogue.bnf.fr/ark:/12148/cb311831230",
+    "https://gallica.bnf.fr/ark:/12148/bpt6k329096x"
+  ],
+  "notes": [
+    "Paris: E. Leroux, 1925; XXXIX + 157 pages. Original BnF record FRBNF31183123; NUMM-329096.",
+    "BnF incorrectly labels the source language Quechua; the work is K’iche’.",
+    "Original digitization located, but Gallica returned HTTP 403 during acquisition. No text imported. Review item-specific reuse conditions before importing Gallica derivatives."
+  ],
+  "acquisition_status": "pending_acquisition",
+  "text_quality": "No text acquired; bibliography only.",
+  "review_date": "2026-11-04",
+  "asset_ids": []
+}

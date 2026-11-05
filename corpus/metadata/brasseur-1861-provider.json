@@ -1,0 +1,32 @@
+{
+  "source_id": "brasseur-1861",
+  "metadata_url": "https://archive.org/metadata/popolvuhlelivres00bras",
+  "retrieved": "2026-11-04",
+  "bibliographic_facts": {
+    "identifier": "popolvuhlelivres00bras",
+    "title": "Popol vuh. Le livre sacré et les mythes de l'antiquité américaine, avec les livres héroïques et historiques des Quichés ..",
+    "creator": "Brasseur de Bourbourg, abbé, 1814-1874, ed",
+    "date": "1861",
+    "publisher": "Paris, A. Bertrand",
+    "lccn": "05009887",
+    "identifier-ark": "ark:/13960/t5gb3z053",
+    "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+    "ocr": "ABBYY FineReader 8.0",
+    "ocr_module_version": "0.0.14",
+    "ocr_converted": "abbyy-to-hocr 1.1.11"
+  },
+  "files": [
+    {
+      "name": "popolvuhlelivres00bras.pdf",
+      "size": "57493068",
+      "sha1": "074b513138cbb9c35f166fab91d649b8f0e18b52",
+      "format": "Text PDF"
+    },
+    {
+      "name": "popolvuhlelivres00bras_djvu.txt",
+      "size": "1587204",
+      "sha1": "769da054b91547e349aa567d9286c267403be47d",
+      "format": "DjVuTXT"
+    }
+  ]
+}

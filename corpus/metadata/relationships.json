@@ -1,0 +1,57 @@
+[
+  {
+    "id": "relationship-1",
+    "from": "scherzer-1857",
+    "to": "ximenez-ms",
+    "relationship": "publishes Spanish Ximénez witness",
+    "certainty": "qualified",
+    "evidence": [
+      "https://www.loc.gov/item/05009885/"
+    ],
+    "note": "Exact manuscript-version relationship needs collation."
+  },
+  {
+    "id": "relationship-2",
+    "from": "brasseur-1861",
+    "to": "ximenez-ms",
+    "relationship": "edits K’iche’ and translates into French",
+    "certainty": "qualified",
+    "evidence": [
+      "https://www.loc.gov/item/05009887/"
+    ],
+    "note": "Editorial readings are not identical to manuscript readings."
+  },
+  {
+    "id": "relationship-3",
+    "from": "guthrie-1905-1906",
+    "to": "brasseur-1861",
+    "relationship": "French-mediated translation relationship",
+    "certainty": "qualified",
+    "evidence": [
+      "https://iapsop.com/archive/materials/word_percival/"
+    ],
+    "note": "Chapter/paragraph structure and notes support dependency; full collation pending."
+  },
+  {
+    "id": "relationship-4",
+    "from": "pohorilles-1913",
+    "to": "brasseur-1861",
+    "relationship": "French-based draft subsequently revised",
+    "certainty": "verified",
+    "evidence": [
+      "https://u.osu.edu/mayanarchives/files/2016/06/Noah-Elieser-Pohorilles-2l9b6c0.pdf"
+    ],
+    "note": "Preface pp. III–V; also K’iche’ and Spanish study, Seler review."
+  },
+  {
+    "id": "relationship-5",
+    "from": "asturias-mendoza-1927",
+    "to": "raynaud-1925",
+    "relationship": "Spanish translation of French edition",
+    "certainty": "verified",
+    "evidence": [
+      "https://catalogo.uacm.edu.mx/bib/51888"
+    ],
+    "note": "Not the Villacorta/Rodas edition."
+  }
+]

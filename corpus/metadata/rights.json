@@ -1,0 +1,409 @@
+[
+  {
+    "source_id": "ximenez-ms",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": null,
+    "contributors": [
+      {
+        "name": "Francisco Ximénez",
+        "role": "transcriber and translator",
+        "death_date": "circa 1722 or 1730; catalog conflict"
+      }
+    ],
+    "basis": "Eighteenth-century manuscript, author dead well over 70 years; historical text also published in the nineteenth century.",
+    "evidence": [
+      "https://www.loc.gov/item/2021668226/",
+      "https://www.newberry.org/collection/research-guide/popol-vuh",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "LOC states no known restrictions; mechanical facsimile of historical pages.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "scherzer-1857",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1857,
+    "contributors": [
+      {
+        "name": "Karl (Carl) Scherzer",
+        "role": "editor",
+        "death_date": "1903"
+      },
+      {
+        "name": "Francisco Ximénez",
+        "role": "Spanish translator",
+        "death_date": "circa 1722 or 1730"
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://archive.org/details/lashistoriasdelo00sche",
+      "https://www.loc.gov/item/05009885/",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "LOC states no known restrictions; mechanical facsimile of historical pages.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "brasseur-1861",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1861,
+    "contributors": [
+      {
+        "name": "Charles Étienne Brasseur de Bourbourg",
+        "role": "editor and translator",
+        "death_date": "1874"
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://archive.org/details/popolvuhlelivres00bras",
+      "https://www.loc.gov/item/05009887/",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "LOC states no known restrictions; mechanical facsimile of historical pages.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "spence-1908",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1908,
+    "contributors": [
+      {
+        "name": "Lewis Spence",
+        "role": "reteller and commentator",
+        "death_date": "1955"
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/56550",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "Historical page reproduction; no new creative edition imported. See asset provenance.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "guthrie-1905-1906",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1905,
+    "contributors": [
+      {
+        "name": "Kenneth Sylvan Guthrie",
+        "role": "translator and commentator",
+        "death_date": null
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://iapsop.com/archive/materials/word_percival/",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "Historical page reproduction; no new creative edition imported. See asset provenance.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "No blanket relicensing under repository CC0.",
+      "Guthrie IAPSOP PDFs not redistributed; independent IA issue assets used."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "pohorilles-1913",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1913,
+    "contributors": [
+      {
+        "name": "Noah Elieser Pohorilles",
+        "role": "translator and editor",
+        "death_date": null
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://u.osu.edu/mayanarchives/resources/translationstraducciones/",
+      "https://ci.nii.ac.jp/ncid/BA6516977X",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "Historical page reproduction; no new creative edition imported. See asset provenance.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "raynaud-1925",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1925,
+    "contributors": [
+      {
+        "name": "Georges Raynaud",
+        "role": "translator/editor",
+        "death_date": "194.? (BnF authority; uncertain)"
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://catalogue.bnf.fr/ark:/12148/cb311831230",
+      "https://gallica.bnf.fr/ark:/12148/bpt6k329096x",
+      "https://guides.library.cornell.edu/copyright/publicdomain"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "No scan redistributed; source-specific review required on acquisition.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "villacorta-rodas-1927",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1927,
+    "contributors": [
+      {
+        "name": "J. Antonio Villacorta C. (José Antonio Villacorta Calderón)",
+        "role": "translator/editor",
+        "death_date": null
+      },
+      {
+        "name": "Flavio Rodas N.",
+        "role": "translator/editor",
+        "death_date": null
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://www.si.edu/object/siris_sil_264040",
+      "https://books.google.com/books?id=K05jAAAAMAAJ",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "No scan redistributed; source-specific review required on acquisition.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "asturias-mendoza-1927",
+    "jurisdiction": "US",
+    "status": "public_domain",
+    "publication_year": 1927,
+    "contributors": [
+      {
+        "name": "Miguel Ángel Asturias",
+        "role": "translator/editor",
+        "death_date": null
+      },
+      {
+        "name": "J. M. González de Mendoza",
+        "role": "translator/editor",
+        "death_date": null
+      }
+    ],
+    "basis": "Original edition published before 1931; maximum 95-year US publication term has expired as of 2026. Applies to this edition, not later additions.",
+    "evidence": [
+      "https://catalogo.uacm.edu.mx/bib/51888",
+      "https://guides.library.cornell.edu/copyright/publicdomain",
+      "https://cspd.law.duke.edu/publicdomainday/2026/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "public_domain_US",
+      "original_editorial_matter": "public_domain_US",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "No scan redistributed; source-specific review required on acquisition.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "christenson-2007",
+    "jurisdiction": "US",
+    "status": "copyrighted_reference_only",
+    "publication_year": 2007,
+    "contributors": [
+      {
+        "name": "Allen J. Christenson",
+        "role": "translator",
+        "death_date": null
+      }
+    ],
+    "basis": "Modern translation; no permission to republish obtained.",
+    "evidence": [
+      "https://www.oupress.com/9780806138398/popol-vuh/"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "copyrighted",
+      "original_editorial_matter": "copyrighted",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "No scan redistributed; source-specific review required on acquisition.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "bazzett-2018",
+    "jurisdiction": "US",
+    "status": "copyrighted_reference_only",
+    "publication_year": 2018,
+    "contributors": [
+      {
+        "name": "Michael Bazzett",
+        "role": "translator",
+        "death_date": null
+      }
+    ],
+    "basis": "Modern translation; no permission to republish obtained.",
+    "evidence": [
+      "https://milkweed.org/book/the-popol-vuh"
+    ],
+    "components": {
+      "underlying_traditional_work": "Historical K’iche’ work; cultural significance persists independently of copyright.",
+      "translation": "copyrighted",
+      "original_editorial_matter": "copyrighted",
+      "modern_transcription": "Not licensed by age of underlying work; independently review. Gutenberg notices retained where used.",
+      "facsimile": "No scan redistributed; source-specific review required on acquisition.",
+      "illustrations": "Only original-edition illustrations covered by publication-term conclusion; modern object photographs need separate rights.",
+      "metadata": "Repository-written factual descriptions; no wholesale modern catalog essay imported."
+    },
+    "international": "US determination only. Other countries may apply life-plus terms, moral rights, database rights or cultural heritage rules. Contributor death dates not fully researched for pending editions; do not infer worldwide clearance.",
+    "limitations": [
+      "Later introductions, annotated reprints and modern transcriptions excluded unless separately cleared."
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "source_id": "cma-1990-180",
+    "jurisdiction": "worldwide dedication",
+    "status": "CC0-1.0",
+    "publication_year": null,
+    "contributors": [
+      {
+        "name": "Cleveland Museum of Art",
+        "role": "image/data provider"
+      }
+    ],
+    "basis": "Museum explicitly releases this object’s image and metadata under CC0, independently of project license.",
+    "evidence": [
+      "https://www.clevelandart.org/open-access",
+      "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1990.180"
+    ],
+    "components": {
+      "object": "ancient",
+      "photograph": "CC0-1.0",
+      "metadata": "CC0-1.0"
+    },
+    "international": "Museum CC0 dedication; no endorsement or trademark permission.",
+    "limitations": [
+      "Archaeological findspot not recorded."
+    ],
+    "review_date": "2026-11-04"
+  }
+]
