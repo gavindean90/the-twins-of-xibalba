@@ -96,7 +96,7 @@ def main():
         parser.error('Unknown asset IDs: ' + ', '.join(sorted(unknown)))
     failures = 0
     for a in assets:
-        if not (args.all or a['id'] in args.id):
+        if not ((args.all and a.get('url')) or a['id'] in args.id):
             continue
         if rights[a['source_id']]['status'] not in {'public_domain', 'CC0-1.0'}:
             print('BLOCKED by rights manifest:', a['id'], file=sys.stderr)

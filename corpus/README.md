@@ -24,6 +24,8 @@ python3 corpus/scripts/acquire.py --id word-1906-05-pdf
 python3 corpus/scripts/acquire.py --all
 ```
 
+`--all` selects only assets with remote URLs. Locally generated OCR is excluded; use the documented OCR reproduction script if that output needs rebuilding. Explicit `--id` requests still verify an existing generated file or report its reproduction instructions when missing.
+
 Downloads are atomic, hash checked and retained under `sources/scans/`, which Git ignores. The script refuses to overwrite a mismatching local file. Each failed download is reported; other requested assets continue. An Internet Archive fallback resolves its current storage server from the public metadata API. A provider changing bytes requires review and a new checksum, not bypassing verification. SHA-256 identifies every committed source file and every locally verified scan; archive SHA-1 additionally pins remote issue scans not downloaded in this build. `remote_manifest_verified` means the provider advertised that file and hash, **not** that we downloaded it.
 
 Use the public catalog link in the edition record if a download host is unavailable. Scans are not stored through Git LFS; keeping original downloads outside Git avoids adding roughly 170 MB of already-verified large PDFs plus hundreds of MB of journal issues to every clone.

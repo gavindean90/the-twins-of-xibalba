@@ -1,11 +1,12 @@
 """Regression tests for the protections that keep the research record trustworthy."""
 import json
+import io
 from pathlib import Path
 import shutil
 import tempfile
 import unittest
 from unittest.mock import patch
-from acquire import ROOT, download, safe_path
+from acquire import ROOT, download, safe_path, main
 from validate import validate
 
 class CorpusChecks(unittest.TestCase):
@@ -44,6 +45,34 @@ class CorpusChecks(unittest.TestCase):
         with patch('acquire.fetch',return_value=b'<html>error</html>'):
             with self.assertRaises(RuntimeError):download(a,self.root)
         self.assertFalse((self.root/a['path']).exists())
+    def test_all_selects_only_remote_assets(self):
+        assets=json.loads((self.root/'metadata/assets.json').read_text())
+        generated=[a for a in assets if not a['url']]
+        self.assertTrue(generated)
+        for a in generated:(self.root/a['path']).unlink()
+        def remote_only(asset):
+            if not asset['url']:
+                raise ValueError('Generated file must not be selected by --all')
+            return 'downloaded and verified'
+        with patch('acquire.ROOT',self.root), patch('sys.argv',['acquire.py','--all']), \
+                patch('acquire.download',side_effect=remote_only) as downloader, \
+                patch('sys.stdout',new_callable=io.StringIO), patch('sys.stderr',new_callable=io.StringIO):
+            self.assertEqual(0,main())
+        self.assertEqual(
+            [a['id'] for a in assets if a['url']],
+            [call.args[0]['id'] for call in downloader.call_args_list])
+    def test_explicit_missing_generated_asset_reports_reproduction(self):
+        assets=json.loads((self.root/'metadata/assets.json').read_text())
+        generated=next(a for a in assets if not a['url'])
+        (self.root/generated['path']).unlink()
+        with patch('acquire.ROOT',self.root), \
+                patch('sys.argv',['acquire.py','--id',generated['id']]), \
+                patch('acquire.download',side_effect=lambda a:download(a,self.root)), \
+                patch('acquire.fetch') as fetcher, \
+                patch('sys.stderr',new_callable=io.StringIO) as stderr:
+            self.assertEqual(1,main())
+        fetcher.assert_not_called()
+        self.assertIn('reproduce using its OCR instructions',stderr.getvalue())
     def test_existing_corrupt_file_not_overwritten(self):
         a=next(a for a in json.loads((self.root/'metadata/assets.json').read_text()) if a['id']=='spence-txt')
         p=self.root/a['path'];p.write_bytes(b'local changes')
