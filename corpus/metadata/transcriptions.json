@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ximenez-xquic-heading",
+    "source_id": "ximenez-ms",
+    "folio_map_id": "ximenez-image-0040",
+    "column": "left",
+    "region_pdf_points": [
+      135,
+      375,
+      430,
+      442
+    ],
+    "region_note": "Approximate bounding region in the pinned PDF, points from top-left; full-page context remains authoritative.",
+    "diplomatic_asset_id": "ximenez-xquic-heading",
+    "normalized_working_text": null,
+    "transformations": [],
+    "english_research_gloss": "A section-heading introducing the account of a maiden, daughter of a lord named Cuchumaquic.",
+    "gloss_status": "new_cautious_working_gloss_not_a_verified_translation",
+    "method": "Read full page and enlarged PDF crop visually; compare printed witnesses as separate readings. No handwriting OCR. Preserve displayed line breaks and spelling; use plain Unicode approximations for letterforms.",
+    "reviewer_status": "agent_image_checked_not_independently_reviewed",
+    "review_date": "2026-11-04",
+    "uncertain_readings": [
+      "Word spacing is a paleographic judgment; capoh initial letter and word division in Vachi cut require specialist review."
+    ]
+  },
+  {
+    "id": "ximenez-conception",
+    "source_id": "ximenez-ms",
+    "folio_map_id": "ximenez-image-0041",
+    "column": "left",
+    "region_pdf_points": [
+      140,
+      600,
+      435,
+      700
+    ],
+    "region_note": "Approximate bounding region in the pinned PDF, points from top-left; full-page context remains authoritative.",
+    "diplomatic_asset_id": "ximenez-conception",
+    "normalized_working_text": null,
+    "transformations": [],
+    "english_research_gloss": "To her [continuation]. Immediately her offspring came into being in her belly through the saliva alone. This is the coming into being of Hunahpu and Xbalanque; when she arrived at her [continuation].",
+    "gloss_status": "new_cautious_working_gloss_not_a_verified_translation",
+    "method": "Read full page and enlarged PDF crop visually; compare printed witnesses as separate readings. No handwriting OCR. Preserve displayed line breaks and spelling; use plain Unicode approximations for letterforms.",
+    "reviewer_status": "agent_image_checked_not_independently_reviewed",
+    "review_date": "2026-11-04",
+    "uncertain_readings": [
+      "Excerpt begins and ends mid-sentence. Separation of xa chub is not imposed; final chiro continues on the following manuscript line. Punctuation and huzu spacing need specialist review."
+    ]
+  },
+  {
+    "id": "ximenez-ascension",
+    "source_id": "ximenez-ms",
+    "folio_map_id": "ximenez-image-0074",
+    "column": "left",
+    "region_pdf_points": [
+      120,
+      390,
+      440,
+      515
+    ],
+    "region_note": "Approximate bounding region in the pinned PDF, points from top-left; full-page context remains authoritative.",
+    "diplomatic_asset_id": "ximenez-ascension",
+    "normalized_working_text": null,
+    "transformations": [],
+    "english_research_gloss": "[Following the defeat of] Xibalba, they ascended here into the midst of light; immediately they ascended to the sky. One was sun and one moon among them; the interior of the sky and the face of the earth brightened. They dwelt in the sky. Then ascend the [continuation].",
+    "gloss_status": "new_cautious_working_gloss_not_a_verified_translation",
+    "method": "Read full page and enlarged PDF crop visually; compare printed witnesses as separate readings. No handwriting OCR. Preserve displayed line breaks and spelling; use plain Unicode approximations for letterforms.",
+    "reviewer_status": "agent_image_checked_not_independently_reviewed",
+    "review_date": "2026-11-04",
+    "uncertain_readings": [
+      "Excerpt starts within the preceding sentence and ends within the following clause. Line-final strokes at vara- and o- are represented as hyphens, not normalized joins. quih reading and word spacing are provisional. No explicit fathers noun occurs in the ascending clause; resolving the plural subject requires preceding discourse."
+    ]
+  }
+]

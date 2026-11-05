@@ -88,11 +88,72 @@ def validate(root=ROOT):
                 if key in run:check(run[key] in assets, 'Unknown OCR asset')
         for e in events.values():
             for id in e['character_ids']:check(id in chars,'Unknown character: '+id)
+        # Selected manuscript observations are distinct from text anchors.
+        sequence = {i['sequence']: i['url'] for i in read('metadata/ximenez-image-sequence.json')['images']}
+        folio_doc = read('metadata/ximenez-folios.json')
+        check(folio_doc['schema_version'] == 1, 'Unknown folio schema version')
+        folios = keyed(folio_doc['records'], 'id', 'folios',
+                       ['id','source_id','facsimile_asset_id','image_sequence','image_url',
+                        'pdf_page','folio','columns','event_ids','review','uncertainty'])
+        seen_images, seen_folios = set(), set()
+        review_status = 'agent_image_checked_not_independently_reviewed'
+        for id, f in folios.items():
+            check(f['source_id'] == folio_doc['source_id'] == 'ximenez-ms', 'Folio source mismatch')
+            asset = assets.get(f['facsimile_asset_id'], {})
+            check(asset.get('kind') == 'facsimile' and asset.get('source_id') == f['source_id'], 'Invalid folio facsimile')
+            n = f['image_sequence']
+            check(type(n) is int and n in sequence, 'Unknown manuscript image sequence')
+            check(f['image_url'] == sequence.get(n), 'Manuscript image URL/sequence mismatch')
+            check(n not in seen_images, 'Duplicate manuscript image'); seen_images.add(n)
+            check(type(f['pdf_page']) is int and 1 <= f['pdf_page'] <= len(sequence), 'Invalid manuscript PDF page')
+            mark = f['folio']
+            check(type(mark['number']) is int and mark['number'] > 0 and mark['side'] in {'r','v'}, 'Invalid folio reference')
+            pair = (mark['number'], mark['side'])
+            check(pair not in seen_folios, 'Duplicate folio reference'); seen_folios.add(pair)
+            check(mark['status'] == 'image_checked' and bool(mark['visible_mark']) and bool(mark['basis']), 'Missing folio observation evidence')
+            check(f['columns'] == {'left':'quc','right':'es'}, 'Unexpected manuscript column assignment')
+            check(f['review']['status'] == review_status and bool(f['review']['method']), 'Unsupported manuscript review status')
+            for event in f['event_ids']:check(event in events, 'Unknown folio event')
+        transcriptions = keyed(read('metadata/transcriptions.json'), 'id', 'transcriptions',
+                               ['id','source_id','folio_map_id','column','diplomatic_asset_id',
+                                'normalized_working_text','transformations','english_research_gloss',
+                                'method','reviewer_status','uncertain_readings','region_pdf_points'])
+        for id, t in transcriptions.items():
+            f = folios.get(t['folio_map_id'], {})
+            a = assets.get(t['diplomatic_asset_id'], {})
+            check(bool(f) and t['source_id'] == f.get('source_id'), 'Unknown transcription folio/source')
+            check(a.get('kind') == 'transcription' and a.get('source_id') == t['source_id'], 'Invalid diplomatic asset')
+            check(f.get('facsimile_asset_id') in a.get('generated_from', []), 'Diplomatic input provenance missing')
+            check(t['column'] in {'left','right'}, 'Invalid transcription column')
+            check(t['reviewer_status'] == review_status, 'Unsupported transcription review status')
+            check(bool(t['method']) and bool(t['english_research_gloss']) and isinstance(t['uncertain_readings'], list), 'Incomplete transcription record')
+            check(isinstance(t['transformations'], list), 'Invalid normalization transformations')
+            if t['normalized_working_text'] is None:
+                check(not t['transformations'], 'Transformations without normalized text')
+            else:
+                check(bool(t['transformations']), 'Normalization without transformation record')
+            box = t['region_pdf_points']
+            check(len(box) == 4 and all(isinstance(v, (int,float)) for v in box)
+                  and 0 <= box[0] < box[2] and 0 <= box[1] < box[3], 'Invalid transcription region')
         for p in passages.values():
             for id in p['event_ids']:check(id in events,'Unknown event: '+id)
             for w in p['witnesses']:
                 check(w['source_id'] in editions,'Unknown witness: '+w['source_id'])
-                check(w['status'] in {'verified_text_location','unmapped'},'Unknown witness status')
+                check(w['status'] in {'verified_text_location','verified_image_location','unmapped'},'Unknown witness status')
+                if 'alignment_type' in w:
+                    check(w['alignment_type'] in {'close_textual','episode','interpretive','unmapped'}, 'Invalid alignment type')
+                    check(w.get('confidence') in {'low','medium','high'}, 'Invalid alignment confidence')
+                if w['status'] == 'verified_image_location':
+                    check(w.get('asset_id') is None, 'Image witness must not masquerade as text asset')
+                    f = folios.get(w.get('manuscript', {}).get('folio_map_id'), {})
+                    check(bool(f) and f.get('source_id') == w['source_id'], 'Unknown witness folio/source')
+                    check(bool(set(p['event_ids']) & set(f.get('event_ids', []))), 'Witness/folio event mismatch')
+                    check(w.get('manuscript', {}).get('column') in {'left','right','both'}, 'Invalid witness column')
+                if w['status'] == 'verified_text_location':
+                    check(bool(w.get('asset_id')), 'Verified text witness missing asset')
+                if w.get('transcription_id'):
+                    t = transcriptions.get(w['transcription_id'], {})
+                    check(bool(t) and t.get('diplomatic_asset_id') == w.get('asset_id'), 'Unknown witness transcription/asset')
                 if w.get('asset_id'):
                     check(w['asset_id'] in assets,'Unknown witness asset')
                     a=assets[w['asset_id']];check(a['source_id']==w['source_id'],'Witness asset/source mismatch')

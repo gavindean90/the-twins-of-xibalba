@@ -22,13 +22,17 @@
     "Newberry Library, Chicago; Ayer MS 1515; LOC LCCN 2021668226; WDL 19995.",
     "Created circa 1700–1715. LOC structured date says 1700–1703; its contributor field erroneously identifies a 1560?–1620 namesake, conflicting with its own description. Do not propagate that authority error.",
     "Newberry reports receipt in 1912 through Edward E. Ayer. Earlier chain includes Brasseur de Bourbourg and Alphonse Pinart; exact transfers require archival verification.",
-    "LOC extent: 56 + 6 folios, including Escolios; scan sequence is not an established foliation concordance."
+    "LOC extent: 56 + 6 folios, including Escolios; scan sequence is not an established foliation concordance.",
+    "Selected folio observations: metadata/ximenez-folios.json. Do not extrapolate a global PDF-to-folio offset."
   ],
-  "acquisition_status": "facsimile_download_verified",
-  "text_quality": "No transcription imported; handwriting requires expert transcription, not generic printed-text OCR.",
+  "acquisition_status": "partial_transcription_facsimile_download_verified",
+  "text_quality": "Facsimile plus three short, visually checked diplomatic working excerpts; no independent expert review; remaining manuscript untranscribed.",
   "review_date": "2026-11-04",
   "asset_ids": [
-    "ximenez-pdf"
+    "ximenez-pdf",
+    "ximenez-xquic-heading",
+    "ximenez-conception",
+    "ximenez-ascension"
   ],
   "creation_date": "circa 1700–1715",
   "holding": "Newberry Library, Ayer MS 1515"

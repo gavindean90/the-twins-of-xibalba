@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "source_id": "ximenez-ms",
+  "scope": "Selected narrative pages only; not a complete foliation or missing-leaf census.",
+  "records": [
+    {
+      "id": "ximenez-image-0033",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 33,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0033.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=33",
+      "pdf_page": 33,
+      "folio": {
+        "number": 12,
+        "side": "r",
+        "visible_mark": "12",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-family"
+      ],
+      "observation": "Family introduction; One Hunahpu, Seven Hunahpu, Xbaquiyalo and the elder sons.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0034",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 34,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0034.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=34",
+      "pdf_page": 34,
+      "folio": {
+        "number": 12,
+        "side": "v",
+        "visible_mark": "12",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-summons"
+      ],
+      "observation": "Ballplaying and the underworld council.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0035",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 35,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0035.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=35",
+      "pdf_page": 35,
+      "folio": {
+        "number": 13,
+        "side": "r",
+        "visible_mark": "13",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-summons"
+      ],
+      "observation": "Council offices; start of the summons.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0036",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 36,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0036.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=36",
+      "pdf_page": 36,
+      "folio": {
+        "number": 13,
+        "side": "v",
+        "visible_mark": "13",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-summons"
+      ],
+      "observation": "Owl messengers; equipment stored; farewell to household.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0037",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 37,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0037.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=37",
+      "pdf_page": 37,
+      "folio": {
+        "number": 14,
+        "side": "r",
+        "visible_mark": "14",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-defeat"
+      ],
+      "observation": "Farewell continues; descent, crossroads and wooden figures.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0038",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 38,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0038.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=38",
+      "pdf_page": 38,
+      "folio": {
+        "number": 14,
+        "side": "v",
+        "visible_mark": "14",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-defeat"
+      ],
+      "observation": "Hot stone seat, Dark House, torch and tobacco; trial-house catalogue begins.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0039",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 39,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0039.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=39",
+      "pdf_page": 39,
+      "folio": {
+        "number": 15,
+        "side": "r",
+        "visible_mark": "15",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-fathers-defeat",
+        "event-head-tree"
+      ],
+      "observation": "Trial-house catalogue; execution and burial; head placed in the tree; fruit.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0040",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 40,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0040.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=40",
+      "pdf_page": 40,
+      "folio": {
+        "number": 15,
+        "side": "v",
+        "visible_mark": "15",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-head-tree",
+        "event-xquic-conception"
+      ],
+      "observation": "Tree prohibition; Xquic introduction, dialogue, right hand and saliva.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0041",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 41,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0041.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=41",
+      "pdf_page": 41,
+      "folio": {
+        "number": 16,
+        "side": "r",
+        "visible_mark": "16",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-xquic-conception",
+        "event-xquic-escape"
+      ],
+      "observation": "Saliva and descendants discourse; conception; six months; discovery and interrogation.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0042",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 42,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0042.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=42",
+      "pdf_page": 42,
+      "folio": {
+        "number": 16,
+        "side": "v",
+        "visible_mark": "16",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-xquic-escape"
+      ],
+      "observation": "Denial, execution order, appeal to owls and substitute heart.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0043",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 43,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0043.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=43",
+      "pdf_page": 43,
+      "folio": {
+        "number": 17,
+        "side": "r",
+        "visible_mark": "17",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-xquic-escape",
+        "event-xquic-xmucane"
+      ],
+      "observation": "Substitute heart burned; defeat by the maiden; arrival at the household.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0044",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 44,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0044.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=44",
+      "pdf_page": 44,
+      "folio": {
+        "number": 17,
+        "side": "v",
+        "visible_mark": "17",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-xquic-xmucane"
+      ],
+      "observation": "Kinship dispute, maize test, invocation, silk and loaded net.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0045",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 45,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0045.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=45",
+      "pdf_page": 45,
+      "folio": {
+        "number": 18,
+        "side": "r",
+        "visible_mark": "18",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-xquic-xmucane",
+        "event-twins-childhood"
+      ],
+      "observation": "Field inspection and acceptance; birth and early mistreatment.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0071",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 71,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0071.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=71",
+      "pdf_page": 71,
+      "folio": {
+        "number": 31,
+        "side": "r",
+        "visible_mark": "31",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-victory"
+      ],
+      "observation": "Lords request sacrifice; their death, refusal to revive and flight of followers.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0072",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 72,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0072.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=72",
+      "pdf_page": 72,
+      "folio": {
+        "number": 31,
+        "side": "v",
+        "visible_mark": "31",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-victory"
+      ],
+      "observation": "Twins disclose names and ancestry; defeat and restriction of Xibalba.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0073",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 73,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0073.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=73",
+      "pdf_page": 73,
+      "folio": {
+        "number": 32,
+        "side": "r",
+        "visible_mark": "32",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-father-reunion"
+      ],
+      "observation": "Restrictions conclude; grandmother and canes; ancestral encounter and attempted restoration.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    },
+    {
+      "id": "ximenez-image-0074",
+      "source_id": "ximenez-ms",
+      "facsimile_asset_id": "ximenez-pdf",
+      "image_sequence": 74,
+      "image_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/ayer_ms_1515_vol_2_0074.jp2",
+      "viewer_url": "https://www.loc.gov/resource/gdcwdl.wdl_19995/?sp=74",
+      "pdf_page": 74,
+      "folio": {
+        "number": 32,
+        "side": "v",
+        "visible_mark": "32",
+        "status": "image_checked",
+        "basis": "Number visible at outer upper margin; side checked from gutter, facing layout and adjacent page. Date and author of foliation marks are not established."
+      },
+      "columns": {
+        "left": "quc",
+        "right": "es"
+      },
+      "event_ids": [
+        "event-father-reunion",
+        "event-ascension"
+      ],
+      "observation": "Restoration difficulty, ancestral invocation, ascension, four hundred youths; next creation section.",
+      "review": {
+        "date": "2026-11-04",
+        "method": "Visual inspection of full-page rendering of checksum-pinned LOC PDF; compared selected enlarged regions. Provider sequence follows existing LOC image manifest. Direct JP2 retrieval returned HTTP 403; individual JP2 bytes were not independently compared.",
+        "status": "agent_image_checked_not_independently_reviewed"
+      },
+      "uncertainty": "Episode presence verified; no claim of complete diplomatic transcription of this page."
+    }
+  ]
+}

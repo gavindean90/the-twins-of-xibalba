@@ -1,6 +1,8 @@
 # Research findings and reconnaissance
 
-## Repository
+## Initial corpus build (retained historical record)
+
+### Repository
 
 Base: `61811a8` on `main`. Inspected README, LICENSE, seven Markdown books, matching HTML publication files, static assets, JavaScript/CSS and the Xquic SVG. The two remote editorial branches contain no source corpus. No corpus, research directory or existing AGENTS.md was present. No tracked GitHub Actions workflow was present. All poem, site and artwork bytes are preserved; only a corpus pointer and license-scope clarification were appended to the root README.
 
@@ -28,3 +30,13 @@ Archive front-end 503 responses were resolved for Brasseur and four Guthrie issu
 No generic OCR was applied to Ximénez’s handwriting. There is no verified machine-readable manuscript transcription in this initial corpus. The Brasseur K’iche’ OCR is a printed edited witness, not a substitute for one.
 
 Research URLs and rights evidence are attached to the individual edition and visual records. No modern translation text was imported. No AI artwork was generated.
+
+## Manuscript research extension — 2026-11-04
+
+Base for this extension: merged PR #3, main `7e5a80e7e8850e24e66b8a69d2faa5b7c19d832b`. The initial-build statements above describe that earlier state. Current results are in [five dossiers](research/README.md): 17 selected folio observations, three short diplomatic working readings and expanded historical anchors. Source bytes and the seven published books remain unchanged.
+
+The ascent clause on 32v contains no explicit fathers noun. Brasseur's French and Guthrie's English add that identification and a related sky-vault explanation. The younger twins are favored by narrative continuity, but the ancestral restoration syntax and individual Sun/Moon assignment remain unresolved. The dossier distinguishes this qualified conclusion from a complete grammatical proof.
+
+Additional findings include the explicit limitation of the fathers' trial sequence, the descendants imagery of the skull speech, Xquic's negotiation and maize test, and Brasseur's acknowledged replacement of animal helpers with barbarians. These are precisely located comparisons, not a blanket claim of correctness for any historical translation. Contemporary scholarship has been consulted in limited scope; no modern translation text is included as an asset.
+
+See [method and limitations](research/manuscript-method.md). The work has not independently verified the paleography, audited all foliation, or equated the colonial manuscript with an unmediated ancient original.

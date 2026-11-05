@@ -8,7 +8,8 @@ A working source collection for *The Twins of Xibalba*, reviewed **2026-11-04** 
 2. Read searchable historical texts in `sources/transcriptions/` and `sources/ocr/`. OCR is provisional, not a verified K’iche’ transcription.
 3. Inspect [rights](metadata/rights.json) and [asset provenance/checksums](metadata/assets.json) before reusing a file.
 4. Use [passages](indexes/passages.json), [events](indexes/events.json) and [characters](indexes/characters.json) as a seed concordance. Most manuscript and stanza mappings remain deliberately unmapped.
-5. Download scans when needed with the commands below. No personal account, hosted database or private service is required.
+5. Read the [five manuscript research dossiers](research/README.md), including [ascension](research/ancestors-and-ascension.md) and the [folio/transcription method](research/manuscript-method.md).
+6. Download scans when needed with the commands below. No personal account, hosted database or private service is required.
 
 ## Commands
 
@@ -24,7 +25,7 @@ python3 corpus/scripts/acquire.py --id word-1906-05-pdf
 python3 corpus/scripts/acquire.py --all
 ```
 
-`--all` selects only assets with remote URLs. Locally generated OCR is excluded; use the documented OCR reproduction script if that output needs rebuilding. Explicit `--id` requests still verify an existing generated file or report its reproduction instructions when missing.
+`--all` selects only assets with remote URLs. Locally generated OCR and diplomatic readings are excluded; use the recorded OCR instructions or transcription provenance if an output needs rebuilding. Explicit `--id` requests still verify an existing generated file or report its reproduction instructions when missing.
 
 Downloads are atomic, hash checked and retained under `sources/scans/`, which Git ignores. The script refuses to overwrite a mismatching local file. Each failed download is reported; other requested assets continue. An Internet Archive fallback resolves its current storage server from the public metadata API. A provider changing bytes requires review and a new checksum, not bypassing verification. SHA-256 identifies every committed source file and every locally verified scan; archive SHA-1 additionally pins remote issue scans not downloaded in this build. `remote_manifest_verified` means the provider advertised that file and hash, **not** that we downloaded it.
 
@@ -52,7 +53,7 @@ print(p['uncertainty'])
 | Location | Contents |
 | --- | --- |
 | `sources/editions/*.json` | One bibliographic record per edition, including pending and modern linked-only sources |
-| `sources/transcriptions/` | Unchanged Gutenberg text, including its notices |
+| `sources/transcriptions/` | Unchanged Gutenberg text and three separately recorded diplomatic working excerpts |
 | `sources/ocr/` | Uncorrected archive OCR and separately labeled local OCR |
 | `sources/scans/` | Download destination for pinned original facsimiles; PDFs ignored by Git |
 | `metadata/assets.json` | File URL, source ID, size, checksum, quality and acquisition state |
@@ -60,6 +61,9 @@ print(p['uncertainty'])
 | `metadata/relationships.json` | Directional edition dependencies and confidence |
 | `metadata/guthrie-installments.json` | 14 issue/date/page records; issue text includes unrelated articles |
 | `metadata/ximenez-image-sequence.json` | LOC image order and original image URLs; not manuscript foliation |
+| `metadata/ximenez-folios.json` | 17 selected image/folio observations; not a global pagination formula |
+| `metadata/transcriptions.json` | Diplomatic provenance, uncertainty, review status and separate research glosses |
+| `research/` | Five comparative dossiers, modern reference notes and narrative implications |
 | `images/catalog.json` | Visual references, provenance and image-specific rights |
 | `indexes/` | Stable editorial IDs and initial episode-level concordance |
 

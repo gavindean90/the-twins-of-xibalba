@@ -48,7 +48,7 @@ def download(asset, root=ROOT):
         verify_bytes(asset, target.read_bytes())
         return 'already verified'
     if not asset.get('url'):
-        raise ValueError('Generated file; reproduce using its OCR instructions')
+        raise ValueError('Generated file; reproduce using its documented provenance (OCR instructions or transcription review)')
     urls = [asset['url']]
     error = None
     # IA's public front end sometimes returns 503. Resolve its current storage
