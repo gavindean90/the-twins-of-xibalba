@@ -50,3 +50,7 @@ The epic is composed in a strict 9-line stanza form, predominantly in iambic tet
 ## License
 
 This work is dedicated to the public domain under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](LICENSE). You are free to copy, modify, distribute, perform, or adapt this work, even for commercial purposes, without asking permission.
+
+## Research corpus
+
+The [public-domain research corpus](corpus/README.md) contains historical texts, edition and rights metadata, visual references, an initial narrative concordance and reproducible facsimile downloads. Third-party sources retain their own provenance and rights status; the project's CC0 dedication does not relicense them.

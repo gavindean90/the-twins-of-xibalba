@@ -1,0 +1,26 @@
+{
+  "id": "bazzett-2018",
+  "title": "The Popol Vuh",
+  "publication_year": 2018,
+  "contributors": [
+    {
+      "name": "Michael Bazzett",
+      "role": "translator",
+      "death_date": null
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "kind": "modern_translation",
+  "catalog_urls": [
+    "https://milkweed.org/book/the-popol-vuh"
+  ],
+  "notes": [
+    "Reference only. Do not redistribute translation, introduction, annotations or modern transcription without permission."
+  ],
+  "acquisition_status": "linked_only",
+  "text_quality": "No protected text imported.",
+  "review_date": "2026-11-04",
+  "asset_ids": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "asturias-mendoza-1927",
+  "title": "Los dioses, los héroes y los hombres de Guatemala antigua, o El libro del Consejo",
+  "publication_year": 1927,
+  "contributors": [
+    {
+      "name": "Miguel Ángel Asturias",
+      "role": "translator/editor",
+      "death_date": null
+    },
+    {
+      "name": "J. M. González de Mendoza",
+      "role": "translator/editor",
+      "death_date": null
+    }
+  ],
+  "languages": [
+    "es"
+  ],
+  "kind": "printed_translation",
+  "catalog_urls": [
+    "https://catalogo.uacm.edu.mx/bib/51888"
+  ],
+  "notes": [
+    "Paris: Paris-América, 1927. Spanish translation from Raynaud’s French. Separate from Villacorta/Rodas. Original edition scan pending; later introductions excluded."
+  ],
+  "acquisition_status": "pending_acquisition",
+  "text_quality": "No text acquired; bibliography only.",
+  "review_date": "2026-11-04",
+  "asset_ids": []
+}

@@ -1,0 +1,601 @@
+[
+  {
+    "id": "ximenez-pdf",
+    "source_id": "ximenez-ms",
+    "path": "sources/scans/ximenez-ms.pdf",
+    "url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/99/5/wdl_19995/wdl_19995.pdf",
+    "kind": "facsimile",
+    "quality": "Original manuscript facsimile; all provider PDF pages; foliation not collated.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "download_verified",
+    "bytes": 61753371,
+    "sha256": "8954407812e5733b625eac85af2374dca6b2f9203eeaa61f399b76d21e6141b6"
+  },
+  {
+    "id": "scherzer-txt",
+    "source_id": "scherzer-1857",
+    "path": "sources/ocr/scherzer-1857.txt",
+    "url": "https://archive.org/download/lashistoriasdelo00sche/lashistoriasdelo00sche_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR; multilingual errors, broken words and reading-order errors expected.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 397453,
+    "sha256": "f55329a4fe4642ca98ce2ee16701a8212ba8512746f0d2bb48aba126cd9d0739",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "0cd1436bbce4b6cf77b2c707e3e2b7e278c38f78"
+    }
+  },
+  {
+    "id": "scherzer-pdf",
+    "source_id": "scherzer-1857",
+    "path": "sources/scans/scherzer-1857.pdf",
+    "url": "https://archive.org/download/lashistoriasdelo00sche/lashistoriasdelo00sche.pdf",
+    "kind": "facsimile",
+    "quality": "Uncorrected Internet Archive OCR; multilingual errors, broken words and reading-order errors expected.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "download_verified",
+    "bytes": 17961183,
+    "sha256": "dc499f1e8f5e08f164c6927f52344483acff4df71e7183a7d180a2650afb28f7",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "0e2196fea0897c988b4294dbf4a24aba6c828966"
+    }
+  },
+  {
+    "id": "brasseur-txt",
+    "source_id": "brasseur-1861",
+    "path": "sources/ocr/brasseur-1861.txt",
+    "url": "https://archive.org/download/popolvuhlelivres00bras/popolvuhlelivres00bras_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR; multilingual errors, broken words and reading-order errors expected.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 1587204,
+    "sha256": "3a47fccf282cd85a9a36408bb7cfc7185433c3a0e96d96fa1135242ff8dcf245",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "769da054b91547e349aa567d9286c267403be47d"
+    }
+  },
+  {
+    "id": "brasseur-pdf",
+    "source_id": "brasseur-1861",
+    "path": "sources/scans/brasseur-1861.pdf",
+    "url": "https://archive.org/download/popolvuhlelivres00bras/popolvuhlelivres00bras.pdf",
+    "kind": "facsimile",
+    "quality": "Uncorrected Internet Archive OCR; multilingual errors, broken words and reading-order errors expected.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "download_verified",
+    "bytes": 57493068,
+    "sha256": "8060380466794864d3c5582bc74b55f87b43760c6979a0f356d6fcf5de1dd69d",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "074b513138cbb9c35f166fab91d649b8f0e18b52"
+    }
+  },
+  {
+    "id": "spence-txt",
+    "source_id": "spence-1908",
+    "path": "sources/transcriptions/spence-1908-gutenberg.txt",
+    "url": "https://www.gutenberg.org/cache/epub/56550/pg56550.txt",
+    "kind": "transcription",
+    "quality": "Proofread Gutenberg transcription; not independently collated page by page; original electronic file unchanged.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 96786,
+    "sha256": "df3b950183c3d1370dd4f055cfb60184f46977801b52765e6ad0b4cd2964694e"
+  },
+  {
+    "id": "word-1905-10-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1905-10.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-10_2_1/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-10_2_1_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 164580,
+    "sha256": "c0f4f36de582909c164d9547508b91ff83c0c29ed1e02321ba9f8e9089421067",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "1b08648b960deb69b391e2f8dc17b7dd6983d5a9"
+    }
+  },
+  {
+    "id": "word-1905-10-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1905-10.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-10_2_1/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-10_2_1.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "a344efab30f5ab76c625be625b24f60cc00d5a7e"
+    },
+    "bytes": 39759216
+  },
+  {
+    "id": "word-1905-11-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1905-11.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-11_2_2/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-11_2_2_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 166838,
+    "sha256": "c90a4a5e07c0da607df4ffb3b1b27fce73715f99ae48596056ffd5e204381c5a",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "558a0df4a890303327e8166ee3e4a067a3e00e42"
+    }
+  },
+  {
+    "id": "word-1905-11-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1905-11.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-11_2_2/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-11_2_2.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "1a652240f01ef1bca013f102a2fe3b9bf8d25e7e"
+    },
+    "bytes": 32043158
+  },
+  {
+    "id": "word-1905-12-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1905-12.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-12_2_3/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-12_2_3_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 164740,
+    "sha256": "7e501c51f05dd0e7bae0c4d63f6a832451cbe754c0ab82525d4e6998a7833800",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "1a6b66843d53b2502877dead694cfbeb22dfe6d1"
+    }
+  },
+  {
+    "id": "word-1905-12-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1905-12.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-12_2_3/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1905-12_2_3.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "1b68d2ef735239b0c7566701b90dafd2922131f4"
+    },
+    "bytes": 31655763
+  },
+  {
+    "id": "word-1906-01-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-01.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-01_2_4/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-01_2_4_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 156315,
+    "sha256": "1afa4b03e8d0bfc4a8e07803ed863dd113b24b008c7f2944c55c1871c96dd103",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "5932d61d0cfd786dcd4c604e36c8cdaa4e930e52"
+    }
+  },
+  {
+    "id": "word-1906-01-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-01.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-01_2_4/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-01_2_4.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "dc824023eaa6de2365f1e2205770c24597b1f488"
+    },
+    "bytes": 30082851
+  },
+  {
+    "id": "word-1906-02-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-02.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-02_2_5/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-02_2_5_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 158381,
+    "sha256": "6d790334b8c9fc2502b88de317e0313197c770149f462df663b14be5cdcc38f1",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "f1d393395474f9f6e3ef2a1271007072053f4086"
+    }
+  },
+  {
+    "id": "word-1906-02-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-02.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-02_2_5/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-02_2_5.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "5f140f30071b417d235b75f7690246f65e8d7340"
+    },
+    "bytes": 30959363
+  },
+  {
+    "id": "word-1906-03-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-03.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-03_2_6/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-03_2_6_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 165277,
+    "sha256": "a2632672adac01a9a6454e0a81731b516ae0062d0fa2b6956f3960e9b85f982d",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "6b83583e051231af9be543178df6814ee476c115"
+    }
+  },
+  {
+    "id": "word-1906-03-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-03.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-03_2_6/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-03_2_6.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "c716cd2a4fb88d564b893966837e25b0234d19ff"
+    },
+    "bytes": 32139968
+  },
+  {
+    "id": "word-1906-04-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-04.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-04_3_1/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-04_3_1_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 169110,
+    "sha256": "a10ef782f1321b796445921452dab93ab805b94a625ec0396d83e5e407d1032c",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "dbb261d3bdaf2f41ee7ef3c525793a4d95da0faf"
+    }
+  },
+  {
+    "id": "word-1906-04-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-04.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-04_3_1/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-04_3_1.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "43c0cd1bf1ea78e6c1cba4f551628c271153e9e7"
+    },
+    "bytes": 42497846
+  },
+  {
+    "id": "word-1906-05-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-05.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-05_3_2/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-05_3_2_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 160938,
+    "sha256": "53e7c8e139ecd064e66a09da8e3d51564fcdadb70b29b699e03435b45c6ae87e",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "a0493038661a7d69adc411907f84b232b92ee16b"
+    }
+  },
+  {
+    "id": "word-1906-05-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-05.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-05_3_2/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-05_3_2.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; live downloader verified size and provider SHA-1; SHA-256 now pinned.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "download_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "42ae52c14b78782025afeeb7b139fb3aec1e4ded"
+    },
+    "bytes": 31302565,
+    "sha256": "5f180ebcd7ab314b552604bae26eaa97469122967c6273be950d332f3efb680a"
+  },
+  {
+    "id": "word-1906-06-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-06.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-06_3_3/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-06_3_3_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 141594,
+    "sha256": "0f460f9dcf56ce7ac425246367787ecc2b1f34dcf8f1df17697fd9d6cec34a8c",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "dc687cabab8f33b2292d9f2674593f5e47cdaee0"
+    }
+  },
+  {
+    "id": "word-1906-06-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-06.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-06_3_3/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-06_3_3.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "df27d9a21d5366fe16e7abad2bfbbbfef5b4bcd7"
+    },
+    "bytes": 28016509
+  },
+  {
+    "id": "word-1906-07-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-07.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-07_3_4/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-07_3_4_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 155154,
+    "sha256": "f894c9c1c82a6ee19a5adf761a6128a39962c1d640fdad02c8ac6ada17b4c76e",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "8b8db4f80e953ce00ca85b83a496e503b9d11580"
+    }
+  },
+  {
+    "id": "word-1906-07-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-07.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-07_3_4/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-07_3_4.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "47618b5cc6e5d9f1fdbfb3141d3b8479e89b566c"
+    },
+    "bytes": 31666358
+  },
+  {
+    "id": "word-1906-08-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-08.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-08_3_5/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-08_3_5_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 143102,
+    "sha256": "b38d329816dee148c852e2bbd7112f06c9f1eb3a373a358dcdb2c9bfcde55f73",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "61fba07647a3410e761a0cf504d48ba7102ab687"
+    }
+  },
+  {
+    "id": "word-1906-08-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-08.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-08_3_5/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-08_3_5.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "49275e203da95298c351aad6b2cda70d329fed53"
+    },
+    "bytes": 28766754
+  },
+  {
+    "id": "word-1906-09-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-09.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-09_3_6/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-09_3_6_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 132649,
+    "sha256": "f7fcb97f16215bf2607947ac2475b2f73c164e1d937102854ff5e5c0cd82c632",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "a9fb2fae1bbd612f9a9859611b238ffa0288c095"
+    }
+  },
+  {
+    "id": "word-1906-09-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-09.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-09_3_6/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-09_3_6.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "1dccf0d53bfa344652248c9ea2731af9035f7b37"
+    },
+    "bytes": 27634923
+  },
+  {
+    "id": "word-1906-10-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-10.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-10_4_1/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-10_4_1_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 160891,
+    "sha256": "f9365c44419e86bb7717494fbf2401b6829aace8cc056ffc29db40708c51554f",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "0e1dc788f7a50de44103543b34a4ee7c9dfd086f"
+    }
+  },
+  {
+    "id": "word-1906-10-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-10.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-10_4_1/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-10_4_1.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "77db140c22bbe35203f697c45d1833d44e6823b9"
+    },
+    "bytes": 32447333
+  },
+  {
+    "id": "word-1906-11-txt",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/ocr/guthrie/word-1906-11.txt",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-11_4_2/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-11_4_2_djvu.txt",
+    "kind": "ocr",
+    "quality": "Uncorrected Internet Archive OCR of whole issues, including unrelated articles; use installment page ranges to isolate Guthrie.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 175378,
+    "sha256": "61cb4c2ba28d6f5da01b836644e0b56e4bd9843cca34074d623fc1abf08e49f2",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "2959be6465aaadb4a281f91265161ea74f7d4355"
+    }
+  },
+  {
+    "id": "word-1906-11-pdf",
+    "source_id": "guthrie-1905-1906",
+    "path": "sources/scans/guthrie/word-1906-11.pdf",
+    "url": "https://archive.org/download/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-11_4_2/sim_word-a-monthly-magazine-devoted-to-philosophy-science_1906-11_4_2.pdf",
+    "kind": "facsimile",
+    "quality": "Whole original issue; upstream SHA-1 pin; not downloaded in this build.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "remote_manifest_verified",
+    "upstream_checksum": {
+      "algorithm": "sha1",
+      "value": "aa9bba0b470021a6a5430f0efc376f5ea3a85eb0"
+    },
+    "bytes": 37360243
+  },
+  {
+    "id": "pohorilles-pdf",
+    "source_id": "pohorilles-1913",
+    "path": "sources/scans/pohorilles-1913.pdf",
+    "url": "https://u.osu.edu/mayanarchives/files/2016/06/Noah-Elieser-Pohorilles-2l9b6c0.pdf",
+    "kind": "facsimile",
+    "quality": "Historical printed-page facsimile; OSU host.",
+    "tracked": false,
+    "review_date": "2026-11-04",
+    "status": "download_verified",
+    "bytes": 30278986,
+    "sha256": "4eacfa38c7f643a76ec3b2c7427b1ad7728c9910325ba396fe5e2afb69b17a1c"
+  },
+  {
+    "id": "cma-image",
+    "source_id": "cma-1990-180",
+    "path": "images/cma-1990-180.jpg",
+    "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_web.jpg",
+    "kind": "image",
+    "quality": "Museum web-size photograph, unchanged.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 358753,
+    "sha256": "0b57d0ad5f4fa0f740565f91f8bca2bd2fec5ebe9293f0236c22980fbfe6ce75"
+  },
+  {
+    "id": "pohorilles-ocr",
+    "source_id": "pohorilles-1913",
+    "path": "sources/ocr/pohorilles-1913-tesseract.txt",
+    "url": null,
+    "kind": "ocr",
+    "quality": "Tesseract 5.3.4, deu tessdata_fast; uncorrected. 71 spreads split into 142 halves; blank cover halves retained. Not a diplomatic transcription.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 331174,
+    "sha256": "7b97b61f4236cc755411908cc887f49a4f7ac10a96bf408f01895418115054ac",
+    "generated_from": [
+      "pohorilles-pdf"
+    ]
+  }
+]

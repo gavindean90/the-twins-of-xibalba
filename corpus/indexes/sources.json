@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ximenez-ms",
+    "record": "sources/editions/ximenez-ms.json",
+    "status": "facsimile_download_verified"
+  },
+  {
+    "id": "scherzer-1857",
+    "record": "sources/editions/scherzer-1857.json",
+    "status": "text_acquired_scan_download_verified"
+  },
+  {
+    "id": "brasseur-1861",
+    "record": "sources/editions/brasseur-1861.json",
+    "status": "text_acquired_scan_download_verified"
+  },
+  {
+    "id": "spence-1908",
+    "record": "sources/editions/spence-1908.json",
+    "status": "text_acquired"
+  },
+  {
+    "id": "guthrie-1905-1906",
+    "record": "sources/editions/guthrie-1905-1906.json",
+    "status": "serial_issue_texts_acquired_translation_incomplete"
+  },
+  {
+    "id": "pohorilles-1913",
+    "record": "sources/editions/pohorilles-1913.json",
+    "status": "text_acquired_scan_download_verified"
+  },
+  {
+    "id": "raynaud-1925",
+    "record": "sources/editions/raynaud-1925.json",
+    "status": "pending_acquisition"
+  },
+  {
+    "id": "villacorta-rodas-1927",
+    "record": "sources/editions/villacorta-rodas-1927.json",
+    "status": "pending_acquisition"
+  },
+  {
+    "id": "asturias-mendoza-1927",
+    "record": "sources/editions/asturias-mendoza-1927.json",
+    "status": "pending_acquisition"
+  },
+  {
+    "id": "christenson-2007",
+    "record": "sources/editions/christenson-2007.json",
+    "status": "linked_only"
+  },
+  {
+    "id": "bazzett-2018",
+    "record": "sources/editions/bazzett-2018.json",
+    "status": "linked_only"
+  }
+]

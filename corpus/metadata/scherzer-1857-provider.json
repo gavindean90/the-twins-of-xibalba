@@ -1,0 +1,36 @@
+{
+  "source_id": "scherzer-1857",
+  "metadata_url": "https://archive.org/metadata/lashistoriasdelo00sche",
+  "retrieved": "2026-11-04",
+  "bibliographic_facts": {
+    "identifier": "lashistoriasdelo00sche",
+    "title": "Las historias del origen de los Indios de esta provincia de Guatemala",
+    "creator": [
+      "Scherzer, Karl, Ritter von, 1821-1903, ed",
+      "Ximénez, Francisco, 1666-approximately 1722, tr",
+      "Kaiserl. Akademie der Wissenschaften in Wien"
+    ],
+    "date": "1857",
+    "publisher": "Viena, C. Gerold & hijo",
+    "lccn": "05009885",
+    "identifier-ark": "ark:/13960/t2p57f97q",
+    "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+    "ocr": null,
+    "ocr_module_version": "0.0.21",
+    "ocr_converted": "abbyy-to-hocr 1.1.37"
+  },
+  "files": [
+    {
+      "name": "lashistoriasdelo00sche.pdf",
+      "size": "17961183",
+      "sha1": "0e2196fea0897c988b4294dbf4a24aba6c828966",
+      "format": "Text PDF"
+    },
+    {
+      "name": "lashistoriasdelo00sche_djvu.txt",
+      "size": "397453",
+      "sha1": "0cd1436bbce4b6cf77b2c707e3e2b7e278c38f78",
+      "format": "DjVuTXT"
+    }
+  ]
+}

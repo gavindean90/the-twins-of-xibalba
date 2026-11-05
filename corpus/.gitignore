@@ -1,0 +1,4 @@
+/sources/scans/*
+!/sources/scans/README.md
+__pycache__/
+*.pyc

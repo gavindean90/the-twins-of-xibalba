@@ -1,0 +1,675 @@
+[
+  {
+    "id": "pv-fathers-family",
+    "event_ids": [
+      "event-fathers-family"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          335,
+          344
+        ],
+        "excerpt_sha256": "772a2d86af0f13cd9186ed82364f21beb108e1a143a7cc4833b960263fdbe0fe",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [
+      {
+        "path": "book-1.md",
+        "lines": [
+          16,
+          33
+        ],
+        "excerpt_sha256": "31fd0f2864f04bde79d554cd1ca4ff134142868e37b69846750da2cefbb76819",
+        "status": "verified_thematic_reference",
+        "revision": "61811a8"
+      }
+    ],
+    "uncertainty": "Existing Book I briefly recalls the fathers; no expanded family episode yet.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-fathers-summons",
+    "event_ids": [
+      "event-fathers-summons"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          345,
+          356
+        ],
+        "excerpt_sha256": "99883e053c1344bcffa36c97d0260c9ed48e2c72ade4cae951b4bc618da5035d",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [
+      {
+        "path": "book-1.md",
+        "lines": [
+          16,
+          33
+        ],
+        "excerpt_sha256": "31fd0f2864f04bde79d554cd1ca4ff134142868e37b69846750da2cefbb76819",
+        "status": "verified_thematic_reference",
+        "revision": "61811a8"
+      }
+    ],
+    "uncertainty": "Brief retrospective, not a full adaptation.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-fathers-defeat",
+    "event_ids": [
+      "event-fathers-defeat"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          357,
+          362
+        ],
+        "excerpt_sha256": "1a6fc4637c07442639c84593b79bac682b4615524ee0db34d13f803838b58ec1",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [
+      {
+        "path": "book-1.md",
+        "lines": [
+          25,
+          33
+        ],
+        "excerpt_sha256": "3b67b6f5c08dd176358084f7b511cc059c80afb527d84d9c44049b898a2671d3",
+        "status": "verified_thematic_reference",
+        "revision": "61811a8"
+      }
+    ],
+    "uncertainty": "Source trials need fuller cross-edition comparison.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-head-tree",
+    "event_ids": [
+      "event-head-tree"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          362,
+          366
+        ],
+        "excerpt_sha256": "bbdb2bda1c2403e8fac32380a542b0dcac6dbd58e311efada5c510fb823bcdae",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Historical botanical names and tree identification require comparison.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-xquic-conception",
+    "event_ids": [
+      "event-xquic-conception"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          368,
+          374
+        ],
+        "excerpt_sha256": "a14a91000c83a49a583c719c7212a92acbebc81ef6f2f7513de9e79c6977e55d",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Blood Moon is not adopted here as an undisputed literal translation of Xquic.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-xquic-escape",
+    "event_ids": [
+      "event-xquic-escape"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          375,
+          380
+        ],
+        "excerpt_sha256": "c63b30b6adb24a44582ce5db24029dc0a0293d530f4b39223051e01cfd9f0814",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Compare substitute heart substance and agency across witnesses.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-xquic-xmucane",
+    "event_ids": [
+      "event-xquic-xmucane"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          382,
+          386
+        ],
+        "excerpt_sha256": "b0a4acbcd287cdf74223b42674477bcf8d45c9e80cb80febd1fd968350eefec4",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Spence compresses the maize test.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-twins-childhood",
+    "event_ids": [
+      "event-twins-childhood"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          388,
+          406
+        ],
+        "excerpt_sha256": "0018ffd92abf5154691914201bab7ce0832ceab2aac530d9803823bec8772082",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Distinguish source episode from interpretive characterization.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-twins-ballgame",
+    "event_ids": [
+      "event-twins-ballgame"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          408,
+          442
+        ],
+        "excerpt_sha256": "c97eae9d5a831046cb22388727a9c90ad0cdff1c46db799b8af202b42825ff01",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [
+      {
+        "path": "book-1.md",
+        "lines": [
+          16,
+          23
+        ],
+        "excerpt_sha256": "60f236667c511f3c8acd22c757b449bc66c6ebb57ef4e3d84982c3148fb12092",
+        "status": "verified_thematic_reference",
+        "revision": "61811a8"
+      }
+    ],
+    "uncertainty": "Poem begins at their ballgame; field-clearing and messenger sequence are not fully mapped.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-twins-descent",
+    "event_ids": [
+      "event-twins-descent"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          444,
+          455
+        ],
+        "excerpt_sha256": "5c49dee1420aeef2295eb6cf19c4b35abc9117fd658c0ca6c25141fd4332434a",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Books II–III relevant; exact stanza mapping pending.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-twins-trials",
+    "event_ids": [
+      "event-twins-trials"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          456,
+          473
+        ],
+        "excerpt_sha256": "cbf5c042105229227639b01d3ea8551a5fa10e638370ff67f6e5f425a8937ef2",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Books III–IV relevant; Spence’s borrowed-head account is explicitly uncertain.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-borrowed-head",
+    "event_ids": [
+      "event-borrowed-head"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          475,
+          480
+        ],
+        "excerpt_sha256": "2ddcf2621ed329c2b964ecfcd2e8f7aceebdf57911e1d15ccff1463a41909bc2",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Spence says he cannot explain the restoration; do not fill his gap from another translation without attribution.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-death-resurrection",
+    "event_ids": [
+      "event-death-resurrection"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          482,
+          490
+        ],
+        "excerpt_sha256": "8a62561d575bffe9a60915b29ee917c87728079c9723d1ba80d780ef2af55052",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Book V relevant; precise mapping pending.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-victory",
+    "event_ids": [
+      "event-victory"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          491,
+          504
+        ],
+        "excerpt_sha256": "ebb9601f75395c9108dca5933fd0e6225077b6d57a982d15f0225ff8da02754f",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [],
+    "uncertainty": "Book VI relevant; precise mapping pending.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-father-reunion",
+    "event_ids": [
+      "event-father-reunion"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          506,
+          509
+        ],
+        "excerpt_sha256": "f7a964aced6232c8fe195caf0eb34f4a604302bed658ce9aeb068ac5e93ded9d",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "ximenez-ms",
+        "asset_id": null,
+        "section": null,
+        "printed_pages": null,
+        "status": "unmapped",
+        "relationship": "Manuscript folio alignment pending; do not infer from Spence"
+      }
+    ],
+    "adaptation_refs": [
+      {
+        "path": "book-7.md",
+        "lines": [
+          15,
+          73
+        ],
+        "excerpt_sha256": "02eeffdbb6ed963d682d3164b94355a4a63660141abbe2d5ce54a4c93ae03805",
+        "status": "verified_thematic_reference",
+        "revision": "61811a8"
+      }
+    ],
+    "uncertainty": "Spence compresses the father’s failed restoration; consult fuller witnesses.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-ascension",
+    "event_ids": [
+      "event-ascension"
+    ],
+    "witnesses": [
+      {
+        "source_id": "spence-1908",
+        "asset_id": "spence-txt",
+        "section": "THE SECOND BOOK",
+        "printed_pages": null,
+        "lines": [
+          506,
+          512
+        ],
+        "excerpt_sha256": "21e0b0451ce5c1f8668e4b09ec0b7d12edff5f7a209aaac9922ecd7496c9fd62",
+        "status": "verified_text_location",
+        "relationship": "retelling of episode; not a line-for-line translation"
+      },
+      {
+        "source_id": "guthrie-1905-1906",
+        "asset_id": "word-1906-05-txt",
+        "section": "Part II, chapter XIV, paragraphs 21–22",
+        "printed_pages": [
+          111,
+          111
+        ],
+        "lines": [
+          3234,
+          3244
+        ],
+        "excerpt_sha256": "d5cbbb984474f0d3086a604dfb9f4f9f24a7d01ddcd2c88f8f412332ece96268",
+        "status": "verified_text_location",
+        "relationship": "episode-level parallel; preserves explicit translator addition (their fathers)"
+      },
+      {
+        "source_id": "brasseur-1861",
+        "asset_id": "brasseur-txt",
+        "section": "Deuxième partie, chapitre XIV",
+        "printed_pages": [
+          193,
+          193
+        ],
+        "lines": [
+          25377,
+          25387
+        ],
+        "excerpt_sha256": "f98610dea7315a4c9595238272aca3a5c01dfc42931edc92f3945fa20e188dea",
+        "status": "verified_text_location",
+        "relationship": "French translation includes parenthetical leurs pères; manuscript interpretation unresolved"
+      }
+    ],
+    "adaptation_refs": [
+      {
+        "path": "book-7.md",
+        "lines": [
+          265,
+          279
+        ],
+        "excerpt_sha256": "b536f039f1bd2fd845334d7e832e4ecf31492444a312dbc1e1c4bcab4978ee37",
+        "status": "verified_thematic_reference",
+        "revision": "61811a8"
+      }
+    ],
+    "uncertainty": "Spence’s syntax and the parenthetical additions in Guthrie and Brasseur attach celestial identity to the fathers. This differs from the current adaptation, where the twins ascend and the father remains below. Do not treat translated parentheses as manuscript words; K’iche’ collation pending.",
+    "alignment_level": "episode",
+    "editorial_status": "provisional"
+  },
+  {
+    "id": "pv-creation",
+    "event_ids": [
+      "event-creation"
+    ],
+    "witnesses": [],
+    "adaptation_refs": [],
+    "uncertainty": "Whole-work coverage reserved; alignment not yet established.",
+    "alignment_level": "episode",
+    "editorial_status": "unmapped"
+  },
+  {
+    "id": "pv-seven-macaw",
+    "event_ids": [
+      "event-seven-macaw"
+    ],
+    "witnesses": [],
+    "adaptation_refs": [],
+    "uncertainty": "Whole-work coverage reserved; alignment not yet established.",
+    "alignment_level": "episode",
+    "editorial_status": "unmapped"
+  },
+  {
+    "id": "pv-maize-humanity",
+    "event_ids": [
+      "event-maize-humanity"
+    ],
+    "witnesses": [],
+    "adaptation_refs": [],
+    "uncertainty": "Whole-work coverage reserved; alignment not yet established.",
+    "alignment_level": "episode",
+    "editorial_status": "unmapped"
+  },
+  {
+    "id": "pv-migration",
+    "event_ids": [
+      "event-migration"
+    ],
+    "witnesses": [],
+    "adaptation_refs": [],
+    "uncertainty": "Whole-work coverage reserved; alignment not yet established.",
+    "alignment_level": "episode",
+    "editorial_status": "unmapped"
+  },
+  {
+    "id": "pv-lineages",
+    "event_ids": [
+      "event-lineages"
+    ],
+    "witnesses": [],
+    "adaptation_refs": [],
+    "uncertainty": "Whole-work coverage reserved; alignment not yet established.",
+    "alignment_level": "episode",
+    "editorial_status": "unmapped"
+  }
+]

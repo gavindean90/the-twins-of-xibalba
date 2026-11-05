@@ -1,0 +1,30 @@
+{
+  "id": "spence-1908",
+  "title": "The Popol Vuh: The Mythic and Heroic Sagas of the Kichés of Central America",
+  "publication_year": 1908,
+  "contributors": [
+    {
+      "name": "Lewis Spence",
+      "role": "reteller and commentator",
+      "death_date": "1955"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "kind": "abridgment_and_commentary",
+  "catalog_urls": [
+    "https://www.gutenberg.org/ebooks/56550"
+  ],
+  "notes": [
+    "London: David Nutt, 1908. Not a complete translation.",
+    "Gutenberg eBook 56550, 2018 electronic release; Jeroen Hellingman and Distributed Proofreaders. Retained Gutenberg notices and license.",
+    "Includes dated speculative comparisons and racial terminology; use as a historical witness, not an authority on living Maya communities."
+  ],
+  "acquisition_status": "text_acquired",
+  "text_quality": "Proofread Gutenberg transcription; not independently collated page by page; original electronic file unchanged.",
+  "review_date": "2026-11-04",
+  "asset_ids": [
+    "spence-txt"
+  ]
+}

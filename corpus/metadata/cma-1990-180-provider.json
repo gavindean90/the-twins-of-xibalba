@@ -1,0 +1,228 @@
+{
+  "source_url": "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1990.180",
+  "retrieved": "2026-11-04",
+  "rights": "CC0-1.0",
+  "object": {
+    "id": 155454,
+    "accession_number": "1990.180",
+    "share_license_status": "CC0",
+    "tombstone": "Vessel with Ballplayer, c. 600–1000. Mexico, Yucatán, Maya (Chocholá) style (250-900). Earthenware, pigment; diameter: 18.1 x 15.6 cm (7 1/8 x 6 1/8 in.); overall: 18 cm (7 1/16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. James C. Gruener, 1990.180",
+    "current_location": "233 Mesoamerican and Intermediate Region",
+    "title": "Vessel with Ballplayer",
+    "creation_date": "c. 600–1000",
+    "creation_date_earliest": 600,
+    "creation_date_latest": 1000,
+    "artists_tags": [],
+    "culture": [
+      "Mexico, Yucatán, Maya (Chocholá) style (250-900)"
+    ],
+    "technique": "earthenware, pigment",
+    "support_materials": [],
+    "department": "Art of the Americas",
+    "collection": "AA - Mesoamerica",
+    "type": "Ceramic",
+    "measurements": "Diameter: 18.1 x 15.6 cm (7 1/8 x 6 1/8 in.); Overall: 18 cm (7 1/16 in.)",
+    "dimensions": {
+      "diameter": {
+        "height": 0.181,
+        "height_inch": 7,
+        "height_inch_fraction": 0.125,
+        "width": 0.156,
+        "width_inch": 6,
+        "width_inch_fraction": 0.125
+      },
+      "overall": {
+        "height": 0.18,
+        "height_inch": 7,
+        "height_inch_fraction": 0.0625
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 344809,
+          "title": "The Gruener Collection of Pre-Columbian Art",
+          "description": "<i>The Gruener Collection of Pre-Columbian Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-November 29, 1992).",
+          "opening_date": "1992-02-04T05:00:00"
+        },
+        {
+          "id": 224436,
+          "title": "The Sport of Life and Death: The Mesoamerican Ballgame",
+          "description": "<i>The Sport of Life and Death: The Mesoamerican Ballgame</i>. Mint Museum, Charlotte, NC (September 24-December 30, 2001); New Orleans Museum of Art, New Orleans, LA (February 16-April 28, 2002).",
+          "opening_date": "2001-09-24T00:00:00"
+        },
+        {
+          "id": 441598,
+          "title": "Artlens Exhibition 2019",
+          "description": "<i>Artlens Exhibition 2019</i>. The Cleveland Museum of Art, Cleveland, OH (organizer).",
+          "opening_date": "2019-06-11T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "(Lee Moore: Fine Art of the Americas, Miami, FL, 1971, sold to James C. Gruener and Florence C, Gruener)",
+        "citations": [],
+        "footnotes": null,
+        "date": "?-1971",
+        "sortorder": 1
+      },
+      {
+        "description": "James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "1971-1990",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": [],
+        "date": "1990",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This vessel was once broken into 34 pieces before being repaired.",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "Many Mesoamerican people played ball games, using their hips rather than hands and feet to keep the heavy, solid rubber ball in play. Here a Maya ballplayer, wearing a thick protector to shield his torso from injury, dives to intercept the ball, which hovers in front of his face. The scene is situated within stepped walls, probably those of a ball court.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60760298"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1990.180-vessel-with-ballplay"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Merrony, Mark. “The Maya : First Lords of the Jungle.\" <em>Antiqvvs</em> 3, n. 3 (Summer 2021): 39-44.",
+        "page_number": "Reproduced: p. 43",
+        "url": ""
+      },
+      {
+        "citation": "Turner, Evan H. \"Acquisitions: 1990.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 2 (1991): 30-45.",
+        "page_number": "p. 33",
+        "url": "https://www.jstor.org/stable/25161314"
+      },
+      {
+        "citation": "Young-Sánchez, Margaret. \"The Gruener Collection of Pre-Columbian Art.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 7 (1992): 234-75.",
+        "page_number": "Mentioned: cat. no. 88, p. 272, Reproduced: fig. 88, p.256",
+        "url": "http://www.jstor.org/stable/25161367."
+      },
+      {
+        "citation": "Whittington, E. Michael. <em>The Sport of Life and Death The Mesoamerican Ballgame.</em> London: Thames &amp; Hudson, 2001.",
+        "page_number": "Mentioned: cat. no. 111, p. 237",
+        "url": null
+      },
+      {
+        "citation": "Werness, Maline Diane.<em> Chocholá Ceramics and the Politics of Northwestern Yucatán. </em>2010.",
+        "page_number": "Figure 86 and pp. 62, 168, 278",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/1990.180",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_web.jpg",
+        "width": "714",
+        "height": "893",
+        "filesize": "355338",
+        "filename": "1990.180_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_print.jpg",
+        "width": "2719",
+        "height": "3400",
+        "filesize": "4837233",
+        "filename": "1990.180_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_full.tif",
+        "width": "3633",
+        "height": "4543",
+        "filesize": "49530672",
+        "filename": "1990.180_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_alt0_web.jpg",
+          "width": "732",
+          "height": "893",
+          "filesize": "361530"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_alt0_print.jpg",
+          "width": "2787",
+          "height": "3400",
+          "filesize": "4921484"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_alt0_full.tif",
+          "width": "3643",
+          "height": "4445",
+          "filesize": "48595608"
+        },
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_alt1_web.jpg",
+          "width": "707",
+          "height": "893",
+          "filesize": "355229"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_alt1_print.jpg",
+          "width": "2690",
+          "height": "3400",
+          "filesize": "4675812"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.180/1990.180_alt1_full.tif",
+          "width": "3476",
+          "height": "4393",
+          "filesize": "45826148"
+        },
+        "annotation": ""
+      }
+    ],
+    "creditline": "Gift of Mr. and Mrs. James C. Gruener",
+    "image_credit": null,
+    "sketchfab_id": "c1ddf562b5bf4d5ba5304ddf2b567cd2",
+    "sketchfab_url": "https://sketchfab.com/models/c1ddf562b5bf4d5ba5304ddf2b567cd2",
+    "gallery_donor_text": null,
+    "athena_id": 155454,
+    "creators": [],
+    "legal_status": "accessioned",
+    "accession_date": "1991-03-27T00:00:00",
+    "sortable_date": 600,
+    "date_added_to_oa": null,
+    "date_text": "c. 600–1000",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Carved Vase"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-11-03 18:47:46.052000"
+  }
+}

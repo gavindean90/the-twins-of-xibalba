@@ -1,0 +1,83 @@
+[
+  {
+    "id": "pohorilles-local-2026-11-04",
+    "source_id": "pohorilles-1913",
+    "input_asset_id": "pohorilles-pdf",
+    "output_asset_id": "pohorilles-ocr",
+    "method": "pdftoppm JPEG at 200 dpi; split each spread at half width, left then right; Tesseract --psm 3 -l deu; no text correction.",
+    "software": {
+      "pdftoppm": "24.02.0",
+      "tesseract": "5.3.4",
+      "language_data": "tessdata_fast/deu.traineddata",
+      "language_data_sha256": "19d219bbb6672c869d20a9636c6816a81eb9a71796cb93ebe0cb1530e2cdb22d",
+      "language_data_url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/deu.traineddata"
+    },
+    "page_count": 71,
+    "half_count": 142,
+    "review_date": "2026-11-04",
+    "limitations": [
+      "German modern-script model used on mixed typography; long-s/Fraktur errors remain.",
+      "K’iche’ names, small footnotes and tables not reliably recognized.",
+      "Printed pagination is unverified; PDF index and page half recorded.",
+      "Title, preface and ending spot-checked; not page-by-page corrected."
+    ]
+  },
+  {
+    "id": "scherzer-1857-provider-ocr",
+    "source_id": "scherzer-1857",
+    "method": "Unchanged provider djvu.txt; no local OCR rerun",
+    "provider": {
+      "identifier": "lashistoriasdelo00sche",
+      "title": "Las historias del origen de los Indios de esta provincia de Guatemala",
+      "creator": [
+        "Scherzer, Karl, Ritter von, 1821-1903, ed",
+        "Ximénez, Francisco, 1666-approximately 1722, tr",
+        "Kaiserl. Akademie der Wissenschaften in Wien"
+      ],
+      "date": "1857",
+      "publisher": "Viena, C. Gerold & hijo",
+      "lccn": "05009885",
+      "identifier-ark": "ark:/13960/t2p57f97q",
+      "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+      "ocr": null,
+      "ocr_module_version": "0.0.21",
+      "ocr_converted": "abbyy-to-hocr 1.1.37"
+    },
+    "limitations": [
+      "No manual correction; multilingual reading-order and glyph errors"
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "id": "brasseur-1861-provider-ocr",
+    "source_id": "brasseur-1861",
+    "method": "Unchanged provider djvu.txt; no local OCR rerun",
+    "provider": {
+      "identifier": "popolvuhlelivres00bras",
+      "title": "Popol vuh. Le livre sacré et les mythes de l'antiquité américaine, avec les livres héroïques et historiques des Quichés ..",
+      "creator": "Brasseur de Bourbourg, abbé, 1814-1874, ed",
+      "date": "1861",
+      "publisher": "Paris, A. Bertrand",
+      "lccn": "05009887",
+      "identifier-ark": "ark:/13960/t5gb3z053",
+      "possible-copyright-status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+      "ocr": "ABBYY FineReader 8.0",
+      "ocr_module_version": "0.0.14",
+      "ocr_converted": "abbyy-to-hocr 1.1.11"
+    },
+    "limitations": [
+      "No manual correction; multilingual reading-order and glyph errors"
+    ],
+    "review_date": "2026-11-04"
+  },
+  {
+    "id": "guthrie-ia-ocr",
+    "source_id": "guthrie-1905-1906",
+    "method": "Unchanged IA whole-issue OCR; engine versions per installment record",
+    "limitations": [
+      "Unrelated journal articles retained",
+      "Printed page boundaries require scan verification before exact quotation"
+    ],
+    "review_date": "2026-11-04"
+  }
+]

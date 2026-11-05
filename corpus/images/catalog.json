@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cma-1990-180",
+    "title": "Vessel with Ballplayer",
+    "date": "c. 600–1000",
+    "culture": "Maya, Chocholá style, Yucatán",
+    "collection": "Cleveland Museum of Art",
+    "accession": "1990.180",
+    "object_creator": "Unrecorded artist",
+    "image_creator": "Not individually named in museum record",
+    "catalog_url": "https://www.clevelandart.org/art/1990.180",
+    "rights_evidence": [
+      "https://www.clevelandart.org/open-access",
+      "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1990.180"
+    ],
+    "image_rights": "CC0-1.0",
+    "provenance": [
+      {
+        "description": "(Lee Moore: Fine Art of the Americas, Miami, FL, 1971, sold to James C. Gruener and Florence C, Gruener)",
+        "citations": [],
+        "footnotes": null,
+        "date": "?-1971",
+        "sortorder": 1
+      },
+      {
+        "description": "James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "1971-1990",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": [],
+        "date": "1990",
+        "sortorder": 3
+      }
+    ],
+    "findspot": null,
+    "interpretation": "Ballgame equipment and pose reference; not identified here as a Hero Twin.",
+    "asset_id": "cma-image",
+    "status": "acquired"
+  },
+  {
+    "id": "nd-hero-twin",
+    "title": "Cylinder Vessel Depicting a Hero Twin Playing the Ballgame",
+    "date": "600–900 CE",
+    "culture": "Maya",
+    "collection": "Raclin Murphy Museum of Art",
+    "accession": null,
+    "object_creator": "Unrecorded Maya artist",
+    "image_creator": null,
+    "catalog_url": "https://marble.nd.edu/item/908e8349-ed73-4579-8edd-823dc122d47e",
+    "image_rights": "unreviewed",
+    "provenance": null,
+    "interpretation": "Museum identifies Hunahpu and a possible monkey brother; treat this as an attributed interpretation, not an exact illustration of the colonial text.",
+    "asset_id": null,
+    "status": "linked_only"
+  },
+  {
+    "id": "nmai-262212",
+    "title": "Vessel depicting ball-game players",
+    "date": "AD 650–1100",
+    "culture": "Probably Maya (museum attribution)",
+    "collection": "National Museum of the American Indian",
+    "accession": "24/6503",
+    "object_creator": "Unknown",
+    "image_creator": null,
+    "catalog_url": "https://www.si.edu/object/vessel-depicting-ball-game-players:NMAI_262212",
+    "image_rights": "restricted",
+    "provenance": "Collection history unknown before exchange with Jonathan Holstein, 1972.",
+    "interpretation": "Ballgame reference; metadata CC0 does not license the restricted photograph.",
+    "asset_id": null,
+    "status": "linked_only"
+  },
+  {
+    "id": "dresden-codex",
+    "title": "Codex Dresdensis",
+    "date": "14th/15th century (SLUB catalog)",
+    "culture": "Maya",
+    "collection": "SLUB Dresden",
+    "accession": "Mscr.Dresd.R.310",
+    "object_creator": "Unrecorded scribes",
+    "image_creator": "SLUB digitization",
+    "catalog_url": "https://katalog.slub-dresden.de/id/0-1646762169",
+    "image_rights": "Public Domain Mark 1.0 (catalog)",
+    "rights_evidence": [
+      "https://nutzungshinweis.slub-dresden.de/en"
+    ],
+    "provenance": "Acquired in Vienna by Johann Christian Götze in 1739; earlier provenance unresolved.",
+    "interpretation": "Comparative Maya manuscript reference; not a manuscript of the Popol Vuh or an automatic concordance to its episodes.",
+    "asset_id": null,
+    "status": "pending_acquisition"
+  },
+  {
+    "id": "met-309557",
+    "title": "Closed Yoke",
+    "date": null,
+    "culture": "Veracruz; not automatically Maya",
+    "collection": "Metropolitan Museum of Art",
+    "accession": null,
+    "object_creator": "Unknown",
+    "image_creator": null,
+    "catalog_url": "https://www.metmuseum.org/art/collection/search/309557",
+    "image_rights": "Public Domain (museum page)",
+    "provenance": null,
+    "interpretation": "Stone ballgame-equipment reference from a neighboring tradition; chronology and provenance need catalog extraction.",
+    "asset_id": null,
+    "status": "linked_only"
+  }
+]
