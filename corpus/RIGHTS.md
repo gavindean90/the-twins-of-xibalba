@@ -23,3 +23,7 @@ The machine-readable [rights manifest](metadata/rights.json) is authoritative fo
 Outside the US, contributor death dates and local rules may matter. Spence died in 1955, Brasseur in 1874 and Scherzer in 1903; these dates alone do not prove clearance of every component or edition worldwide. BnF gives an uncertain 1940s death date for Raynaud. Guthrie, Pohorilles and the 1927 contributors’ death dates are not needed for the US publication-term decision and have not been fully verified here. No worldwide clearance is asserted. Gallica reuse conditions, possible database rights and other local restrictions require separate consideration; an old book’s US status is not a blanket license for every service’s modern material.
 
 The repository’s original poem remains under its existing dedication. Third-party material is **not relicensed** by that dedication. Credit institutions and sources, preserve provenance, and do not imply endorsement.
+
+## Research extension
+
+The three new diplomatic working excerpts are readings made from the historical facsimile, with that input recorded in the asset manifest. Their newly prepared English glosses and comparative notes are project research, not copied modern translations. Christenson's modern translation and transcription were consulted as separate editorial comparators and are cited with limited paraphrase in the dossiers; neither full text is imported. The historical source's public-domain status does not extend to those modern publications. Existing source rights determinations are unchanged.

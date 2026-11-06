@@ -11,7 +11,7 @@
       "hunbatz",
       "hunchouen"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-fathers-summons",
@@ -22,7 +22,7 @@
       "one-death",
       "seven-death"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-fathers-defeat",
@@ -31,7 +31,7 @@
       "one-hunahpu",
       "seven-hunahpu"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-head-tree",
@@ -39,7 +39,7 @@
     "character_ids": [
       "one-hunahpu"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-xquic-conception",
@@ -49,7 +49,7 @@
       "xquic",
       "cuchumaquic"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-xquic-escape",
@@ -58,7 +58,7 @@
       "xquic",
       "cuchumaquic"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-xquic-xmucane",
@@ -67,7 +67,7 @@
       "xquic",
       "xmucane"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-twins-childhood",
@@ -77,9 +77,10 @@
       "xbalanque",
       "xmucane",
       "hunbatz",
-      "hunchouen"
+      "hunchouen",
+      "xquic"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-twins-ballgame",
@@ -87,9 +88,10 @@
     "character_ids": [
       "hunahpu",
       "xbalanque",
-      "xmucane"
+      "xmucane",
+      "xquic"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "printed_parallels_anchored_manuscript_collation_pending"
   },
   {
     "id": "event-twins-descent",
@@ -98,9 +100,10 @@
       "hunahpu",
       "xbalanque",
       "one-death",
-      "seven-death"
+      "seven-death",
+      "xquic"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "printed_parallels_anchored_manuscript_collation_pending"
   },
   {
     "id": "event-twins-trials",
@@ -140,7 +143,7 @@
       "one-death",
       "seven-death"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-father-reunion",
@@ -151,7 +154,7 @@
       "one-hunahpu",
       "seven-hunahpu"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-ascension",
@@ -162,7 +165,7 @@
       "one-hunahpu",
       "seven-hunahpu"
     ],
-    "status": "seeded_from_spence_not_manuscript_collated"
+    "status": "selected_manuscript_images_checked_linguistic_review_pending"
   },
   {
     "id": "event-creation",

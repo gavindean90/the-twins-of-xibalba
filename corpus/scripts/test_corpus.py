@@ -72,11 +72,46 @@ class CorpusChecks(unittest.TestCase):
                 patch('sys.stderr',new_callable=io.StringIO) as stderr:
             self.assertEqual(1,main())
         fetcher.assert_not_called()
-        self.assertIn('reproduce using its OCR instructions',stderr.getvalue())
+        self.assertIn('reproduce using its documented provenance',stderr.getvalue())
     def test_existing_corrupt_file_not_overwritten(self):
         a=next(a for a in json.loads((self.root/'metadata/assets.json').read_text()) if a['id']=='spence-txt')
         p=self.root/a['path'];p.write_bytes(b'local changes')
         with self.assertRaises(ValueError):download(a,self.root)
         self.assertEqual(b'local changes',p.read_bytes())
+    def test_manuscript_url_sequence_mismatch_rejected(self):
+        self.alter('metadata/ximenez-folios.json',lambda d:d['records'][0].update(image_sequence=34))
+        self.assertTrue(any('URL/sequence mismatch' in e for e in validate(self.root)))
+    def test_duplicate_folio_rejected(self):
+        self.alter('metadata/ximenez-folios.json',lambda d:d['records'][1].update(folio=d['records'][0]['folio']))
+        self.assertTrue(any('Duplicate folio' in e for e in validate(self.root)))
+    def test_dangling_manuscript_witness_rejected(self):
+        def change(rows):
+            w=next(w for p in rows for w in p['witnesses'] if w['status']=='verified_image_location')
+            w['manuscript']['folio_map_id']='missing'
+        self.alter('indexes/passages.json',change)
+        self.assertTrue(any('Unknown witness folio' in e for e in validate(self.root)))
+    def test_independent_review_cannot_be_asserted_without_schema_extension(self):
+        self.alter('metadata/transcriptions.json',lambda rows:rows[0].update(reviewer_status='independently_verified'))
+        self.assertTrue(any('Unsupported transcription review' in e for e in validate(self.root)))
+    def test_normalization_requires_record(self):
+        self.alter('metadata/transcriptions.json',lambda rows:rows[0].update(normalized_working_text='modern spelling'))
+        self.assertTrue(any('Normalization without' in e for e in validate(self.root)))
+    def test_transcription_requires_facsimile_provenance(self):
+        def change(rows):
+            next(a for a in rows if a['id']=='ximenez-conception')['generated_from']=['scherzer-txt']
+        self.alter('metadata/assets.json',change)
+        self.assertTrue(any('Diplomatic input provenance' in e for e in validate(self.root)))
+    def test_transcription_anchor_corruption_rejected(self):
+        def change(rows):
+            w=next(w for p in rows for w in p['witnesses'] if w.get('transcription_id'))
+            w['excerpt_sha256']='0'*64
+        self.alter('indexes/passages.json',change)
+        self.assertTrue(any('Passage anchor checksum mismatch' in e for e in validate(self.root)))
+    def test_invalid_alignment_rejected(self):
+        def change(rows):
+            w=next(w for p in rows for w in p['witnesses'] if w.get('alignment_type'))
+            w['alignment_type']='exact_by_guess'
+        self.alter('indexes/passages.json',change)
+        self.assertTrue(any('Invalid alignment type' in e for e in validate(self.root)))
 
 if __name__=='__main__':unittest.main()

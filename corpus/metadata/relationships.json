@@ -28,9 +28,11 @@
     "relationship": "French-mediated translation relationship",
     "certainty": "qualified",
     "evidence": [
-      "https://iapsop.com/archive/materials/word_percival/"
+      "https://iapsop.com/archive/materials/word_percival/",
+      "research/ancestors-and-ascension.md",
+      "research/xquic-and-xmucane.md"
     ],
-    "note": "Chapter/paragraph structure and notes support dependency; full collation pending."
+    "note": "Chapter/paragraph structure and notes support dependency; full collation pending. Selected collation: B p. 193 and G May p. 111 share the fathers and sky-vault additions. B p. 105 replaces animals with barbarians; G March p. 371 has laboring people. These loci support mediation, not an exclusively French origin for every sentence."
   },
   {
     "id": "relationship-4",

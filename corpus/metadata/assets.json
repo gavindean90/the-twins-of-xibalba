@@ -597,5 +597,53 @@
     "generated_from": [
       "pohorilles-pdf"
     ]
+  },
+  {
+    "id": "ximenez-xquic-heading",
+    "source_id": "ximenez-ms",
+    "path": "sources/transcriptions/ximenez/ximenez-xquic-heading.txt",
+    "url": null,
+    "kind": "transcription",
+    "quality": "New limited diplomatic working transcription, checked visually by the same AI researcher; no independent or expert verification. See metadata/transcriptions.json.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 62,
+    "sha256": "62d901b5b5777d74dd3e8aa903a1b9e6ae6f247ecd285d43e232b6e6380241be",
+    "generated_from": [
+      "ximenez-pdf"
+    ]
+  },
+  {
+    "id": "ximenez-conception",
+    "source_id": "ximenez-ms",
+    "path": "sources/transcriptions/ximenez/ximenez-conception.txt",
+    "url": null,
+    "kind": "transcription",
+    "quality": "New limited diplomatic working transcription, checked visually by the same AI researcher; no independent or expert verification. See metadata/transcriptions.json.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 115,
+    "sha256": "63527c947542215d2af86597d390f1faadcd13110c7b4403fbabf21d20fb4c4d",
+    "generated_from": [
+      "ximenez-pdf"
+    ]
+  },
+  {
+    "id": "ximenez-ascension",
+    "source_id": "ximenez-ms",
+    "path": "sources/transcriptions/ximenez/ximenez-ascension.txt",
+    "url": null,
+    "kind": "transcription",
+    "quality": "New limited diplomatic working transcription, checked visually by the same AI researcher; no independent or expert verification. See metadata/transcriptions.json.",
+    "tracked": true,
+    "review_date": "2026-11-04",
+    "status": "acquired",
+    "bytes": 179,
+    "sha256": "b1daa0be67bfc0d4d2925669e01b43df1ca2a52e51fa03c4217a321b5c9f5366",
+    "generated_from": [
+      "ximenez-pdf"
+    ]
   }
 ]
