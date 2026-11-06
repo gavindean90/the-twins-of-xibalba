@@ -1,6 +1,6 @@
 # Editorial charter — The Twins of Xibalba, working edition
 
-**Status:** Proposed editorial foundation, version 0.2 (2026-11-05); revised in response to independent PR #5 review. For author review, **not** a ratified rewrite policy.
+**Status:** Proposed editorial foundation, working edition (2026-11-05). For author review; not a ratified rewrite policy.
 **Existing published edition:** seven books, 136 nine-line stanzas. Preserve the published `book-1.md` through `book-7.md`, site and artwork unchanged.
 **Episode register:** [XIBALBA_EPISODES.md](XIBALBA_EPISODES.md).
 **Research authority:** [the corpus](../corpus/README.md), especially the [manuscript research dossiers](../corpus/research/README.md).
@@ -21,7 +21,7 @@ The **gravitational center is Xibalba**: events aboveground should explain the a
 
 **Outside the primary scope:** the general creation of the cosmos and maize humanity, Seven Macaw/Zipacna/Cabrakan adventures, later K'iche' migrations, Tulan, royal dynasties and colonial genealogies. The source's four hundred youths recur at the ascension; their presence needs a consciously chosen one- or two-sentence contextual bridge or a deliberately documented omission, **not** an unplanned retelling of the entire Seven Macaw cycle. External episodes may be mentioned only where necessary to understand an in-scope scene.
 
-The episode register follows **source narration order**, while preserving explicit markers for earlier events recounted later and for concurrent events (for example the household's planted canes wither while the twins are in the fire, not only after victory). **Source narration**, reconstructed **event chronology**, and our eventual **adaptation order** are three different things; none should be called a complete, strictly chronological sequence without qualification. This is a narrative planning checklist with deliberately varied granularity, not a manuscript-wide episode census or final book outline.
+The story synopsis follows **source narration order**, with explicit markers for earlier events recounted later and for concurrent events (for example the household's planted canes wither while the twins are in the fire, not only after victory). **Source narration**, reconstructed **event chronology**, and our eventual **adaptation order** are three different things; none should be called a complete, strictly chronological sequence without qualification. This is a narrative planning checklist with deliberately varied granularity, not a manuscript-wide episode census or final book outline.
 
 ## 3. Nonnegotiable narrative distinctions
 
@@ -56,7 +56,7 @@ Each stanza should have a purpose: advance causality, distinguish a person, esta
 
 ## 6. Bounded production workflow
 
-**Pass A — Architecture:** confirm this charter and the complete in-scope episode list; decide which episodes need fully dramatized scenes and which may be compressed. **Only afterward** decide book divisions and stanza budgets.
+**Pass A — Architecture:** confirm this charter and review the selected story's episode coverage; decide which actions need fully dramatized scenes and which may be compressed. **Only afterward** decide book divisions and stanza budgets.
 
 **Pass B — Two-level audit V1:** first map **narrative function** by scene/book and mark stanzas **keep / revise / relocate / replace / remove**, with durable IDs for accepted or seriously considered material. Then perform close source and scansion analysis chiefly on passages likely to survive. Preserve admired passages, including the opening/closing Xibalba echo, without treating them as beyond review. Do not spend hours fully scanning verse already scheduled for removal.
 
