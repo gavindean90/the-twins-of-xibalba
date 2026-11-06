@@ -1,116 +1,154 @@
-# Xibalba cycle — narrative episode inventory
+# The Xibalba story — narrative and episode concordance
 
-**Status:** Working episode register v0.2 (2026-11-05), revised following independent review, for editorial review. **Not** a final book outline, a manuscript transcription or an assertion that every event has been independently collated.
+**Editorial working text · 2026-11-05 · not a final book outline**
 
-This is a **selected Xibalba-centered narrative inventory in approximate source narration order**, not a strict real-time chronology or a table of contents for the entire *Popol Vuh*. The original text itself returns to concurrent events after the underworld victory. Each eventual poem book may choose a different **adaptation order**, but any rearrangement should be recorded. IDs remain stable and need **not** increase in row/display order: later-added beats use new IDs instead of renumbering old ones. Read together with the [editorial charter](PROJECT_CHARTER.md). Stable research IDs refer to [corpus events](../corpus/indexes/events.json) and [corpus passages](../corpus/indexes/passages.json). The corpus groups several scenes under one event; this register gives them smaller, independently useful **editorial beat IDs** (`XB-001` etc.). The IDs should not be recycled if a future outline rearranges scenes. The register is **not exhaustively granular**: each beat notes the action needed to recover the causal mechanism, but does not prescribe stanza-level detail.
+This document tells the Xibalba-centered story that our poem proposes to adapt. **Read the story first.** The episode IDs, research coverage and unresolved readings are collected afterward so that they do not interrupt the narrative. The account follows the source's narrative movement rather than imposing a modern, strictly linear chronology; the text occasionally returns to events that occurred at the same time.
 
-## Evidence key
+The story begins with the older ballplayers and ends with the younger twins' triumph, the remembrance of their ancestors and their ascent. The wider creation narrative, Seven Macaw's family and the later K'iche' histories remain outside this poem's primary scope. This does not erase the wider Popol Vuh; it gives this poem its own center.
 
-- **M** — For the **specific action named**, a related image/folio of Ximénez was selected and checked in PR #4 with printed parallels. This is **manuscript location coverage**, not certified linguistic transcription or proof of every subsidiary detail. Some rows explicitly include **M/P** where only one component has image coverage.
-- **P** — A **specific printed historical witness and page range** is reported in the corpus or independent review; manuscript collation and fine-grained digital line anchors may still be missing. The cited page does not automatically verify every creative paraphrase. New page locators from the independent review should be checked again before consequential drafting claims.
-- **S** — A **provisional** description sourced through a retelling or broad unanchored event (including where a linked passage anchor does not actually cover this finer action). Locate a closer printed or manuscript passage before asserting precise wording.
-- **U** — Decision or interpretation remains open; no direct source event established.
+## I. The first ballplayers
 
-`Required` means the beat should be represented or explicitly accounted for in an adaptation of the chosen cycle; it does **not** prescribe a full stanza. `Bridge` is a transitional episode that may be compressed without severing causality. `Optional` means the in-scope narrative can omit it with a recorded decision. Finer chronology of the younger twins' separate tests will need source collation before it is fixed in verse.
+One Hunahpu and Seven Hunahpu belong to the family of Xmucane and Xpiyacoc. One Hunahpu has already had two sons, Hunbatz and Hunchouen, with Xbaquiyalo; Seven Hunahpu has no wife. Xpiyacoc and Xbaquiyalo are no longer living when the two men begin the journey that matters here. The older boys are gifted in music and the arts. Their grandmother Xmucane holds together a household that has already known loss.
 
-## Movement A — The first generation and the defeat
+The two men love the ballgame. Their play is observed by the bird Voc, which communicates with powers above, while its noise reaches the rulers below. In Xibalba, One Death and Seven Death preside over a court of lords associated with sickness, bodily suffering and sudden death. The noise offends them. They send four owl messengers to invite the ballplayers down for a match, though the invitation conceals a plan to destroy them.
 
-| Beat | What the reader must learn / what happens | Corpus ID | Evidence | Treatment |
-| --- | --- | --- | --- | --- |
-| XB-001 | Establish Xmucane and Xpiyacoc's family; distinguish One Hunahpu, wife Xbaquiyalo and artistically accomplished elder sons Hunbatz/Hunchouen from unmarried Seven Hunahpu. Xpiyacoc and Xbaquiyalo are already dead by the departures; do not imply they remain active household members. (Scherzer pp. 29–33.) | `event-fathers-family` / `pv-fathers-family` | M | Required |
-| XB-002 | The older brothers play ball. Bird Voc **observes and communicates with powers above**; separately, the lords of Xibalba **hear the disturbing ballplay**. One Death and Seven Death command officers associated with disease, bodily decay and sudden death; a selective introduction to these offices prepares their eventual humiliation. (Scherzer pp. 30–32.) | `event-fathers-summons` / `pv-fathers-summons` | M | Required |
-| XB-003 | Four owl messengers bring the older brothers an invitation ostensibly to play ball, hiding the lords' deadly purpose. (Scherzer pp. 32–33.) | `event-fathers-summons` | M | Required |
-| XB-004 | The men leave the ball/equipment, charge the elder boys to maintain their **arts** and comfort Xmucane, and depart despite her grief. This equipment will later become their sons' inheritance. (Scherzer pp. 33–34.) | `event-fathers-summons` | M | Required |
-| XB-005 | During the first descent they pass hazards but are misled at the crossroads, including the speaking black road. | `event-fathers-defeat` / `pv-fathers-defeat` | M | Required |
-| XB-006 | They address wooden effigies, are mocked by the lords and sit on a heated seat. | `event-fathers-defeat` | M | Required |
-| XB-007 | They fail the Dark House's torch and tobacco test and are condemned; **do not** assign the complete catalogue of later houses to them or invent a narrated fatal ball match after this failure. | `event-fathers-defeat` | M | Required |
-| XB-008 | Both men are killed and buried; One Hunahpu's head alone is explicitly severed for the next episode. | `event-fathers-defeat` / `event-head-tree` | M | Required |
+Before leaving, the brothers entrust the household's work and music to the older boys, who are to console Xmucane. They leave their ball equipment behind. Their mother mourns, and the men descend. They cross dangerous approaches, but at the crossroads a speaking black road misleads them. In the court they greet wooden figures as if they were lords and then sit on a burning seat, to the laughter of their hosts. The rulers consign them to the Dark House with lit torches and tobacco that must be returned intact. The men consume them and fail the test. They are killed; their bodies are buried, and One Hunahpu's head is taken for display.
 
-**Primary research:** [First Ballgame](../corpus/research/first-ballgame.md), [Head in the Tree](../corpus/research/head-in-tree.md). See manuscript selected sequences 33–40 noted there. Narrative purpose: establish the older generation's failed approach, the lords' deceit and the family inheritance that a later generation can recover. Avoid relocating Voc into Xibalba's chain of command, or treating dead household members as present at the departure.
+## II. The head in the tree and Xquic
 
-## Movement B — The head, Xquic and contested kinship
+One Hunahpu's severed head is placed in a tree by the road. The tree suddenly bears round fruit, and the head becomes indistinguishable among it. Astonished, the lords prohibit anyone from approaching. But the tale of the tree reaches Xquic, daughter of the underworld lord Cuchumaquic, and she goes to discover its marvel for herself.
 
-| Beat | What the reader must learn / what happens | Corpus ID | Evidence | Treatment |
-| --- | --- | --- | --- | --- |
-| XB-009 | One Hunahpu's head is hung in the tree, which bears fruit; the head becomes difficult to distinguish. The lords forbid approach. | `event-head-tree` / `pv-head-tree` | M | Required |
-| XB-010 | Xquic, daughter of **Cuchumaquic**, hears of the tree and deliberately goes to see it. | `event-xquic-conception` / `pv-xquic-conception` | M | Required |
-| XB-011 | Xquic approaches the fruiting head; **dialogue and the request to extend her right hand** precede saliva on the palm, which then disappears. **Afterward** the head speaks at length about continuing life through sons and daughters; she returns home and subsequently conceives. Avoid inserting modern sexual analogies as K'iche' language. (Scherzer pp. 38–39; dossier notes wording under review.) | `event-xquic-conception` | M | Required |
-| XB-012 | The pregnancy is discovered after six months; her father consults the lords and demands her heart despite her account. | `event-xquic-escape` / `pv-xquic-escape` | M | Required |
-| XB-013 | The execution owls say they **must return with her heart**. Xquic argues against being killed, offers them a different future and devises red tree sap molded as the required heart-like substitute. Their negotiated cooperation matters. (Scherzer pp. 39–42.) | `event-xquic-escape` | M | Required |
-| XB-014 | The messengers deliver the false heart; the lords burn it, and its **fragrance absorbs their attention** while the escaped Xquic travels to the living world. (Scherzer pp. 40–42.) | `event-xquic-escape` | M | Required |
-| XB-015 | Pregnant Xquic reaches Xmucane, asserts her family connection and initially meets disbelief. | `event-xquic-xmucane` / `pv-xquic-xmucane` | M | Required |
-| XB-016 | Xmucane demands a netful of maize from a nearly bare field. Xquic **invokes powers of provision**, manipulates silk from the remaining plant/ear and receives aid; the meager field yields a full net. (Scherzer pp. 42–44.) | `event-xquic-xmucane` | M | Required |
-| XB-017 | The net arrives full without stripping the field; Xmucane inspects the crop and accepts Xquic, **though later household conflict persists**. The **animal carriers** occur in Ximénez/Scherzer; Brasseur expressly acknowledged but replaced animals with human 'barbarians' in French, with Guthrie carrying a related human rendering. Do not present these as equally unmediated manuscript alternatives. (Scherzer pp. 43–44; Brasseur pp. 104–105.) | `event-xquic-xmucane` | M | Required |
+The head speaks. When it asks her to stretch out her hand, its saliva falls into her palm and disappears. The speech connects what remains of the dead with the life of descendants, sons and daughters. Xquic returns to her household carrying the possibility of a new generation. After six months her pregnancy is discovered. She denies having known a man, but her father and the rulers order the owl messengers to kill her and bring back her heart.
 
-**Primary research:** [Head in the Tree](../corpus/research/head-in-tree.md), [Xquic: Conception and Escape](../corpus/research/xquic-conception-and-escape.md), [Xquic and Xmucane](../corpus/research/xquic-and-xmucane.md). Selected manuscript sequences 39–45. Narrative purpose: turn an underworld death into a future generation through **Xquic's decisions**, not a passive miracle. Distinguish the head-bearing tree from Hunahpu's much later **squash head**.
+The owls are bound by their orders, yet Xquic speaks to them and finds another way. She promises them a different future and arranges for red tree sap to be fashioned into a heart-like substitute. The messengers take it to the lords, who burn the false heart and are captivated by its fragrance. Meanwhile Xquic escapes from Xibalba and goes up to the world of the living.
 
-## Movement C — The younger generation inherits the challenge
+She comes to Xmucane and claims a place in the family of her dead son. Xmucane doubts her. To prove her claim, Xquic is sent to fetch a great netful of maize from a field that appears unable to yield it. She invokes powers of provision and draws on the silk of the remaining maize. Her net is filled; when Xmucane inspects the field, the standing plant remains. Xmucane recognizes the evidence and accepts her daughter-in-law. Acceptance does not erase the household's grief or the conflict awaiting the children.
 
-| Beat | What the reader must learn / what happens | Corpus ID | Evidence | Treatment |
-| --- | --- | --- | --- | --- |
-| XB-018 | Hunahpu and Xbalanque are born and endure **ants, thorns, exclusion and withheld food** in the household. **Birth: manuscript images checked**; the evidence for Xquic's **continued presence after birth** comes from later printed passages (Scherzer pp. 48, 53–54, 58), not the same manuscript check. Xmucane's acceptance of Xquic does not make the family harmonious. | `event-twins-childhood` / `pv-twins-childhood` | M (birth); P (later mother) | Required |
-| XB-019 | Hunbatz and Hunchouen resent the younger twins. In a bird-hunting pretext the younger brothers lead them into a tree that grows beyond descent; instructions involving clothing turn their garments into **monkey tails**. The older boys' artistic gifts and grievance should not be lost. (Scherzer pp. 44–48.) | `event-twins-childhood` | P (Scherzer pp. 44–48) | Required |
-| XB-047 | The transformed elder brothers return in response to **music**; Xmucane repeatedly fails to suppress her laughter, the final recall fails and the brothers retain a continuing association with artists and performers. This is **not** the simple deletion of disposable rivals. (Scherzer pp. 47–49.) | `event-twins-childhood` | P (Scherzer pp. 47–49) | Required |
-| XB-020 | The younger twins' tools work **without their labor**; a warning bird signals Xmucane's approach, and the boys pretend to have worked. Night animals restore cleared plants, leading to a vigil, encounters and the rat's capture. Their tricks are part of their characterization, not a portrait of steady farm labor. (Scherzer pp. 49–53.) | `event-twins-childhood` | P (Scherzer pp. 49–53) | Bridge |
-| XB-021 | The captured rat **bargains for its life and food**, reveals the ball equipment hidden because of the older generation's death, and explains Xmucane's concealment. The twins distract **both mother and grandmother** with a leaking-water-vessel scheme so the rat can release the equipment. (Scherzer pp. 52–54.) | `event-twins-ballgame` / `pv-twins-ballgame` | P (Scherzer pp. 52–54) | Required |
-| XB-022 | The younger twins play on the old court; Xibalba hears and sends the second summons, repeating the first generation's conflict. **Delivery is not instantaneous**: see added relay beat XB-046. (Scherzer pp. 54–55.) | `event-twins-ballgame` | P (Scherzer pp. 54–55) | Required |
-| XB-046 | **The missing second summons relay:** Xmucane sends the message inside a **louse**, swallowed successively by a **toad**, a **snake** and a **bird**. The twins shoot the bird, heal its eye, then recover the nested carriers until the louse gives the message. Preserve Xmucane's initiative, the comic chain, blowgun use and the boys' restorative skill. (Scherzer pp. 55–57; Spence, lines 429–442.) | `event-twins-ballgame` / `event-twins-descent` | P (Scherzer pp. 55–57) | Required |
-| XB-023 | After the relay delivers the summons, the twins tell **Xmucane and Xquic** of the journey and plant canes to signal life/death. The canes' withering and revival occur **concurrently** with later underworld events, even though the text reports their household meaning after the victory. (Scherzer pp. 57–58.) | `event-twins-descent` / `pv-twins-descent` | P (Scherzer pp. 57–58) | Required |
+## III. The sons inherit the ballgame
 
-**Primary research:** [Xquic and Xmucane](../corpus/research/xquic-and-xmucane.md) section “Her subsequent role”; [first-ballgame dossier](../corpus/research/first-ballgame.md). Several later references to Xquic are pinned in Scherzer; manuscript collation is still pending. Narrative purpose: show a specific **inherited challenge**, not an arbitrary second adventure. Preserve the older brothers' skill, Xmucane's comic failed recalls and household ties before their downfall. XB-046 now supplies the formerly missing relay between summons and farewell.
+Hunahpu and Xbalanque are born. They grow up amid tension, deprived of comfort and food and sometimes abandoned to ants and thorns. Their elder half-brothers, Hunbatz and Hunchouen, resent them. The younger boys are not merely innocent victims: they are clever, manipulative and capable of sharp retaliation. During a bird-hunting expedition they lure their elders up a tree that grows beyond reach. The older boys acquire monkey tails and are transformed into monkeys.
 
-## Movement D — The second descent and ordeal
+The loss is not treated as a simple victory. Music can call the transformed brothers back, but Xmucane laughs at their new appearance and cannot complete the recall. After several attempts, the chance is lost. Their gifts endure in an association with song and art.
 
-| Beat | What the reader must learn / what happens | Corpus ID | Evidence | Treatment |
-| --- | --- | --- | --- | --- |
-| XB-024 | The twins navigate the rivers, roads and crossroads of the second descent. The current corpus event's printed anchor chiefly covers **farewell and canes**, so record a separate source-page locator before attributing a precise route or road color to the original manuscript. | `event-twins-descent` / `pv-twins-descent` | S (finer route locator pending) | Required |
-| XB-025 | A biting insect reveals the lords' names, letting the twins bypass effigies and the burning seat that humiliated their elders. The broad descent record does not yet include a **fine-grained checked locator for this trick**; verify a printed page before a definitive reading. | `event-twins-descent` | S (finer trick locator pending) | Required |
-| XB-026 | They use **macaw tail feathers to imitate the torches' light** and **fireflies to imitate lit cigars**, preserving the objects as required. This answers the exact test their fathers failed. (Scherzer p. 61.) | `event-twins-descent` / `event-twins-trials` | P (Scherzer p. 61) | Required |
-| XB-027 | Ballplay begins with dispute over a **dangerous ball**, the twins' protest and the lords' unfair terms. The lords then demand flowers; the solution occurs **during Knife House confinement**, not in an independent earlier adventure. After delivery and punishment of the guards, the contest resumes. (Scherzer pp. 62–65.) | `event-twins-trials` / `pv-twins-trials` | P (Scherzer pp. 62–65) | Required |
-| XB-028 | **During Knife House confinement** (XB-029), ants steal the required flowers despite the garden guards. The flowers are delivered, the failed guardians are punished and ballplay resumes. This overlaps rather than chronologically precedes XB-029. (Scherzer pp. 63–65; Brasseur II.ix, pp. 157–159.) | `event-twins-trials` | P (Scherzer pp. 63–65) | Required |
-| XB-029 | **Knife House begins before the ants fetch the flowers**: threatened by moving blades, the twins restrain them through a **bargain involving promised animal flesh**, permitting the flower retrieval of XB-028. (Scherzer pp. 63–64; Brasseur pp. 157–159.) | `event-twins-trials` | P (Scherzer pp. 63–64) | Required |
-| XB-030 | Cold House: a freezing ordeal, overcome as the source recounts. Preserve its **relative brevity**; do not invent elaborate mechanisms to match other houses. (Scherzer pp. 65–66, printed sequence requires final check.) | `event-twins-trials` | P (Scherzer pp. 65–66; verify) | Required |
-| XB-031 | Jaguar House: the twins **offer bones to the hungry beasts**; the guardians mistake crunching for the twins being eaten. Keep this particular acoustic deception distinct from Cold House. (Scherzer pp. 65–66; verify exact boundary.) | `event-twins-trials` | P (Scherzer pp. 65–66; verify) | Required |
-| XB-032 | Fire House: the twins survive the flames, with **little explanatory mechanism in the printed account**. Do not invent one merely for symmetry; distinguish this house from their later **chosen death in an oven**. (Scherzer pp. 65–66; verify exact boundary.) | `event-twins-trials` | P (Scherzer pp. 65–66; verify) | Required |
-| XB-033 | In Bat House the twins shelter inside blowguns. **Xbalanque asks about dawn; Hunahpu looks out** and Camazotz decapitates him. The dialogue makes Hunahpu's exposure intelligible. (Scherzer pp. 66–67; Brasseur pp. 162–165.) | `event-twins-trials` / `event-borrowed-head` | P (Scherzer pp. 66–67) | Required |
-| XB-048 | **Preparation of the borrowed head:** supernatural/celestial help, a helper that postpones dawn and the temporary head permit the beheaded Hunahpu to play. **Material disputed:** Scherzer and Brasseur say *turtle*; Christenson's modern rendition uses a **coati-borne chilacayote squash**. The helper differs too (**zapilote** in Scherzer, **sarigue** in Brasseur). Distinguish recorded witness choices from our V1 artistic choices. (Scherzer pp. 67–69; Brasseur pp. 165–171.) | `event-borrowed-head` | P (historical variants; manuscript interpretation pending) | Required |
-| XB-034 | After preparing a replacement (XB-048), **Xbalanque coaches his brother**, a rabbit diverts the lords during ballplay and the true head is recovered and restored; the substitute is then destroyed. The substitute's material and dawn-delaying helper have **conflicting readings** (Scherzer pp. 67–69; Brasseur pp. 165–171). Do not silently replace the contested material with V1's squash. | `event-borrowed-head` / `pv-borrowed-head` | P (Scherzer pp. 67–69) | Required |
+The younger twins' own work in the fields shows their ingenuity. Their tools seem to labor without them while they pretend to work, and a bird warns of their grandmother's approach. By night, animals undo what has been cleared. The twins keep watch, capture a rat and bargain with it. In exchange for its life and food, the rat reveals the ballgame equipment hidden after their father and uncle departed. The brothers arrange for a leaking water vessel to occupy their mother and grandmother while the rat releases the equipment.
 
-**Evidence caution:** The [corpus event list](../corpus/indexes/events.json) still flags trials/borrowed-head **at event level** as Spence-seeded and uncollated. The **new finer printed-page locators from independent review** are cited above as P: that narrows the gap, but it is **not** an upgrade to manuscript verification or a silently changed corpus anchor. The order of XB-029 before XB-028 in this table is intentional (Knife House confinement begins, then the flower retrieval happens within it). Source events and editorial beat numbers need not be sorted. Narrative purpose: each trial reveals a different strategy or stakes; don't manufacture symmetric tricks for the terse Fire House account.
+They take up the game on their ancestors' court. Once again the lords below hear the noise and send a summons. The message reaches Xmucane, who dispatches it through a small and comic chain: a louse is swallowed by a toad, the toad by a snake and the snake by a bird. The twins shoot the bird, heal its eye and recover the nested messengers until the louse gives them the summons. Before going underground, they take leave of Xmucane and Xquic and plant canes whose condition will show whether they live or die.
 
-## Movement E — Chosen death, the downfall and the limits of victory
+## IV. The second descent
 
-| Beat | What the reader must learn / what happens | Corpus ID | Evidence | Treatment |
-| --- | --- | --- | --- | --- |
-| XB-035 | The twins instruct two **seers on what to tell the lords**, not how to collect their friends' bodies. When the lords consult them, the seers portray **grinding the bones and throwing them into water** as effective permanent disposal—precisely the twins' planned transformation mechanism. (Scherzer pp. 69–71; Brasseur II.xii.) | `event-death-resurrection` / `pv-death-resurrection` | P (Scherzer pp. 69–71) | Required |
-| XB-036 | The twins **willingly** enter the oven; the lords, acting on the seers' seemingly anti-resurrection advice, grind their burned bones and cast the remains into water. This is not a failed Fire House trial or the seers conducting a friendly burial. (Scherzer pp. 69–71.) | `event-death-resurrection` | P (Scherzer pp. 69–71) | Required |
-| XB-037 | They reappear on the **fifth day in aquatic form**, then on the **following day** as impoverished wandering performers with concealed identities (as distinguished in the selected historical reading). This is a staged transformation, not an unspecified interval. (Scherzer pp. 71–72.) | `event-death-resurrection` | P (Scherzer pp. 71–72) | Required |
-| XB-038 | The twins establish a **public reputation** by destroying and restoring a house, killing and reviving animals, and sacrificing/resurrecting a **human volunteer**. The demonstrations earn an invitation to court; their purpose is access and credibility, not only spectacle. (Scherzer pp. 71–74.) | `event-victory` / `pv-victory` | P (Scherzer pp. 71–74) | Required |
-| XB-049 | **Court performance follows public success:** the entertainers initially refuse the summons, feign humility, conceal ancestry and comply with increasingly bold demands—including a human restoration—until the lords demand the trick on themselves. Recurrence has causal escalation; compress mechanical repetition without losing the trap. (Scherzer pp. 73–75.) | `event-victory` | P (Scherzer pp. 73–75) | Required |
-| XB-039 | After escalating court demonstrations (XB-049), the rulers ask for the same death and resurrection. The performers kill One Death and Seven Death but **do not bring them back**. (Scherzer pp. 74–75; manuscript images checked for the outcome.) | `event-victory` | M (outcome); P (lead-up) | Required |
-| XB-040 | After the non-restoration the brothers reveal their identities and ancestry. Surviving underworld powers **flee, including an ant-associated flight scene**, then submit; their authority and offerings are reduced—**death itself is not abolished**. (Scherzer pp. 75–77; selected manuscript images checked for later decree.) | `event-victory` | M (decree); P (flight detail) | Required |
-| XB-041 | **Narrated retrospective / concurrent household thread:** canes planted before descent **wither while the twins burn** and **revive when they return**, though the text narrates Xmucane's grief, incense and commemoration after Xibalba's downfall. Do not stage the withering as first occurring after victory. (Scherzer pp. 77–78; selected manuscript images checked.) | `event-father-reunion` / `pv-father-reunion` | M (scene); P (timing) | Required |
-| XB-042 | The twins seek their father and uncle. The attempt involving an ancestor's face/name does **not** accomplish complete physical restoration; exact grammar and individual ancestral referents remain under review. | `event-father-reunion` | M | Required |
-| XB-043 | They promise ancestral recognition and remembrance; the earlier defeat has a meaningful answer without a simplistic reversal of mortality. | `event-father-reunion` | M | Required |
-| XB-044 | The victorious pair ascend, associated with Sun and Moon. The clause's context favors the **younger twins**, but the exact individual assignment is unresolved; **no heavenly ballgame is established by the clause**. | `event-ascension` / `pv-ascension` | M | Required |
-| XB-045 | The four hundred youths become celestial companions/stars in the source ending; their Zipacna episode is **out of scope** here. Decide on a brief contextual explanation or explicit omission. | `event-ascension` | M | Optional |
+The younger twins enter Xibalba by its rivers and roads. This time the family has learned. They send a biting insect ahead to reveal the names of the seated rulers, identify the wooden pretenders and avoid the humiliating seat. Given the torches and cigars that defeated the older men, they use macaw tail feathers to suggest flame and fireflies to imitate burning cigars. They return the objects as demanded.
 
-**Primary research:** [Ancestors and the Ascension](../corpus/research/ancestors-and-ascension.md), selected manuscript sequences 71–74; [eleven-book implications](../corpus/research/eleven-book-implications.md). The original poem extends the final departure landscape, celestial roles and heavenly ballgame; these may be literary choices but cannot be recorded as literal manuscript detail. **Narrative order vs event time:** the text returns to the household's concurrently withering/renewing canes after the court's defeat; adaptation placement remains an artistic decision.
+The lords turn to ballplay and impose dangerous terms. The brothers challenge a treacherous ball, and the contest leads to an impossible demand for flowers from a guarded garden. They are confined in Knife House, where the moving blades threaten to cut them. The twins bargain with the blades and hold them back. While they are enclosed there, ants enter the lords' garden and carry away the flowers. The twins deliver them, the failed guardians are punished, and the ballgame continues.
 
-## Coverage and boundaries checklist
+Other houses test them differently. Cold House threatens to freeze them. In Jaguar House they feed bones to hungry beasts, so that the crunching sounds like their own destruction. They also survive Fire House, though the account spends less time explaining how. Finally they enter Bat House and shelter inside their blowguns. When Xbalanque asks about dawn, Hunahpu exposes his head to look out. Camazotz takes it.
 
-**In-scope editorial coverage (subject to subsequent source and causal audit):** earlier family/ballgame; first summons, descent, ordeal and death; fruit-bearing head; Xquic's choice, conception, threatened execution, substitute heart, flight and maize test; birth, elder brothers and childhood; retrieved equipment, second summons and survival canes; the second descent's roads, recognition and all named houses; ballgames, flowers, beheading and borrowed head; voluntary death, watery return and disguised performances; the lords' unrevived deaths, reduced powers, household memorials, ancestral limitation and ascent.
+Xbalanque must now save his brother while the lords possess his true head. With supernatural assistance, the time before dawn is extended and a temporary head is prepared. The twins return to the ballgame. A rabbit draws the lords' attention away, allowing Hunahpu's real head to be recovered and restored. The temporary head is discarded. The precise material of the substitute differs among the textual witnesses; that distinction belongs in the research notes, not as an interruption to the action.
 
-**Explicitly out of scope:** world creation, failed humans, Seven Macaw, Zipacna/Cabrakan, maize-human creation, Tulan and the dynastic/colonial histories. The four hundred youths are the one in-scope ending that refers to an excluded antecedent: decide how to handle it, don't quietly invent the missing context. Divine help *within* the selected cycle, including Heart of Sky's involvement, remains available even though the general creation story is excluded.
+## V. Chosen death, defeat and remembrance
 
-**Open research, not a universal drafting veto:** The finer trial sequence needs direct manuscript collation, Xquic's later references need a complete pass and the ancestor's face/name and celestial assignments require K'iche' review. The corpus's three diplomatic working excerpts remain provisional. **Provisional drafting from an attributed printed witness may proceed**; further research becomes a hard gate when a disputed reading changes a scene's meaning. This inventory is *not* 49 independently verified manuscript passages.
+The brothers understand that further survival is not enough. They devise a final reversal and instruct two seers what to say if the lords ask how to dispose of their bodies. When the rulers consult the seers, they are advised to burn the twins, grind their bones and cast the remains into water as though this would prevent their return. The twins voluntarily enter the fire, and the lords follow the false advice.
 
-## What happens next (not yet done)
+On the fifth day the brothers reappear in aquatic form. On the following day they return as poor wandering performers, their identities concealed. They astonish the public by destroying a house and restoring it, by killing and reviving animals and by restoring a human victim. Word of these wonders reaches the rulers. Summoned to the court, the entertainers first resist, then appear humble and comply with greater demands. Their repeated demonstrations teach the lords to trust the spectacle of death and resurrection.
 
-1. **Author reviews the boundary**, particularly the four hundred youths, mythic pre-dawn context, humor and how much childhood requires full dramatization.
-2. **Editorial pass: assign narrative weights** to the 45 beats (full scene / short bridge / summary / deliberate omission), without forcing equal space or a fixed book count.
-3. **Two-stage V1 audit:** first map scenes and keep/revise/remove decisions, then scan/check only plausible survivors in depth. Current Books I–VII are references, not a locked structural sequence.
-4. **Book architecture**: cluster weighted beats around actual dramatic turns, choose boundaries and stanza budgets, then create bounded episode briefs.
-5. **Draft, review and integrate** one short episode at a time. Preserve an explicit editorial decision record.
+At last One Death and Seven Death demand that the performers kill and revive them as well. The twins kill the lords but do not restore them. They reveal who they are and whose deaths they have come to answer. The surviving powers flee and submit. Xibalba's prestige and claims to offerings are reduced. Death has not been removed from the world, but its rulers have been humbled and denied their former authority.
 
-**Important:** No changes to the seven published books, no new poetry and no claims of complete source collation are authorized by this register.
+The story returns to the household above. The planted canes had withered during the twins' burning and renewed when they returned, so Xmucane's grief and the signs of life belong to the same stretch of time we have just heard told below. Their remembrance leads into the brothers' final concern: their father and uncle. The twins seek the ancestors and try to restore what was lost, but complete bodily restoration eludes them. Instead they promise honor and remembrance. Their victory can answer the earlier wrong without making death itself reversible.
+
+The victorious pair rise into the heavens and are associated with the Sun and Moon. The Popol Vuh also places the four hundred youths among the stars; their earlier adventure with Zipacna belongs outside this Xibalba-focused poem and may be given a brief contextual mention or left to the notes. The poem's final image is still to be chosen. What must endure is the contrast between the first generation's defeat and the second's victory, together with the loss the victory cannot undo.
+
+---
+
+## Editorial use: the scene register
+
+The 49 scene IDs below are **stable handles**, not book numbers or lines of poetry. Their order follows the account above: newer IDs (XB-046 through XB-049) appear where their actions belong. A scene can be a few lines, a full passage or a transition; no stanza allocation is implied.
+
+**Coverage** describes our current research, **not confidence in the myth itself**: **M** = a selected manuscript location was inspected (but no general linguistic certification); **P** = a specifically located historical printed witness (no manuscript-level verification implied); **S** = only a broad or provisional source description; **U** = an interpretive question not resolved. Mixed labels identify claims with different kinds of coverage. Source-page pointers are research locators, not guarantees of a verified exact reading.
+
+### I. The first ballplayers
+
+| Scene | Action | Corpus correspondence | Coverage |
+| --- | --- | --- | --- |
+| **XB-001** | The ancestral family and elder sons | `event-fathers-family` / `pv-fathers-family` | M |
+| **XB-002** | Ballgame heard in Xibalba; the deathly court | `event-fathers-summons` / `pv-fathers-summons` | M |
+| **XB-003** | First owl summons | `event-fathers-summons` | M |
+| **XB-004** | Departure, grief and stored equipment | `event-fathers-summons` | M |
+| **XB-005** | Road and speaking crossroads | `event-fathers-defeat` / `pv-fathers-defeat` | M |
+| **XB-006** | Effigies and heated seat | `event-fathers-defeat` | M |
+| **XB-007** | Failure of torch-and-tobacco test | `event-fathers-defeat` | M |
+| **XB-008** | Execution and the severed head | `event-fathers-defeat` / `event-head-tree` | M |
+
+### II. The head in the tree and Xquic
+
+| Scene | Action | Corpus correspondence | Coverage |
+| --- | --- | --- | --- |
+| **XB-009** | Tree bears fruit and is forbidden | `event-head-tree` / `pv-head-tree` | M |
+| **XB-010** | Xquic goes to the tree | `event-xquic-conception` / `pv-xquic-conception` | M |
+| **XB-011** | Saliva and descendants | `event-xquic-conception` | M |
+| **XB-012** | Pregnancy discovered; execution ordered | `event-xquic-escape` / `pv-xquic-escape` | M |
+| **XB-013** | Owl messengers and the substitute heart | `event-xquic-escape` | M |
+| **XB-014** | Fragrant deception and escape | `event-xquic-escape` | M |
+| **XB-015** | Xquic claims kinship with Xmucane | `event-xquic-xmucane` / `pv-xquic-xmucane` | M |
+| **XB-016** | Maize test and invocation | `event-xquic-xmucane` | M |
+| **XB-017** | Inspection and acceptance | `event-xquic-xmucane` | M |
+
+### III. The sons inherit the ballgame
+
+| Scene | Action | Corpus correspondence | Coverage |
+| --- | --- | --- | --- |
+| **XB-018** | Birth and household mistreatment | `event-twins-childhood` / `pv-twins-childhood` | M (birth); P (later mother) |
+| **XB-019** | Elder brothers transformed into monkeys | `event-twins-childhood` | P (Scherzer pp. 44–48) |
+| **XB-047** | Musical recall and lost brothers | `event-twins-childhood` | P (Scherzer pp. 47–49) |
+| **XB-020** | Fields, animals and trickster labor | `event-twins-childhood` | P (Scherzer pp. 49–53) |
+| **XB-021** | Rat's bargain and hidden ball gear | `event-twins-ballgame` / `pv-twins-ballgame` | P (Scherzer pp. 52–54) |
+| **XB-022** | Second ballgame and summons | `event-twins-ballgame` | P (Scherzer pp. 54–55) |
+| **XB-046** | Louse–toad–snake–bird relay | `event-twins-ballgame` / `event-twins-descent` | P (Scherzer pp. 55–57) |
+| **XB-023** | Farewell and planted canes | `event-twins-descent` / `pv-twins-descent` | P (Scherzer pp. 57–58) |
+
+### IV. The second descent
+
+| Scene | Action | Corpus correspondence | Coverage |
+| --- | --- | --- | --- |
+| **XB-024** | Rivers and roads of the second descent | `event-twins-descent` / `pv-twins-descent` | S (finer route locator pending) |
+| **XB-025** | Insect identifies rulers; traps avoided | `event-twins-descent` | S (finer trick locator pending) |
+| **XB-026** | Macaw feathers and fireflies | `event-twins-descent` / `event-twins-trials` | P (Scherzer p. 61) |
+| **XB-027** | Dangerous ballgame and flower demand | `event-twins-trials` / `pv-twins-trials` | P (Scherzer pp. 62–65) |
+| **XB-029** | Knife House and bargain with blades | `event-twins-trials` | P (Scherzer pp. 63–64) |
+| **XB-028** | Ants steal flowers during Knife House | `event-twins-trials` | P (Scherzer pp. 63–65) |
+| **XB-030** | Cold House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) |
+| **XB-031** | Jaguar House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) |
+| **XB-032** | Fire House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) |
+| **XB-033** | Bat House and beheading | `event-twins-trials` / `event-borrowed-head` | P (Scherzer pp. 66–67) |
+| **XB-048** | Temporary head and delayed dawn | `event-borrowed-head` | P (historical variants; manuscript interpretation pending) |
+| **XB-034** | Rabbit, ballgame and recovery | `event-borrowed-head` / `pv-borrowed-head` | P (Scherzer pp. 67–69) |
+
+### V. Death, victory and remembrance
+
+| Scene | Action | Corpus correspondence | Coverage |
+| --- | --- | --- | --- |
+| **XB-035** | Seers coached to misdirect the lords | `event-death-resurrection` / `pv-death-resurrection` | P (Scherzer pp. 69–71) |
+| **XB-036** | Chosen death, grinding and river | `event-death-resurrection` | P (Scherzer pp. 69–71) |
+| **XB-037** | Aquatic return; wandering performers | `event-death-resurrection` | P (Scherzer pp. 71–72) |
+| **XB-038** | Public miracles build a reputation | `event-victory` / `pv-victory` | P (Scherzer pp. 71–74) |
+| **XB-049** | Escalating performances at court | `event-victory` | P (Scherzer pp. 73–75) |
+| **XB-039** | Lords killed without restoration | `event-victory` | M (outcome); P (lead-up) |
+| **XB-040** | Revelation and diminished Xibalba | `event-victory` | M (decree); P (flight detail) |
+| **XB-041** | The canes and Xmucane's mourning | `event-father-reunion` / `pv-father-reunion` | M (scene); P (timing) |
+| **XB-042** | Attempted ancestral restoration | `event-father-reunion` | M |
+| **XB-043** | Promise of remembrance | `event-father-reunion` | M |
+| **XB-044** | Ascent of the celestial pair | `event-ascension` / `pv-ascension` | M |
+| **XB-045** | Four hundred youths as stars | `event-ascension` | M |
+
+## Interpretive questions to retain in the working notes
+
+These are decisions for research and authorship, **not** scenes in the story.
+
+- **Ancestral family and names.** One Hunahpu is the twins' father, Seven Hunahpu their uncle. Only One Hunahpu's severed head is physically identified in the tree. Xquic is Cuchumaquic's daughter. Early kinship language and the ancestor scene contain grammatical difficulties that deserve qualified treatment. See [first ballgame](../corpus/research/first-ballgame.md) and [head in tree](../corpus/research/head-in-tree.md).
+- **Xquic's helpers.** The manuscript Spanish and Scherzer describe animals carrying her maize, while Brasseur acknowledged that reading and substituted human laborers in French; Guthrie has a related rendering. We should not mistake these for independent agreements. See [Xquic and Xmucane](../corpus/research/xquic-and-xmucane.md).
+- **The temporary head.** Scherzer (pp. 67, 69) and Brasseur (pp. 165, 169–171) describe a **turtle**; Christenson's modern K'iche'-informed translation describes a **coati-borne chilacayote squash**. The dawn-delaying helper also differs between historical versions. Our published poem's squash is a choice, not an uncontested manuscript reading. Compare the exact passages before settling V2's image.
+- **The trials.** The older generation does not complete the younger twins' full series of houses. Knife House and the flower theft overlap. The full younger trial sequence is not yet collated against the manuscript in the corpus, and the printed references should be checked before consequential changes to mechanics or timing. See [corpus research](../corpus/README.md).
+- **The chosen death and performances.** The seers advise **the lords** on disposal; they do not clandestinely gather the remains themselves. Repetition of public and court tricks has a causal purpose: it produces the lords' final request. See Scherzer pp. 69–75, and the provisional [passage concordance](../corpus/indexes/passages.json).
+- **Ancestors, heavens and mythic time.** The short manuscript ascent clause does not explicitly name the fathers as the ascending subject; context favors the victorious younger twins. The exact individual Sun/Moon assignments and ancestral restoration syntax require additional K'iche' review. Dawn references within a mythic pre-solar setting need no invented rationalizing cosmology. A celestial ballgame would be a poetic addition, not an attested detail of that clause. See [ancestors and ascension](../corpus/research/ancestors-and-ascension.md).
+
+**Narrative boundary:** This selection does not include the Popol Vuh's world creation, Seven Macaw cycle, maize humanity or K'iche' royal history. The four hundred youths at the ending are the only major celestial reference here that depends directly on an excluded earlier adventure.
+
+**Next editorial step:** Weight these scenes for dramatic importance, then map the existing seven books against them. Only after that do we choose book divisions and stanza budgets. No poetry, site files or source text are changed by this document.
