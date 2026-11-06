@@ -66,77 +66,77 @@ The 49 scene IDs below are **stable handles**, not book numbers or lines of poet
 
 ### I. The first ballplayers
 
-| Scene | Action | Corpus correspondence | Coverage |
-| --- | --- | --- | --- |
-| **XB-001** | The ancestral family and elder sons | `event-fathers-family` / `pv-fathers-family` | M |
-| **XB-002** | Ballgame heard in Xibalba; the deathly court | `event-fathers-summons` / `pv-fathers-summons` | M |
-| **XB-003** | First owl summons | `event-fathers-summons` | M |
-| **XB-004** | Departure, grief and stored equipment | `event-fathers-summons` | M |
-| **XB-005** | Road and speaking crossroads | `event-fathers-defeat` / `pv-fathers-defeat` | M |
-| **XB-006** | Effigies and heated seat | `event-fathers-defeat` | M |
-| **XB-007** | Failure of torch-and-tobacco test | `event-fathers-defeat` | M |
-| **XB-008** | Execution and the severed head | `event-fathers-defeat` / `event-head-tree` | M |
+| Scene | Action | Corpus correspondence | Coverage | Printed locator / research guide |
+| --- | --- | --- | --- | --- |
+| **XB-001** | The ancestral family and elder sons | `event-fathers-family` / `pv-fathers-family` | M | Scherzer 29–33 |
+| **XB-002** | Ballgame heard in Xibalba; the deathly court | `event-fathers-summons` / `pv-fathers-summons` | M | Scherzer 30–32 |
+| **XB-003** | First owl summons | `event-fathers-summons` | M | Scherzer 32–33 |
+| **XB-004** | Departure, grief and stored equipment | `event-fathers-summons` | M | Scherzer 33–34 |
+| **XB-005** | Road and speaking crossroads | `event-fathers-defeat` / `pv-fathers-defeat` | M | See linked dossier |
+| **XB-006** | Effigies and heated seat | `event-fathers-defeat` | M | See linked dossier |
+| **XB-007** | Failure of torch-and-tobacco test | `event-fathers-defeat` | M | See linked dossier |
+| **XB-008** | Execution and the severed head | `event-fathers-defeat` / `event-head-tree` | M | See linked dossier |
 
 ### II. The head in the tree and Xquic
 
-| Scene | Action | Corpus correspondence | Coverage |
-| --- | --- | --- | --- |
-| **XB-009** | Tree bears fruit and is forbidden | `event-head-tree` / `pv-head-tree` | M |
-| **XB-010** | Xquic goes to the tree | `event-xquic-conception` / `pv-xquic-conception` | M |
-| **XB-011** | Saliva and descendants | `event-xquic-conception` | M |
-| **XB-012** | Pregnancy discovered; execution ordered | `event-xquic-escape` / `pv-xquic-escape` | M |
-| **XB-013** | Owl messengers and the substitute heart | `event-xquic-escape` | M |
-| **XB-014** | Fragrant deception and escape | `event-xquic-escape` | M |
-| **XB-015** | Xquic claims kinship with Xmucane | `event-xquic-xmucane` / `pv-xquic-xmucane` | M |
-| **XB-016** | Maize test and invocation | `event-xquic-xmucane` | M |
-| **XB-017** | Inspection and acceptance | `event-xquic-xmucane` | M |
+| Scene | Action | Corpus correspondence | Coverage | Printed locator / research guide |
+| --- | --- | --- | --- | --- |
+| **XB-009** | Tree bears fruit and is forbidden | `event-head-tree` / `pv-head-tree` | M | See linked dossier |
+| **XB-010** | Xquic goes to the tree | `event-xquic-conception` / `pv-xquic-conception` | M | See linked dossier |
+| **XB-011** | Saliva and descendants | `event-xquic-conception` | M | Scherzer 38–39 |
+| **XB-012** | Pregnancy discovered; execution ordered | `event-xquic-escape` / `pv-xquic-escape` | M | See linked dossier |
+| **XB-013** | Owl messengers and the substitute heart | `event-xquic-escape` | M | Scherzer 39–42 |
+| **XB-014** | Fragrant deception and escape | `event-xquic-escape` | M | Scherzer 40–42 |
+| **XB-015** | Xquic claims kinship with Xmucane | `event-xquic-xmucane` / `pv-xquic-xmucane` | M | See linked dossier |
+| **XB-016** | Maize test and invocation | `event-xquic-xmucane` | M | Scherzer 42–44 |
+| **XB-017** | Inspection and acceptance | `event-xquic-xmucane` | M | Scherzer 43–44; Brasseur 104–105 |
 
 ### III. The sons inherit the ballgame
 
-| Scene | Action | Corpus correspondence | Coverage |
-| --- | --- | --- | --- |
-| **XB-018** | Birth and household mistreatment | `event-twins-childhood` / `pv-twins-childhood` | M (birth); P (later mother) |
-| **XB-019** | Elder brothers transformed into monkeys | `event-twins-childhood` | P (Scherzer pp. 44–48) |
-| **XB-047** | Musical recall and lost brothers | `event-twins-childhood` | P (Scherzer pp. 47–49) |
-| **XB-020** | Fields, animals and trickster labor | `event-twins-childhood` | P (Scherzer pp. 49–53) |
-| **XB-021** | Rat's bargain and hidden ball gear | `event-twins-ballgame` / `pv-twins-ballgame` | P (Scherzer pp. 52–54) |
-| **XB-022** | Second ballgame and summons | `event-twins-ballgame` | P (Scherzer pp. 54–55) |
-| **XB-046** | Louse–toad–snake–bird relay | `event-twins-ballgame` / `event-twins-descent` | P (Scherzer pp. 55–57) |
-| **XB-023** | Farewell and planted canes | `event-twins-descent` / `pv-twins-descent` | P (Scherzer pp. 57–58) |
+| Scene | Action | Corpus correspondence | Coverage | Printed locator / research guide |
+| --- | --- | --- | --- | --- |
+| **XB-018** | Birth and household mistreatment | `event-twins-childhood` / `pv-twins-childhood` | M (birth); P (later mother) | Scherzer 48, |
+| **XB-019** | Elder brothers transformed into monkeys | `event-twins-childhood` | P (Scherzer pp. 44–48) | Scherzer 44–48 |
+| **XB-047** | Musical recall and lost brothers | `event-twins-childhood` | P (Scherzer pp. 47–49) | Scherzer 47–49 |
+| **XB-020** | Fields, animals and trickster labor | `event-twins-childhood` | P (Scherzer pp. 49–53) | Scherzer 49–53 |
+| **XB-021** | Rat's bargain and hidden ball gear | `event-twins-ballgame` / `pv-twins-ballgame` | P (Scherzer pp. 52–54) | Scherzer 52–54 |
+| **XB-022** | Second ballgame and summons | `event-twins-ballgame` | P (Scherzer pp. 54–55) | Scherzer 54–55 |
+| **XB-046** | Louse–toad–snake–bird relay | `event-twins-ballgame` / `event-twins-descent` | P (Scherzer pp. 55–57) | Scherzer 55–57 |
+| **XB-023** | Farewell and planted canes | `event-twins-descent` / `pv-twins-descent` | P (Scherzer pp. 57–58) | Scherzer 57–58 |
 
 ### IV. The second descent
 
-| Scene | Action | Corpus correspondence | Coverage |
-| --- | --- | --- | --- |
-| **XB-024** | Rivers and roads of the second descent | `event-twins-descent` / `pv-twins-descent` | S (finer route locator pending) |
-| **XB-025** | Insect identifies rulers; traps avoided | `event-twins-descent` | S (finer trick locator pending) |
-| **XB-026** | Macaw feathers and fireflies | `event-twins-descent` / `event-twins-trials` | P (Scherzer p. 61) |
-| **XB-027** | Dangerous ballgame and flower demand | `event-twins-trials` / `pv-twins-trials` | P (Scherzer pp. 62–65) |
-| **XB-029** | Knife House and bargain with blades | `event-twins-trials` | P (Scherzer pp. 63–64) |
-| **XB-028** | Ants steal flowers during Knife House | `event-twins-trials` | P (Scherzer pp. 63–65) |
-| **XB-030** | Cold House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) |
-| **XB-031** | Jaguar House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) |
-| **XB-032** | Fire House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) |
-| **XB-033** | Bat House and beheading | `event-twins-trials` / `event-borrowed-head` | P (Scherzer pp. 66–67) |
-| **XB-048** | Temporary head and delayed dawn | `event-borrowed-head` | P (historical variants; manuscript interpretation pending) |
-| **XB-034** | Rabbit, ballgame and recovery | `event-borrowed-head` / `pv-borrowed-head` | P (Scherzer pp. 67–69) |
+| Scene | Action | Corpus correspondence | Coverage | Printed locator / research guide |
+| --- | --- | --- | --- | --- |
+| **XB-024** | Rivers and roads of the second descent | `event-twins-descent` / `pv-twins-descent` | S (finer route locator pending) | See linked dossier |
+| **XB-025** | Insect identifies rulers; traps avoided | `event-twins-descent` | S (finer trick locator pending) | See linked dossier |
+| **XB-026** | Macaw feathers and fireflies | `event-twins-descent` / `event-twins-trials` | P (Scherzer p. 61) | Scherzer 61 |
+| **XB-027** | Dangerous ballgame and flower demand | `event-twins-trials` / `pv-twins-trials` | P (Scherzer pp. 62–65) | Scherzer 62–65 |
+| **XB-029** | Knife House and bargain with blades | `event-twins-trials` | P (Scherzer pp. 63–64) | Scherzer 63–64; Brasseur 157–159 |
+| **XB-028** | Ants steal flowers during Knife House | `event-twins-trials` | P (Scherzer pp. 63–65) | Scherzer 63–65 |
+| **XB-030** | Cold House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) | Scherzer 65–66, |
+| **XB-031** | Jaguar House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) | Scherzer 65–66 |
+| **XB-032** | Fire House | `event-twins-trials` | P (Scherzer pp. 65–66; verify) | Scherzer 65–66 |
+| **XB-033** | Bat House and beheading | `event-twins-trials` / `event-borrowed-head` | P (Scherzer pp. 66–67) | Scherzer 66–67; Brasseur 162–165 |
+| **XB-048** | Temporary head and delayed dawn | `event-borrowed-head` | P (historical variants; manuscript interpretation pending) | Scherzer 67–69; Brasseur 165–171 |
+| **XB-034** | Rabbit, ballgame and recovery | `event-borrowed-head` / `pv-borrowed-head` | P (Scherzer pp. 67–69) | Scherzer 67–69; Brasseur 165–171 |
 
 ### V. Death, victory and remembrance
 
-| Scene | Action | Corpus correspondence | Coverage |
-| --- | --- | --- | --- |
-| **XB-035** | Seers coached to misdirect the lords | `event-death-resurrection` / `pv-death-resurrection` | P (Scherzer pp. 69–71) |
-| **XB-036** | Chosen death, grinding and river | `event-death-resurrection` | P (Scherzer pp. 69–71) |
-| **XB-037** | Aquatic return; wandering performers | `event-death-resurrection` | P (Scherzer pp. 71–72) |
-| **XB-038** | Public miracles build a reputation | `event-victory` / `pv-victory` | P (Scherzer pp. 71–74) |
-| **XB-049** | Escalating performances at court | `event-victory` | P (Scherzer pp. 73–75) |
-| **XB-039** | Lords killed without restoration | `event-victory` | M (outcome); P (lead-up) |
-| **XB-040** | Revelation and diminished Xibalba | `event-victory` | M (decree); P (flight detail) |
-| **XB-041** | The canes and Xmucane's mourning | `event-father-reunion` / `pv-father-reunion` | M (scene); P (timing) |
-| **XB-042** | Attempted ancestral restoration | `event-father-reunion` | M |
-| **XB-043** | Promise of remembrance | `event-father-reunion` | M |
-| **XB-044** | Ascent of the celestial pair | `event-ascension` / `pv-ascension` | M |
-| **XB-045** | Four hundred youths as stars | `event-ascension` | M |
+| Scene | Action | Corpus correspondence | Coverage | Printed locator / research guide |
+| --- | --- | --- | --- | --- |
+| **XB-035** | Seers coached to misdirect the lords | `event-death-resurrection` / `pv-death-resurrection` | P (Scherzer pp. 69–71) | Scherzer 69–71 |
+| **XB-036** | Chosen death, grinding and river | `event-death-resurrection` | P (Scherzer pp. 69–71) | Scherzer 69–71 |
+| **XB-037** | Aquatic return; wandering performers | `event-death-resurrection` | P (Scherzer pp. 71–72) | Scherzer 71–72 |
+| **XB-038** | Public miracles build a reputation | `event-victory` / `pv-victory` | P (Scherzer pp. 71–74) | Scherzer 71–74 |
+| **XB-049** | Escalating performances at court | `event-victory` | P (Scherzer pp. 73–75) | Scherzer 73–75 |
+| **XB-039** | Lords killed without restoration | `event-victory` | M (outcome); P (lead-up) | Scherzer 74–75 |
+| **XB-040** | Revelation and diminished Xibalba | `event-victory` | M (decree); P (flight detail) | Scherzer 75–77 |
+| **XB-041** | The canes and Xmucane's mourning | `event-father-reunion` / `pv-father-reunion` | M (scene); P (timing) | Scherzer 77–78 |
+| **XB-042** | Attempted ancestral restoration | `event-father-reunion` | M | See linked dossier |
+| **XB-043** | Promise of remembrance | `event-father-reunion` | M | See linked dossier |
+| **XB-044** | Ascent of the celestial pair | `event-ascension` / `pv-ascension` | M | See linked dossier |
+| **XB-045** | Four hundred youths as stars | `event-ascension` | M | See linked dossier |
 
 ## Interpretive questions to retain in the working notes
 
