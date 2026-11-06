@@ -1,16 +1,17 @@
-# Editorial workbench (proposed V2)
+# Editorial workbench
 
-This directory contains **proposals for author review**, not amendments to the seven published books.
+The [Xibalba story](XIBALBA_EPISODES.md) is the starting point: a continuous prose account of the chosen narrative, from the first generation's ballgame through Xquic, the younger twins' trials and the final remembrance and ascent. **Read the story before the bookkeeping.**
 
-- [PROJECT_CHARTER.md](PROJECT_CHARTER.md) — scope, source fidelity, form, creative license, bounded workflow and unresolved artistic decisions.
-- [XIBALBA_EPISODES.md](XIBALBA_EPISODES.md) — 49 stable editorial beats, grouped into five movements and linked to existing corpus event/passage IDs with evidence grades.
+The companion [project charter](PROJECT_CHARTER.md) describes what the poem is for, what lies outside its scope, how we handle invention and source uncertainty, and the oral verse form we mean to preserve.
 
-## Working rule
+The **back half of the story document** contains a concordance of 49 persistent scene IDs and links to the historical corpus. It is there to help us navigate between the narrative, its witnesses and future poetry; it is not meant to be read as the story. Numbering records the history of decisions, not a required chapter sequence.
 
-For a drafting session, begin with a **short charter digest**, the relevant portion of the episode register, **one focused scene brief with a precise source locator**, relevant accepted decisions and a short span of neighboring accepted verse. Consult more of the corpus **whenever the scene needs it**; this is a context-management default, not a limit on legitimate research. Store accepted decisions and finished episode revisions in versioned files rather than relying on chat context. Keep a **single decision log** for consequential literary, source and scope choices; ordinary wording iterations belong in Git history. Source, narrative, formal and performance criteria can be checked together in one integrated editorial review.
+## How we will use these documents
 
-The first implementation step is **reviewing scope and weighting these beats**, then a **two-stage** V1 audit (scene-level keep/revise/remove decisions; close scansion/source audit only for plausible survivors). The chapter/book count remains open. This register follows source **narration order**, not strict event chronology or future poem order; added IDs may be out of numeric order. Its printed-witness page locators are research pointers, not independently verified manuscript text.
+First, agree on the story and its boundaries. Then assign narrative weight to each scene, distinguishing passages that deserve full dramatic treatment from those that need only a transition. Next, map the seven existing books to the selected story and decide which material to keep, revise or replace. Only then choose book boundaries and stanza budgets.
 
-The authoritative research material remains in [the corpus](../corpus/README.md). This directory does not replace source documents or alter their rights status.
+Each writing session should work from a **small scene packet**: a short charter summary, the relevant passage of the story, its scene and source IDs, known uncertainties, character/prop continuity, the neighboring accepted stanzas and the next scene's handoff. The full corpus stays available for targeted checking, not obligatory bulk reading. Keep one short decision log for consequential interpretive and artistic choices; normal drafting revisions belong in Git history.
 
-**Preservation:** `book-1.md` through `book-7.md`, their HTML versions and existing artwork remain the published V1. Do not rewrite them as part of editorial planning.
+The authoritative research material is the [public-domain corpus](../corpus/README.md), including the [five source-comparison dossiers](../corpus/research/README.md). The published seven-book poem and existing website/artwork remain unchanged throughout this planning stage.
+
+**Status:** All editorial documents are proposals awaiting author approval. No new books or verses have been authorized or published.
