@@ -2,7 +2,7 @@
 
 **Status:** Proposed editorial foundation, working edition (2026-11-05). For author review; not a ratified rewrite policy.
 **Existing published edition:** seven books, 136 nine-line stanzas. Preserve the published `book-1.md` through `book-7.md`, site and artwork unchanged.
-**Episode register:** [XIBALBA_EPISODES.md](XIBALBA_EPISODES.md).
+**Source story guide:** [XIBALBA_EPISODES.md](XIBALBA_EPISODES.md). **Research lookups:** [XIBALBA_SOURCE_INDEX.md](XIBALBA_SOURCE_INDEX.md).
 **Research authority:** [the corpus](../corpus/README.md), especially the [manuscript research dossiers](../corpus/research/README.md).
 
 ## 1. What we are making
@@ -15,15 +15,15 @@ The present seven-book poem is a completed first edition and a source of success
 
 ## 2. Narrative boundary and scope
 
-The main narrative begins with **One Hunahpu and Seven Hunahpu, their family and ballgame**, not with the younger twins' summons. It continues through the first descent and defeat, the head-bearing tree, Xquic's agency and escape, the household and childhood of Hunahpu and Xbalanque, the repeated summons and second descent, the underworld ordeals, the lords' defeat, the ancestor/remembrance scene and the celestial conclusion.
+The **study guide** covers One Hunahpu and Seven Hunahpu, their defeat, the head-bearing tree, Xquic's escape, the younger twins' childhood, their second descent and ordeals, the rulers' defeat, ancestral remembrance and the ascent. It provides the context available to the poet. **It does not prescribe where our poem must begin, what scenes it must dramatize or how much space any episode receives.**
 
-The **gravitational center is Xibalba**: events aboveground should explain the actions, inherited consequences or reversal of the underworld conflict. The earlier generation and Xquic are central because they provide that causality, not because a quota of books has been reserved for them.
+The poem's **gravitational center is Xibalba and the Hero Twins**. A scene or vignette aboveground may establish an inherited consequence, illuminate a character or enrich the surrounding world; it need not justify itself as a mandatory link in a complete retelling. The earlier generation and Xquic provide especially valuable context, but their representation is an artistic choice, not a quota.
 
-**Outside the primary scope:** the general creation of the cosmos and maize humanity, Seven Macaw/Zipacna/Cabrakan adventures, later K'iche' migrations, Tulan, royal dynasties and colonial genealogies. The source's four hundred youths recur at the ascension; their presence needs a consciously chosen one- or two-sentence contextual bridge or a deliberately documented omission, **not** an unplanned retelling of the entire Seven Macaw cycle. External episodes may be mentioned only where necessary to understand an in-scope scene.
+**Outside our intended focus:** the creation of the cosmos and maize humanity, the Seven Macaw/Zipacna/Cabrakan cycle, later K'iche' migrations, Tulan and dynastic history. The four hundred youths recur at the celestial ending; the poet may allude to them, briefly explain them or omit them. Glimpses of the wider mythology can add depth without requiring their own narrative arcs.
 
-The story synopsis follows **source narration order**, with explicit markers for earlier events recounted later and for concurrent events (for example the household's planted canes wither while the twins are in the fire, not only after victory). **Source narration**, reconstructed **event chronology**, and our eventual **adaptation order** are three different things; none should be called a complete, strictly chronological sequence without qualification. This is a narrative planning checklist with deliberately varied granularity, not a manuscript-wide episode census or final book outline.
+The study guide summarizes events largely in **source narration order**, while noting retrospective events such as the withering and revival of the household's canes. It is intentionally **lossy semantic compression**: preserve principal characters, actions, mechanisms, consequences and uncertainties; discard repetitions and detail that do not help reconstruct the relevant story. **Source narration, event chronology and the poem's chosen order may differ.** The guide is a reference, not an editorial checklist or an adaptation blueprint.
 
-## 3. Nonnegotiable narrative distinctions
+## 3. Source distinctions worth protecting
 
 - One Hunahpu is father of the younger Hero Twins; Seven Hunahpu is his brother/uncle. One Hunahpu's earlier household includes Xbaquiyalo and the artistically accomplished Hunbatz/Hunchouen. The first-generation dossier places Xbaquiyalo and Xpiyacoc among the already dead by the relevant departures; the boys are tasked to preserve their arts and console Xmucane. Do not silently treat the two older ballplayers as two biological fathers, or conflate the elder sons with the younger twins.
 - The older ballplayers do **not** undergo the complete later series of trial houses. Their failed light/tobacco test leads to their deaths; don't invent a narrated losing ballmatch after it.
@@ -40,7 +40,7 @@ These limits are drawn from the corpus's [first ballgame](../corpus/research/fir
 
 1. Locate the relevant [stable event and passage IDs](../corpus/indexes/passages.json) and read the corresponding dossier.
 2. For consequential wording, distinguish the Ximénez K'iche' manuscript, its Spanish column, Scherzer, Brasseur's edited K'iche'/French, Guthrie, Spence and modern scholarship. These are not independent votes. The manuscript is itself a colonial written witness, not unmediated access to an ancient oral performance.
-3. Identify **research coverage for the specific claim** as **M** (selected manuscript image checked; linguistic reading may still be unresolved), **P** (historical printed witness with a precise locator; manuscript collation pending), **S** (provisional retelling or unlocated detail) or **U** (interpretation unresolved). Do not inherit a label from a broad corpus event ID for a distinct smaller beat. Split mixed-coverage claims or label their different components explicitly. See definitions and the reported Scherzer/Brasseur locators in the episode register; these are **coverage labels**, not confidence scores or probabilities.
+3. When a disputed claim matters, use the **research lookup index**, with **M** (selected manuscript image checked but wording may remain unresolved), **P** (located historical printed witness), **S** (provisional or broad description) and **U** (interpretive uncertainty). These are measures of **research coverage**, not probabilities of historical truth. Do not transfer broad coverage to a finer assertion without checking its actual source.
 4. For P or S material, consult the closer witness **when a disputed detail would materially determine the scene or a definitive factual assertion**. Provisional, explicitly attributed drafting may proceed using a reliable historical reading; comprehensive manuscript collation is not a universal precondition to composing verse. Neither a printed editor's parenthesis nor a modern scholar's reconstruction should masquerade as a manuscript statement.
 5. Keep exact source spelling, source quotations, our new poetic phrasing and editorial commentary separate. Don't bulk import modern copyrighted translations. Cite source location, uncertainty and the adaptation choice in the eventual stanza audit.
 
@@ -56,11 +56,11 @@ Each stanza should have a purpose: advance causality, distinguish a person, esta
 
 ## 6. Bounded production workflow
 
-**Pass A — Architecture:** confirm this charter and review the selected story's episode coverage; decide which actions need fully dramatized scenes and which may be compressed. **Only afterward** decide book divisions and stanza budgets.
+**Pass A — Literary selection:** read the study guide and existing poem. Decide which moments deserve sustained scenes, which work as vignettes or allusions, and which the poem need not mention. The source guide neither dictates book divisions nor requires narrative exhaustiveness. Choose a provisional architecture by dramatic movement and revise it as the poem develops.
 
 **Pass B — Two-level audit V1:** first map **narrative function** by scene/book and mark stanzas **keep / revise / relocate / replace / remove**, with durable IDs for accepted or seriously considered material. Then perform close source and scansion analysis chiefly on passages likely to survive. Preserve admired passages, including the opening/closing Xibalba echo, without treating them as beyond review. Do not spend hours fully scanning verse already scheduled for removal.
 
-**Pass C — Episode drafting:** draft **one bounded episode or ~5–10 stanzas** at a time from a compact scene packet: charter digest (scope, form and names), specific beat IDs and source locator, what each character knows, objects and promises carried over, entry/exit conditions, stanza budget, relevant accepted decisions, preceding accepted stanzas and intended next-scene handoff. Look up additional source material whenever the packet is insufficient. Avoid loading the entire corpus and poem by default; **never forbid necessary targeted consultation**.
+**Pass C — Bounded drafting:** work on a coherent vignette, scene or passage (often ~5–10 stanzas) using a compact packet: a short charter digest, the relevant study-guide passage, source locator if needed, character and object continuity, accepted choices, neighboring verse and the intended handoff. Research IDs are optional retrieval aids, not drafting assignments. Consult original sources whenever the summary is insufficient.
 
 **Pass D — Review criteria, not four mandatory administrative cycles:** examine (1) source and continuity; (2) narrative clarity and pacing; (3) stanza form, meter and rhyme; (4) literary language, humor and oral performance. A five-stanza revision may receive one integrated review checking all four. An agent's self-evaluation is not equivalent to independent editorial review.
 
@@ -81,4 +81,4 @@ GitHub files are durable memory; ephemeral AI context is not. Keep **one concise
 
 ## 8. Acceptance for this phase
 
-This charter and the episode register are **planning artifacts**. Completion here means the project's scope, exclusions, evidence hierarchy, unresolved questions and finite narrative beats are explicit and traceable to the existing corpus. It does **not** mean source collation is complete, the author has approved every choice, a final book outline exists or any new verse has been authorized.
+The charter establishes the **purpose and form of the poem**. The study guide gives us a **compact, source-aware memory of the relevant mythology**. The separate lookup index retains research provenance. None is a required-scene inventory, a completed manuscript collation or a final book outline. Publication and major artistic choices remain with the author.
