@@ -1,17 +1,19 @@
 # Editorial workbench
 
-The [Xibalba story](XIBALBA_EPISODES.md) is the starting point: a continuous prose account of the chosen narrative, from the first generation's ballgame through Xquic, the younger twins' trials and the final remembrance and ascent. **Read the story before the bookkeeping.**
+## Three documents, three purposes
 
-The companion [project charter](PROJECT_CHARTER.md) describes what the poem is for, what lies outside its scope, how we handle invention and source uncertainty, and the oral verse form we mean to preserve.
+**[Xibalba study guide](XIBALBA_EPISODES.md)** — Our Cliff Notes for the Xibalba-related portions of the *Popol Vuh*. A short, readable account of the characters, events, tricks and consequences. It is **deliberately compressed**, and it is *not* an exhaustive translation, an outline of the poem or a set of scenes the poem must cover.
 
-The **back half of the story document** contains a concordance of 49 persistent scene IDs and links to the historical corpus. It is there to help us navigate between the narrative, its witnesses and future poetry; it is not meant to be read as the story. Numbering records the history of decisions, not a required chapter sequence.
+**[Editorial charter](PROJECT_CHARTER.md)** — What *The Twins of Xibalba* is: an original English narrative poem about the Hero Twins and the underworld, using the nine-line stanza structure and recurring Xibalba refrain inherited from our Tennyson-inspired first edition. It records the artistic aims and approach to sources and invention.
 
-## How we will use these documents
+**[Source lookup index](XIBALBA_SOURCE_INDEX.md)** — The historical concordance and its 49 stable research IDs, printed-source locations, coverage labels and interpretive caveats. Use it to go deeper when a particular detail matters. **Its rows are not poetic beats or mandatory scenes.**
 
-First, agree on the story and its boundaries. Then assign narrative weight to each scene, distinguishing passages that deserve full dramatic treatment from those that need only a transition. Next, map the seven existing books to the selected story and decide which material to keep, revise or replace. Only then choose book boundaries and stanza budgets.
+## Using the guide
 
-Each writing session should work from a **small scene packet**: a short charter summary, the relevant passage of the story, its scene and source IDs, known uncertainties, character/prop continuity, the neighboring accepted stanzas and the next scene's handoff. The full corpus stays available for targeted checking, not obligatory bulk reading. Keep one short decision log for consequential interpretive and artistic choices; normal drafting revisions belong in Git history.
+Begin with the story, not the table. Treat the study guide as a memory aid for choosing what to dramatize, what to evoke in a vignette and what to leave in the larger world beyond the poem. The poem's structure is a literary decision, not the output of checking off every source event.
 
-The authoritative research material is the [public-domain corpus](../corpus/README.md), including the [five source-comparison dossiers](../corpus/research/README.md). The published seven-book poem and existing website/artwork remain unchanged throughout this planning stage.
+When writing, bring a short charter digest, the relevant guide section, only the sources needed to resolve a consequential detail, a continuity note and a little neighboring accepted verse. Record major artistic or interpretive decisions in one place; ordinary wording iterations can live in Git history.
 
-**Status:** All editorial documents are proposals awaiting author approval. No new books or verses have been authorized or published.
+The [research corpus](../corpus/README.md) and [manuscript research dossiers](../corpus/research/README.md) remain available for verification. The original seven published books, website and artwork remain untouched.
+
+**Status:** Working editorial documents for author review; no second-edition verse has been approved or published.
